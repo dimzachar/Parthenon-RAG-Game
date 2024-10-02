@@ -305,7 +305,7 @@ This allows you to monitor the performance and usage of the RAG system in real-t
 
 ![Monitoring Dashboard](images/image-5.png)
 
-## 🖥️ Frontend
+## 💻 Frontend
 
 For more detailed information about the game, please see the [Frontend](frontend.md) documentation.
 
