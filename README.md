@@ -1,6 +1,28 @@
+<p align="center">
+  <img src="images/parthlogo.png" alt="Image description" width="300"/>
+
 # 🏛️ Parthenon: A Gamified Web3 Learning Experience
 
 > Note: This project was created as part of [LLM Zoomcamp course](https://github.com/DataTalksClub/llm-zoomcamp/tree/main).
+
+> Note: Listen to an overview created by [NotebookLM](https://notebooklm.google/) 
+
+<video controls>
+  <source src="overview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+If you like this project, please consider giving it a ⭐️ **star** to help others discover it, or 🍴 **fork** it to contribute!
+
+[![GitHub Stars](https://img.shields.io/github/stars/dimzachar/Parthenon-RAG-Game.svg?style=social)](https://github.com/dimzachar/Parthenon-RAG-Game/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/dimzachar/Parthenon-RAG-Game.svg?style=social)](https://github.com/dimzachar/Parthenon-RAG-Game/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/dimzachar/Parthenon-RAG-Game.svg)](https://github.com/dimzachar/Parthenon-RAG-Game/issues)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dimzachar/Parthenon-RAG-Game/issues)
+
+</p>
+
+## Overview
 
 Parthenon is an immersive 2D top-down pixel-art game that incorporates a RAG system, allowing players to have dynamic, knowledge-based interactions while exploring the virtual world. Players learn about [Movementlabs](https://movementlabs.xyz/), a Move-based blockchain network, and its ecosystem through engaging NPC interactions.
 
@@ -356,7 +378,11 @@ npm run dev
 
 The `InteractionPopup` uses FAQ from the ground truth, where you can click on them and it pre-fills the chat.
 
-## 🤝 Contributing
+## 🤝 FAQ
+
+For answers to commonly asked questions, please see the [FAQ document](faq.md).
+
+## 🙌 Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
