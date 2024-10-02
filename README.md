@@ -53,8 +53,9 @@ The core challenge is creating an end-to-end RAG application that seamlessly int
 6. [Using the Application](#using-the-application)
 7. [Monitoring](#monitoring)
 8. [Frontend](#-frontend)
-9. [Contributing](#-contributing)
-10. [License](#-license)
+9. [FAQ](#-faq)
+10. [Contributing](#-contributing)
+11. [License](#-license)
 
 ## 🏗️ Project Architecture & Technologies
 
