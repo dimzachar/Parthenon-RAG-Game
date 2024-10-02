@@ -1,0 +1,7 @@
+[
+    {
+        "title": "Infinite Seas - \ud83d\udcdcversion-history",
+        "url": "",
+        "html": "@Playtester @First99 @OnchainChads Our first update for sui version is here (https://game.sui.infiniteseas.io/) - we want to keep iterating from your feedback, please try out the new update and let us know anything you want us to improve :NM_peepoPirate: \n\n**Infinite Seas release note v0.01**\nChanges:\n- **Better sailing sync on first try** \u2013 While still in progress, you should notice improved synchronization during sailing. Some random placements may occur, but they usually correct with a refresh, action or hard refresh.\n- **Fixed illegal sail duration** \u2013 This issue has been resolved for most cases, ensuring more accurate gameplay timings.\n- **Daily quest PvP points** \u2013 PvP points for daily quests are now working as intended.\n- ** PvE 1v4 bug** \u2013 We\u2019ve fixed a major bug in the Smart Contract, correcting the battle logic for battle to not make PvE ships overpowered.\n- **Less lag on screen zoom out** \u2013 Performance has been optimized, reducing lag when zooming out on screen.\n- **New PvE encounters **\u2013 After completing a PvE event, a new PvE will now spawn in the same general area for more continuous gameplay.\n\nNext patch will be this next week during the weekday - it'll look deeper into sailing sync (for more cases - current ones might have still some issues) and also fix tons of small bugs - v0.01's focus was to fix mostly the sailing issues and any major SC issue."
+    }
+]

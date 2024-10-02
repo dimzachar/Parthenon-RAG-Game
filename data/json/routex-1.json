@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Contributing | Route-X",
+    "url": "https://routex.gitbook.io/route-x/contributing",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nContributing\nPrevious\nSupporting Resources"
+  },
+  {
+    "title": "Supporting Resources | Route-X",
+    "url": "https://routex.gitbook.io/route-x/supporting-resources",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nSupporting Resources\nPrevious\nRoadmap\nNext\nContributing"
+  },
+  {
+    "title": "Roadmap | Route-X",
+    "url": "https://routex.gitbook.io/route-x/roadmap",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nRoadmap\n\ntestnet contract deployed - May 2024\n\ntestnet frontend (web) beta - Jun 2024\n\ntestnet frontend (web)  - Jul 2024\n\nAPI - Aug 2024\n\nPrevious\nFAQs\nNext\nSupporting Resources\n\nLast updated 3 months ago"
+  },
+  {
+    "title": "FAQs | Route-X",
+    "url": "https://routex.gitbook.io/route-x/faqs",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nFAQs\nPrevious\nAPI Documentation\nNext\nRoadmap"
+  },
+  {
+    "title": "API Documentation | Route-X",
+    "url": "https://routex.gitbook.io/route-x/api-documentation",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nAPI Documentation\nPrevious\nUser Guide\nNext\nFAQs"
+  },
+  {
+    "title": "User Guide | Route-X",
+    "url": "https://routex.gitbook.io/route-x/user-guide",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nUser Guide\n\nHow to access and use liquidity\n\nManaging and optimizing liquidity usage\n\nBest practices for liquidity providers\n\nPrevious\nFeatures\nNext\nAPI Documentation\n\nLast updated 3 months ago"
+  },
+  {
+    "title": "Features | Route-X",
+    "url": "https://routex.gitbook.io/route-x/features",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nFeatures\n\nAdvanced Liquidity Solutions\n\nRouteX aggregates liquidity from various sources on the Movement blockchain, ensuring users can always find competitive rates and deep liquidity pools.\n\nThis aggregation helps mitigate the common issue of fragmented liquidity in decentralized environments, making it easier for users to execute large orders without significant price impacts.\n\nOptimized Trading Experience\n\nBy consolidating trading activities through a single interface, RouteX offers a streamlined and intuitive trading experience.\n\nUsers benefit from a simplified process that combines visibility into multiple liquidity pools and the ability to execute trades at the most favorable prices, all within a few clicks.\n\nEnhanced Interoperability\n\nRouteX is built for interoperability, functioning seamlessly with various DeFi applications on the Movement blockchain. This flexibility supports financial activities ranging from token swaps to complex derivatives, catering to diverse user needs.\n\nRobust Security Protocols\n\nSecurity is a top priority for RouteX, implementing stringent measures to protect transactions and data. The platform's infrastructure prevents common DeFi threats, ensuring a safe, reliable trading environment.\n\nCommunity-Driven Development\n\nRouteX emphasizes a community-centric approach, actively engaging with users and developers to gather feedback and implement improvements. This ensures it evolves according to community needs and current market dynamics.\n\nPrevious\nArchitecture\nNext\nUser Guide\n\nLast updated 3 months ago"
+  },
+  {
+    "title": "Architecture | Route-X",
+    "url": "https://routex.gitbook.io/route-x/architecture",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nArchitecture\n\nExplanation of the liquidity aggregation system\n\nThe Route-X API , is a cutting-edge discovery and routing algorithm, which offers asset exchanges at the best rates on the market. Route-X API finds the most efficient paths for a token swap, able to split between different protocols and even different market depths in within one protocol in the shortest possible time.\n\nTechnical description of ladder-like liquidity aggregation\n\nPrevious\nGetting Started\nNext\nFeatures\n\nLast updated 3 months ago"
+  },
+  {
+    "title": "Getting Started | Route-X",
+    "url": "https://routex.gitbook.io/route-x/getting-started",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nGetting Started\n\nPrerequisites for using RouteX\n\nHow to set up and start using RouteX\n\nPrevious\nIntroduction\nNext\nArchitecture\n\nLast updated 3 months ago"
+  },
+  {
+    "title": "Introduction | Route-X",
+    "url": "https://routex.gitbook.io/route-x",
+    "html": "Route-X\nSearch\nCtrl + K\nIntroduction\nGetting Started\nArchitecture\nFeatures\nUser Guide\nAPI Documentation\nFAQs\nRoadmap\nSupporting Resources\nContributing\nPowered by GitBook\nIntroduction\n\nOverview of RouteX\n\nRouteX stands poised to redefine decentralized finance (DeFi) on the Movement blockchain by providing a comprehensive liquidity aggregation platform.\n\nAs a central hub for decentralized exchange (DEX) activities, RouteX aims to enhance trading efficiency and accessibility by leveraging the unique capabilities of the Movement blockchain's high-performance technology.\n\nRouteX, a liquidity aggregator, integrates with multiple DEXs across the Movement blockchain. It facilitates asset flow and offers users optimal trading conditions by searching the network for the best prices and liquidity.\n\nWith a focus on user experience and market efficiency, RouteX ensures that both individual traders and institutional participants have access to a broad spectrum of trading options.\n\n\nPurpose and benefits of using RouteX on the Movement blockchain\n\nNext\nGetting Started\n\nLast updated 3 months ago"
+  }
+]

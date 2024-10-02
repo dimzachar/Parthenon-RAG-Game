@@ -1,0 +1,43 @@
+{
+  "total_questions": 1950,
+  "Text Search": {
+    "doc_hit_rate": 0.8348717948717949,
+    "doc_mrr": 0.6939230769230771,
+    "chunk_hit_rate": 0.8179487179487179,
+    "chunk_mrr": 0.6682564102564106,
+    "total_time": 123.99530243873596,
+    "avg_query_time": 0.06322690401321802,
+    "min_query_time": 0.0,
+    "max_query_time": 0.09896731376647949
+  },
+  "Text Vector KNN": {
+    "doc_hit_rate": 0.7056410256410256,
+    "doc_mrr": 0.5285897435897455,
+    "chunk_hit_rate": 0.6641025641025641,
+    "chunk_mrr": 0.48705982905983086,
+    "total_time": 291.2687659263611,
+    "avg_query_time": 0.1485579142203698,
+    "min_query_time": 0.11675143241882324,
+    "max_query_time": 0.7138471603393555
+  },
+  "Hybrid Search": {
+    "doc_hit_rate": 0.8358974358974359,
+    "doc_mrr": 0.6971025641025641,
+    "chunk_hit_rate": 0.8194871794871795,
+    "chunk_mrr": 0.6716495726495728,
+    "total_time": 332.7385301589966,
+    "avg_query_time": 0.169637068601755,
+    "min_query_time": 0.09606122970581055,
+    "max_query_time": 0.438673734664917
+  },
+  "Hybrid Search RRF": {
+    "doc_hit_rate": 0.8497435897435898,
+    "doc_mrr": 0.6489401709401718,
+    "chunk_hit_rate": 0.8328205128205128,
+    "chunk_mrr": 0.615880341880343,
+    "total_time": 522.4767971038818,
+    "avg_query_time": 0.2671826505661011,
+    "min_query_time": 0.21455717086791992,
+    "max_query_time": 0.5168797969818115
+  }
+}

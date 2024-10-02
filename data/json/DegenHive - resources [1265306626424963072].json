@@ -1,0 +1,47 @@
+[
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "# Welcome to the DegenHive Resources Channel! \ud83d\udcda  \ud83c\udfae \n\n*DegenHive is a DeFi-powered on-chain social graph designed to launch and manage AI characters as upgradable NFTs built with MoveVM.* \n\nIt is set to go live on the **Sui Network** and partially on **Movement's M2 chain**."
+    },
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "------------------ ------------------ ------------------ ------------------ ------------------\n\n\n## What is a HiveProfile? \n\nEach HiveProfile serves as a unique on-chain identity for users within DegenHive's social graph. Users can:\n\n- Subscribe to other users\n- Manage and trade AI character NFTs\n- Install dapps\n- Participate in protocol governance to earn staking yield (degenSUI and HIVE)"
+    },
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "------------------ ------------------ ------------------ ------------------ ------------------\n\n\n## What is HiveChronicle?\nHiveChronicle is a Proof-Of-Concept SocialFi dapp that comes pre-installed with every HiveProfile on DegenHive. It allows users to make on-chain posts (buzzes) and farm $BEE tokens based on engagement earned via an entropy points system.\n\nThe HiveChronicle dapp is designed to facilitate user discovery and adoption of DegenHive's social graph and is accessible at https://www.degenhive.ai/"
+    },
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "------------------ ------------------ ------------------ ------------------ ------------------\n\n\n\n## Understanding the DegenHive Economy\nDegenHive implements a two-token economy designed to facilitate governance and drive adoption of its social graph:\n\n- **HIVE: **The governance token and primary social currency of the platform. HIVE is a deflationary asset required for participating in protocol governance and engaging within the ecosystem.\n- **BEE: **The platform\u2019s native meme token with a 3% burn tax on transfers. BEE is designed to incentivize active participation and engagement across the social graph."
+    },
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "------------------ ------------------ ------------------ ------------------ ------------------\n\n\n\n## Supported DeFi Primitives\nDegenHive supports the following key primitives:\n\n- **AMM Pools:** Including passive concentrated liquidity, stableswap, and weighted pools.\n- **Liquid Staking:** Users can stake SUI for degenSUI, the protocol's native liquid staking implementation.\n\nAll protocol fees are used to buy back SUI, which is then staked for degenSUI. This degenSUI is distributed among users participating in protocol governance. DeFi primitives are accessible at https://defi.degenhive.ai/"
+    },
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "------------------ ------------------ ------------------ ------------------ ------------------\n\n## Launching AI Characters as NFTs via Lock-and-Burn Model\n\nAnyone can launch NFTs on DegenHive's social graph by winning a time-stream auction through bidding SUI tokens. \n\nSUI collected via time-stream auctions is added to SUI-HIVE and SUI-BEE AMM Pools, with LP tokens burned to perpetually lock liquidity, ensuring the sustainability of the DegenHive economy over time."
+    },
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "------------------ ------------------ ------------------ ------------------ ------------------\n\n## Participating in DegenHive Governance\n\nTo participate in DegenHive governance, users need to deposit HIVE tokens in AI Character NFTs and stake them for 3, 6, 9, or 12 months. Based on voting power, users earn degenSUI and HIVE tokens as staking yield. AI character NFTs can be bought by users or rented for participation."
+    },
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "------------------ ------------------ ------------------ ------------------ ------------------\n\n\n## Why Protocol Governance Matters\nDegenHive is the first on-chain social graph with NFTs-driven governance. Governance permissions are required for the following features:\n\n1. Launch dapps, which can be installed by any user (represented by HiveProfile) on the social graph.\n2. Whitelist validators for staking SUI via the protocol's liquid staking layer.\n3. Update HIVE emissions across supported AMM pools.\n4. Access HIVE and BEE tokens within the protocol treasury.\n5. Update key parameters across the protocol."
+    },
+    {
+        "title": "DegenHive - \ud83d\udcda\uff5cresources",
+        "url": "",
+        "html": "------------------ ------------------ ------------------ ------------------ ------------------\n\n** \ud83d\udd17 Important Links \ud83d\udd17**\n\n\n- SocialFi Dapp : https://degenhive.ai/ \n- DeFi Dapp : https://defi.degenhive.ai/ \n- Docs : https://guide.degenhive.ai/\n\n- Airdrop registeration for Terra users: https://airdrop.degenhive.ai/ \n\n- Apply to get featured on the main feed (and win HIVE rewards) : https://forms.gle/v1MgFxcF2e9iUzcg6\n- Galxe Quest : https://app.galxe.com/quest/DegenHive\n\n** \ud83d\udd17 Learn about our Upcoming Fair Launch \ud83d\udd17**\n- Fair Launch for BEE and HIVE : https://guide.degenhive.ai/introduction/fair-launch\n-"
+    }
+]

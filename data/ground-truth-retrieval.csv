@@ -1,0 +1,1951 @@
+question,doc_id,chunk_id
+What type of protocol is Avitus described as?,a88e0ac9,a88e0ac9_0
+What unique feature does Avitus offer regarding asset utilization for trading?,a88e0ac9,a88e0ac9_0
+Where can users test the features of Avitus?,a88e0ac9,a88e0ac9_0
+What is the link to the Avitus Twitter account?,df283f30,df283f30_0
+Where can I find the Avitus Brand Kit?,df283f30,df283f30_0
+How can I join the Avitus Community Program?,df283f30,df283f30_0
+What is the name of the initiative associated with Avitus?,f116f83a,f116f83a_0
+How does Avitus propose to influence markets?,f116f83a,f116f83a_0
+What is the website associated with movement labs mentioned in the document?,f116f83a,f116f83a_0
+"What role is responsible for handling tech, VMs, and scaling processes at Avitus?",7b7b96bb,7b7b96bb_0
+Who are the individuals responsible for marketing and community initiatives within Avitus?,7b7b96bb,7b7b96bb_0
+What is the role of the community caretakers in the Avitus team structure?,7b7b96bb,7b7b96bb_0
+What title is given to individuals who complete all on-chain tasks within the Avitus community?,a6dcb620,a6dcb620_0
+Which community role is specifically reserved for those who create original memes for Avitus?,a6dcb620,a6dcb620_0
+What role is automatically granted to individuals who boost the server in the Avitus community?,a6dcb620,a6dcb620_0
+What is the requirement to reach Level 5 in the Avitus community?,9523ec58,9523ec58_0
+How can a user reach Level 10 within the Avitus interaction roles?,9523ec58,9523ec58_0
+What specific interaction is needed to achieve Level 20 in the Avitus community?,9523ec58,9523ec58_0
+What achievement is granted after reacting to 30 messages?,bf144bb6,bf144bb6_0
+How many messages must a user react to in order to receive the Reactive role for the first time?,bf144bb6,bf144bb6_0
+What is the total number of reactions needed to achieve the highest level of Reactive role?,bf144bb6,bf144bb6_0
+What happens when you invite three members to the Avitus Discord server?,c6939cbd,c6939cbd_0
+How many members do you need to invite to unlock recognition at the five-member level?,c6939cbd,c6939cbd_0
+What is the maximum number of members you can invite to receive recognition according to the document?,c6939cbd,c6939cbd_0
+What type of content can be found in the #community-news channel?,94e6076f,94e6076f_0
+What is the primary purpose of the #galxe-help-desk channel?,94e6076f,94e6076f_0
+What kind of activity is encouraged in the #meme-movers channel?,94e6076f,94e6076f_0
+What was the amount raised in Movement Labs' Series A funding round?,d3226301,d3226301_0
+What is the primary focus of Movement Labs in terms of geographic expansion?,d3226301,d3226301_0
+What type of technology is Movement Labs developing for Ethereum?,d3226301,d3226301_0
+What are the author’s views on the relationship between the community and insiders as presented in the article?,06a1c4cf,06a1c4cf_0
+"What type of content does the article cover, based on the provided document?",06a1c4cf,06a1c4cf_0
+Does the document indicate any responsibility or liability for errors of fact or omission?,06a1c4cf,06a1c4cf_0
+What is an Actively Validated Service (AVS) and what are its key components according to the EigenLayer documentation?,5fc9a318,5fc9a318_0
+How do operators register with the EigenLayer in the context of the Incredible Squaring AVS?,5fc9a318,5fc9a318_0
+What is the process by which operators sign the result of the squaring operation in the Incredible Squaring AVS?,5fc9a318,5fc9a318_0
+What is the role of the Aggregator in the Incredible Squaring AVS lifecycle flow?,5fc9a318,5fc9a318_1
+What are the main setup steps required to run the Incredible Squaring AVS demo?,5fc9a318,5fc9a318_1
+How does the modified AVS generate randomness for the Gorilla racing game using the last digit of a block hash?,5fc9a318,5fc9a318_1
+What is the condition used to check if a challenge response is correct in the code provided?,5fc9a318,5fc9a318_2
+How often does the aggregator send a new task to operators?,5fc9a318,5fc9a318_2
+What modification is suggested for the operator.go code to generate a random number instead of squaring a number?,5fc9a318,5fc9a318_2
+"What is the purpose of the random number generated in the context of a game, as described in the document?",5fc9a318,5fc9a318_3
+What modifications need to be made to the IIncredibleSquaringTaskManagerTaskResponse struct to include additional information about the block hash?,5fc9a318,5fc9a318_3
+What API endpoint is used to retrieve blocks by height from the Movement network?,5fc9a318,5fc9a318_3
+What URL is used to fetch the block hash by height from the Aptos API?,5fc9a318,5fc9a318_4
+What should be done if an error occurs while reading the response body after fetching the block?,5fc9a318,5fc9a318_4
+What suggestion is given for improving the random number generator in a dApp to make it less predictable?,5fc9a318,5fc9a318_4
+"What are the key dates for the Battle of Olympus Hackathon, including registration and competition timelines?",0ba80c98,0ba80c98_0
+What are the categories in which developers can compete during the Battle of Olympus?,0ba80c98,0ba80c98_0
+"What types of roles can non-developer participants join in the Battle of Olympus, and what contributions can they make?",0ba80c98,0ba80c98_0
+What are the dates for the naming of winners in the Battle of Olympus?,0ba80c98,0ba80c98_1
+What is the unique feature of M2 in relation to Ethereum?,0ba80c98,0ba80c98_1
+What are participants encouraged to do on the Movements testnet before deploying on the mainnet?,0ba80c98,0ba80c98_1
+What are the main features of the Movement Network's modular stack?,e915df55,e915df55_0
+How does the Move language improve security in smart contract development compared to Solidity?,e915df55,e915df55_0
+What are the default options for custom Data Availability and sequencing in the Movement Rollups?,e915df55,e915df55_0
+What is the role of the M1 decentralized shared sequencer in Movement Network's cross-chain atomic transactions?,e915df55,e915df55_1
+How do fast-finality Move Rollups ensure the confirmation of transaction correctness?,e915df55,e915df55_1
+What are the advantages of using atomic cross-chain transactions compared to traditional bridging methods in DeFi applications?,e915df55,e915df55_1
+What criteria must be met for a state transition to be finalized on a fast-finality Move rollup?,e915df55,e915df55_2
+How does the verification process of state transitions in a fast-finality Move Rollup ensure security against malicious actors?,e915df55,e915df55_2
+What is the main difference in transaction finalization time between a fast-finality Move Rollup and an optimistic rollup?,e915df55,e915df55_2
+What is the primary goal of Movement Labs as mentioned in the document?,e915df55,e915df55_3
+What technology does Movement aim to facilitate the adoption of across blockchain ecosystems?,e915df55,e915df55_3
+What type of rollups can developers launch easily with Movement?,e915df55,e915df55_3
+What are the at least four new assets that Frax will be introducing to Movement?,6b668e02,6b668e02_0
+How will Frax's deployment on Movement enhance the capabilities of Movement DeFi apps?,6b668e02,6b668e02_0
+What are the expected benefits of using the Move programming language compared to Solidity in terms of security?,6b668e02,6b668e02_0
+What is the primary goal of Movement Labs as described in the document?,6b668e02,6b668e02_1
+Who are the co-founders of Movement Labs and what year was it founded?,6b668e02,6b668e02_1
+What unique technology does Movement Labs integrate with Ethereum to create its Layer 2 solution?,6b668e02,6b668e02_1
+What is the typical settlement time for ZK-rollups and optimistic rollups according to the document?,6d2b7a6a,6d2b7a6a_0
+How does the complexity of implementation for fast-finality settlement compare to ZK-rollups and optimistic rollups?,6d2b7a6a,6d2b7a6a_0
+What mechanism secures soft-finality in fast-finality settlement and how does its security level compare to optimistic rollups?,6d2b7a6a,6d2b7a6a_0
+What is the role of validators in the Proof of Stake consensus protocol of Ethereum?,6d2b7a6a,6d2b7a6a_1
+How is the process of block finalization defined in the Ethereum network?,6d2b7a6a,6d2b7a6a_1
+What are the consequences for dishonest validators within the Ethereum PoS mechanism?,6d2b7a6a,6d2b7a6a_1
+What is the minimum proportion of validators that must attest for a block to prevent it from being finalized as invalid?,6d2b7a6a,6d2b7a6a_2
+How much total investment in USD would an attacker need to control 1/3 of the Ethereum validators?,6d2b7a6a,6d2b7a6a_2
+What is the primary difference between the security of Ethereum and the security of smart contracts according to the document?,6d2b7a6a,6d2b7a6a_2
+What are the trust assumptions associated with ZK-rollups in terms of proof generation and verification?,6d2b7a6a,6d2b7a6a_3
+How long does it take for an L1 transaction on Ethereum to finalize a ZK-rollup block?,6d2b7a6a,6d2b7a6a_3
+What is required for an attacker to successfully tamper with the result of the VerifierK contract in a ZK-rollup scenario?,6d2b7a6a,6d2b7a6a_3
+What is the time duration of the challenge window for optimistic rollups?,6d2b7a6a,6d2b7a6a_4
+How does the StakingK contract verify the attestations from validators?,6d2b7a6a,6d2b7a6a_4
+What is the assumed maximum proportion of Byzantine L2 validators in the fast-finality settlement protocol?,6d2b7a6a,6d2b7a6a_4
+What is required for an attacker to create an invalid L2-block?,6d2b7a6a,6d2b7a6a_5
+How does the security of fast-finality settlement rely on the L2 validators?,6d2b7a6a,6d2b7a6a_5
+What is the significance of controlling 2/3 of Ethereum validators' total stake in the context of L2-block verification?,6d2b7a6a,6d2b7a6a_5
+What is the time to finality for ZK-proof and fraud proof rollups mentioned in the document?,5c9d7d48,5c9d7d48_0
+How do postconfirmations provide guarantees about the result of a transaction on Layer 2?,5c9d7d48,5c9d7d48_0
+What is the primary difference between preconfirmations and postconfirmations as explained in the document?,5c9d7d48,5c9d7d48_0
+What is the role of validators in the postconfirmation process according to the document?,5c9d7d48,5c9d7d48_1
+How does the StakingK contract contribute to the security and verification of new blocks?,5c9d7d48,5c9d7d48_1
+What incentive do validators have to attest honestly to a block's correctness?,5c9d7d48,5c9d7d48_1
+What role do validators have in determining the number of active validators in the attestation process?,5c9d7d48,5c9d7d48_2
+How does the slashing mechanism impact the stakes of validators who attest negatively?,5c9d7d48,5c9d7d48_2
+What is the purpose of requiring validators to provide a proof that they have re-computed the new block?,5c9d7d48,5c9d7d48_2
+How do validators provide confidence in the correctness of a new block/state?,5c9d7d48,5c9d7d48_3
+What is the benefit of using a hash function in the process described?,5c9d7d48,5c9d7d48_3
+What reward difference exists between validators who submit attestations without proof and those who provide verifiable work?,5c9d7d48,5c9d7d48_3
+What are the specific properties that Movement Labs seeks to achieve beyond decentralization in their consensus solution?,26391d6a,26391d6a_0
+How do DAG-based BFT consensus protocols compare to chain-based BFT protocols in terms of throughput and latency?,26391d6a,26391d6a_0
+What mechanisms do chain-based BFT protocols include to ensure fault tolerance and network integrity?,26391d6a,26391d6a_0
+What is the significance of the separation of data dissemination and consensus in DAG BFT protocols?,26391d6a,26391d6a_1
+Which DAG BFT protocol was the first to introduce a randomized round-based approach with optimistic responsiveness?,26391d6a,26391d6a_1
+What innovations have recent DAG-BFT protocols made to improve latency and reduce message delays?,26391d6a,26391d6a_1
+What is the main difference between certified and uncertified DAGs in terms of message delays required to complete a round?,26391d6a,26391d6a_2
+How does the process of certifying a block contribute to preventing equivocation in a consensus algorithm?,26391d6a,26391d6a_2
+"What is the role of the anchor block in the sequence of transactions within a DAG, and what are the requirements for finalizing it?",26391d6a,26391d6a_2
+What happens to a block that obtains support from 2+1 validators in the subsequent round in the Mysticeti protocol?,26391d6a,26391d6a_3
+How does Shoal protocol address slow leaders in terms of leader reputation and what is the fallback mechanism used?,26391d6a,26391d6a_3
+"What is the average number of rounds to finality for the Mysticeti and Shoal protocols, and how is pipelining used to reduce this number?",26391d6a,26391d6a_3
+"What are the main techniques evaluated in the document that are employed by Mysticeti, Shoal++, and Hotstuff?",26391d6a,26391d6a_4
+How does the commit delay of Mysticeti compare to that of Shoal++ and Hotstuff?,26391d6a,26391d6a_4
+What role does leader reputation play in the context of the protocols discussed in the document?,26391d6a,26391d6a_4
+"What are the throughput rates for Mysticeti, Shoal++, and Hotstuff as mentioned in the document?",26391d6a,26391d6a_5
+How does the latency of Mysticeti and Shoal++ compare to that of Hotstuff at peak throughput?,26391d6a,26391d6a_5
+What innovations are mentioned that contribute to the performance improvements of DAG-based BFT consensus protocols?,26391d6a,26391d6a_5
+What is the deadline for the Battle of Olympus hackathon for developers?,2f3bdc3f,2f3bdc3f_0
+What are the main roles within Movement guilds mentioned in the document?,2f3bdc3f,2f3bdc3f_0
+How can participants earn trophies in the Gmove Campaign?,2f3bdc3f,2f3bdc3f_0
+What type of blockchains does Movement Network focus on?,2f3bdc3f,2f3bdc3f_1
+What programming language is Movement Network facilitating the adoption of across blockchain ecosystems?,2f3bdc3f,2f3bdc3f_1
+What is the primary goal of Movement in relation to blockchain interoperability?,2f3bdc3f,2f3bdc3f_1
+What is the date when the Movement public testnet went live?,c9fcfbc1,c9fcfbc1_0
+"What is the title of the tutorial published on June 6, 2024?",c9fcfbc1,c9fcfbc1_0
+"What partnership was announced in relation to Movement on August 15, 2024?",c9fcfbc1,c9fcfbc1_0
+What are the two core smart contracts that make up the BRKT protocol?,97ce7f4a,97ce7f4a_0
+How does the INVKR Oracle enhance the functionality of the BRKT smart contracts?,97ce7f4a,97ce7f4a_0
+What steps must a user take to register for a competition managed by BRKT?,97ce7f4a,97ce7f4a_0
+"What types of tournaments can users create with BRKT, and what is the maximum number of teams allowed in a bracket?",586336b6,586336b6_0
+What was the total amount bet on sports in the U.S. in 2023 and how much was bet specifically on the Super Bowl in Q1 2024?,586336b6,586336b6_0
+How does Movement enhance the performance and security of the BRKT app compared to other blockchain platforms?,586336b6,586336b6_0
+When is the testnet for Movement expected to be released?,586336b6,586336b6_1
+What features are expected to be added to BRKT in 2024?,586336b6,586336b6_1
+How can users prove the outcomes of live events on the BRKT platform?,586336b6,586336b6_1
+What kind of characters does DegenHive launch and manage as NFTs?,bbaccf1b,bbaccf1b_0
+On which networks is DegenHive set to go live?,bbaccf1b,bbaccf1b_0
+What technology is DegenHive built with to facilitate its AI characters?,bbaccf1b,bbaccf1b_0
+What functionalities can users manage through their HiveProfile in DegenHive?,a45c5cf8,a45c5cf8_0
+How can users earn staking yield within the DegenHive platform?,a45c5cf8,a45c5cf8_0
+What types of NFTs can users manage and trade with their HiveProfile?,a45c5cf8,a45c5cf8_0
+What functionality does HiveChronicle provide to users on DegenHive?,a45c5cf8,a45c5cf8_0
+How can users earn $BEE tokens through HiveChronicle?,a45c5cf8,a45c5cf8_0
+Where can users access the HiveChronicle dapp?,a45c5cf8,a45c5cf8_0
+What is the primary purpose of the HIVE token in the DegenHive economy?,a45c5cf8,a45c5cf8_0
+What tax is applied to transfers of the BEE token?,a45c5cf8,a45c5cf8_0
+How does the BEE token encourage participation in the DegenHive ecosystem?,a45c5cf8,a45c5cf8_0
+What types of AMM Pools does DegenHive support?,a45c5cf8,a45c5cf8_0
+How is the degenSUI distributed among users?,a45c5cf8,a45c5cf8_0
+What is the purpose of the fees collected by the DegenHive protocol?,a45c5cf8,a45c5cf8_0
+What model is used for launching AI characters as NFTs on DegenHive?,a45c5cf8,a45c5cf8_0
+How are SUI tokens utilized in the time-stream auctions on DegenHive?,a45c5cf8,a45c5cf8_0
+What happens to the LP tokens collected from the auctions on DegenHive?,a45c5cf8,a45c5cf8_0
+What are the options for the duration users can stake HIVE tokens in AI Character NFTs?,a45c5cf8,a45c5cf8_0
+What types of tokens can users earn as staking yield in DegenHive governance?,a45c5cf8,a45c5cf8_0
+"Can users rent AI character NFTs, and if so, for what purpose?",a45c5cf8,a45c5cf8_0
+What governance permissions are required to launch dapps on DegenHive?,a45c5cf8,a45c5cf8_0
+How can users whitelist validators for staking SUI through the protocol?,a45c5cf8,a45c5cf8_0
+Which tokens can be accessed within the DegenHive protocol treasury?,a45c5cf8,a45c5cf8_0
+What is the URL for registering for the airdrop for Terra users?,a45c5cf8,a45c5cf8_0
+Where can I find the documentation for DegenHive?,a45c5cf8,a45c5cf8_0
+How can I apply to get featured on the main feed to win HIVE rewards?,a45c5cf8,a45c5cf8_0
+What is the purpose of the Galxe quests in the DegenHive onboarding process?,b6a96424,b6a96424_0
+"What two phases are involved in the launch process of DegenHive, and what are their purposes?",b6a96424,b6a96424_0
+How can content creators have their work featured on the DegenHive main feed?,b6a96424,b6a96424_0
+What is the formula used to calculate the borrowing power of a vault in Echelon?,f2ca03d0,f2ca03d0_0
+What parameters determine the conditions under which a vault becomes liquidatable?,f2ca03d0,f2ca03d0_0
+What are the market addresses for zUSDT and zUSDC in Echelon?,f2ca03d0,f2ca03d0_0
+What are the restrictions outlined in the Terms of Service for users in specific geolocations?,119b9d6f,119b9d6f_0
+What documentation is available for developers using the Echelon SDKs?,119b9d6f,119b9d6f_0
+What is the purpose of the Developer Documentation regarding running a Liquidator Bot?,119b9d6f,119b9d6f_0
+What is the mainnet address provided in the document?,eba98c30,eba98c30_0
+Where can developers find the SDK for Echelon?,eba98c30,eba98c30_0
+When was the content last updated?,eba98c30,eba98c30_0
+What is the purpose of geoblocking in Echelon's services?,58d7accd,58d7accd_0
+Which countries are explicitly mentioned as prohibited for using Echelon's smart contracts?,58d7accd,58d7accd_0
+How does Echelon verify that users agree to their terms of service regarding location?,58d7accd,58d7accd_0
+Who conducted the audits for Echelon V1?,32d8a7ee,32d8a7ee_0
+What are the dates of the audit reports for Echelon V1?,32d8a7ee,32d8a7ee_0
+What are the file sizes of the audit reports mentioned in the document?,32d8a7ee,32d8a7ee_0
+What is required for a code upgrade or treasury transaction to be approved in the Echelon system?,40870ca6,40870ca6_0
+How does the Echelon operational security implement two-factor authentication to protect contributor accounts?,40870ca6,40870ca6_0
+What types of risks do auditors check for when auditing the Echelon codebase?,40870ca6,40870ca6_0
+What are the key considerations for introducing new tokens as collateral in Echelon V1?,5b448123,5b448123_0
+How does Echelon V1 mitigate the insolvency risk associated with listing riskier tokens?,5b448123,5b448123_0
+"Who will initially oversee the introduction of new tokens into the Echelon ecosystem, and how will this responsibility change in the future?",5b448123,5b448123_0
+What circumstances trigger the liquidation process according to the document?,582c205b,582c205b_0
+How does the health factor relate to a borrower's collateral and loan value?,582c205b,582c205b_0
+What role do Oracle price feeds play in the liquidation process?,582c205b,582c205b_0
+What determines the risk of a loan in the Echelon system?,654cebb1,654cebb1_0
+How does the Liquidation Penalty affect the liquidation process in Echelon?,654cebb1,654cebb1_0
+What does a Health Factor below 1 indicate regarding an account's collateralization?,654cebb1,654cebb1_0
+What are the specific risk values associated with each asset in the Echelon Markets protocol?,0dd0ab68,0dd0ab68_0
+How does V1 enhance risk mitigation concerning asset collateralization during adverse market conditions?,0dd0ab68,0dd0ab68_0
+What are the Supply Caps and Borrow Caps in relation to the management of assets within Echelon Markets?,0dd0ab68,0dd0ab68_0
+What specific parameters does V1 introduce to facilitate the onboarding of high-risk assets in Echelon Markets?,47a518e4,47a518e4_0
+"How is the Liquidation Threshold calculated in Echelon Markets, and what risk does it indicate for loans?",47a518e4,47a518e4_0
+What is the role of the Health Factor in assessing account risk within the Echelon Markets protocol?,47a518e4,47a518e4_0
+What types of assets are considered more stable according to the Echelon risk management guidelines?,47a518e4,47a518e4_1
+How do market risks influence the risk parameters set by Echelon Markets?,47a518e4,47a518e4_1
+Where can one find up-to-date information about specific pools and their allowed criteria on the Echelon platform?,47a518e4,47a518e4_1
+What are the primary risks that can lead to bad debt for both the protocol and lenders?,d4358bc1,d4358bc1_0
+What issues can arise during the liquidation process that may contribute to bad debt?,d4358bc1,d4358bc1_0
+In what circumstances may bad debt be realized according to the document?,d4358bc1,d4358bc1_0
+What actions does Echelon take in the event of an oracle exploit?,e6191013,e6191013_0
+How does Echelon ensure the accuracy of price feeds used for its products?,e6191013,e6191013_0
+What are some types of oracles mentioned that Echelon relies on for asset pricing?,e6191013,e6191013_0
+What language are Echelon's smart contracts developed in?,d46c542e,d46c542e_0
+Who is conducting the audit of Echelon's smart contracts?,d46c542e,d46c542e_0
+What types of risks may arise from smart contract errors according to the document?,d46c542e,d46c542e_0
+What types of risks does Echelon attempt to minimize during protocol design?,70f625e3,70f625e3_0
+What specific user exposures to risks are outlined in the Echelon document?,70f625e3,70f625e3_0
+Does the Echelon documentation mention the standard risks associated with DeFi protocols?,70f625e3,70f625e3_0
+What chains can users bridge assets from using the LayerZero bridge to Aptos?,f5325348,f5325348_0
+What is the primary purpose of the Wormhole bridge mentioned in the document?,f5325348,f5325348_0
+What must users have to successfully complete a transaction using the LayerZero bridge?,f5325348,f5325348_0
+What percentage of all referees' points can users earn by sharing their referral link?,a7460fdc,a7460fdc_0
+How much of a boost do users receive on all lifetime points earned if their account is referred by another user?,a7460fdc,a7460fdc_0
+Where can a unique referral code be generated and entered?,a7460fdc,a7460fdc_0
+How are points issued to users of the Echelon protocol based on their lending and borrowing activity?,a721adfc,a721adfc_0
+What percentage of points will be earned from referrals in Echelon's points system?,a721adfc,a721adfc_0
+What are examples of custom actions mentioned that can provide a boost to base points issuance in Echelon?,a721adfc,a721adfc_0
+What are the two external exchange integrations currently leveraged by Echelon Swap for facilitating swaps?,6aa3a4df,6aa3a4df_0
+How does Thalaswap incentivize users to provide liquidity in its Automated Market Maker (AMM)?,6aa3a4df,6aa3a4df_0
+What feature does Econia offer to enhance the swapping experience on Echelon Swap?,6aa3a4df,6aa3a4df_0
+What distinguishes Isolated Markets from the global collateral pool in terms of asset availability?,18ae7afe,18ae7afe_0
+What are the two oracles supported for Isolated Markets?,18ae7afe,18ae7afe_0
+What feature allows for more aggressive parameters in Isolated Markets?,18ae7afe,18ae7afe_0
+What three major oracle sources does Echelon rely on for its loan origination and liquidation services?,4d3703e5,4d3703e5_0
+How does Echelon calculate the price of LSTs to enable a higher loan-to-value ratio in eMode?,4d3703e5,4d3703e5_0
+What fallback mechanism does Echelon use if its primary oracle providers go down?,4d3703e5,4d3703e5_0
+What is the base loan-to-value (LTV) ratio for zUSDT on Echelon V1?,625f73ab,625f73ab_0
+Which asset has a maximum LTV of 90% in Echelon V1?,625f73ab,625f73ab_0
+Are there any assets listed with a collateralization ratio of 30% in the document?,625f73ab,625f73ab_0
+What happens to borrow rates when utilization approaches the optimal rate (U_optimal)?,603966e3,603966e3_0
+What are the key parameters that influence the variable interest rate model for borrow rates?,603966e3,603966e3_0
+How does Echelon adjust its interest rates in scenarios like liquidity mining to balance borrowing costs?,603966e3,603966e3_0
+How is the supply rate determined in Echelon Markets?,edd0b184,edd0b184_0
+What factors affect the supply Annual Percentage Yield (APY)?,edd0b184,edd0b184_0
+Where can users find the most up-to-date information about the supply APY for each asset?,edd0b184,edd0b184_0
+What do lenders receive in return for contributing asset tokens to the lending pool?,5d90259e,5d90259e_0
+How is the amount a lender can redeem for their claim determined?,5d90259e,5d90259e_0
+What does the Supply APR indicate in the context of depositing an asset?,5d90259e,5d90259e_0
+What do borrowers need to provide in order to borrow asset tokens from a pair?,3ed96a8f,3ed96a8f_0
+How does Echelon handle deposit receipts compared to other protocols like Compound?,3ed96a8f,3ed96a8f_0
+What does the Borrow APR indicate in the context of the loan?,3ed96a8f,3ed96a8f_0
+What is the formula used to calculate interest in the borrow/lend market?,00b9f75e,00b9f75e_0
+How can borrowers correct an unhealthy Loan-To-Value (LTV) ratio?,00b9f75e,00b9f75e_0
+What does the Vault Account represent in the context of the pair's accounting system?,00b9f75e,00b9f75e_0
+What automated products are powered by the Borrow/Lend feature?,d06f0e2a,d06f0e2a_0
+What are the core concepts covered in the Borrow/Lend section?,d06f0e2a,d06f0e2a_0
+How do borrow rates and supply rates differ within the Borrow/Lend market?,d06f0e2a,d06f0e2a_0
+What programming language is Echelon written in?,4b545e98,4b545e98_0
+How does Echelon protect lenders from defaults and collateral volatility?,4b545e98,4b545e98_0
+What type of financial activities can users perform on Echelon V1?,4b545e98,4b545e98_0
+What is the mission of the Gorilla Moverz project?,69c761ef,69c761ef_0
+How does Gorilla Moverz seek to integrate with other projects or DAOs?,69c761ef,69c761ef_0
+What type of partnership does Gorilla Moverz look for in potential collaborators?,69c761ef,69c761ef_0
+What is the main mission of Movement as described in the document?,a563bf2d,a563bf2d_0
+What role do meetups play in the Movement community according to the content?,a563bf2d,a563bf2d_0
+How does Gorilla Lighthouse support individuals who want to host a meetup?,a563bf2d,a563bf2d_0
+What topic was discussed in Movecast Episode #8?,8268689f,8268689f_0
+Who was featured in Movecast Episode #6 regarding community design?,8268689f,8268689f_0
+What is the focus of Movecast Episode #5?,8268689f,8268689f_0
+What is the title of the project mentioned in the document?,0abfdbfc,0abfdbfc_0
+What upcoming feature is highlighted in the content?,0abfdbfc,0abfdbfc_0
+Which aspect of the Gorilla Moverz project is referred to as 'Coming soon!'?,0abfdbfc,0abfdbfc_0
+What role does Gorilla Moverz play within the Movement Labs community?,5a141825,5a141825_0
+How does Gorilla Moverz plan to represent its infrastructure on-chain?,5a141825,5a141825_0
+What type of partnerships is Gorilla Moverz looking to pursue in the Movement ecosystem?,5a141825,5a141825_0
+What is the minimum age requirement to become a Member of Henry Social?,6ab15dab,6ab15dab_0
+What must a user do if they do not agree to the modifications of the Terms and Conditions?,6ab15dab,6ab15dab_0
+How can a Member access the most current version of the Terms and Conditions?,6ab15dab,6ab15dab_0
+What should a user do before filing a formal claim against the Company?,6ab15dab,6ab15dab_1
+What is required for a dispute to be brought to formal proceedings after submission through the Member Services page?,6ab15dab,6ab15dab_1
+What is the consequence if the Class Action Waiver is found to be unenforceable according to the Terms and Conditions?,6ab15dab,6ab15dab_1
+What is the monetary threshold for the Company to reimburse filing and arbitrator fees in arbitration claims?,6ab15dab,6ab15dab_2
+What is the required method to reject future changes to the arbitration provision within the Agreement?,6ab15dab,6ab15dab_2
+What are the restrictions placed on users regarding the access and use of the Company Properties?,6ab15dab,6ab15dab_2
+What actions are prohibited regarding access to confidential content within the Company Properties?,6ab15dab,6ab15dab_3
+What types of materials are not allowed to be posted on the Company Properties or within the Program?,6ab15dab,6ab15dab_3
+What types of illegal activities are users prohibited from engaging in while using the Program or Company Properties?,6ab15dab,6ab15dab_3
+What types of cookies does Henry Social use and what are their purposes?,2002ede6,2002ede6_0
+Does Henry Social collect personal data from its customers?,2002ede6,2002ede6_0
+What should users do regarding privacy policies of other websites linked by Henry Social?,2002ede6,2002ede6_0
+What options do users have for managing their data and communication preferences with Henry Social?,2002ede6,2002ede6_1
+How can users disable cookies if they choose to do so?,2002ede6,2002ede6_1
+"What age restriction does Henry Social have regarding its users, and what should children do if they are under this age?",2002ede6,2002ede6_1
+What role is dedicated to members who provide insights about brands or shopping trends in their region?,32d70e58,32d70e58_0
+How can community members earn the Peacock role in the Discord server?,32d70e58,32d70e58_0
+What are the benefits of boosting the Discord server according to the document?,32d70e58,32d70e58_0
+What is the required level to earn the Hawk role in the Henry Discord community?,32d70e58,32d70e58_1
+What is the purpose of the Puffin role in the Henry Discord community?,32d70e58,32d70e58_1
+How does community engagement in the Henry Discord affect members' access to early product releases?,32d70e58,32d70e58_1
+What are the five categories of guilds in the Henry Movement Guild Program?,0c9792b8,0c9792b8_0
+What rewards can participants expect from completing quests in the Henry Luxe Rewards?,0c9792b8,0c9792b8_0
+How is the progress of early bird Zealy program participants addressed in the Season 1 Galxe program?,0c9792b8,0c9792b8_0
+What is the maximum number of contestants allowed to represent each country in the Henrlympics?,c5181952,c5181952_0
+"What are the prize amounts awarded to the gold, silver, and bronze medal-winning countries in the Henrlympics?",c5181952,c5181952_0
+By when will participants be selected to compete in the Henrlympics?,c5181952,c5181952_0
+What is the unique feature of the Social Trees program compared to traditional multi-layered marketing systems?,497e63e6,497e63e6_0
+How do users earn commissions through the Social Trees ecosystem?,497e63e6,497e63e6_0
+What methods can users use to refer others onto the Luxe Rewards platform?,497e63e6,497e63e6_0
+What is the minimal withdrawal size for earnings associated with Social Trees?,497e63e6,497e63e6_1
+Where will my earnings appear in relation to my cryptoback earnings?,497e63e6,497e63e6_1
+What event is soon to be announced related to Social Trees?,497e63e6,497e63e6_1
+What are the main goals of Henry's community program?,8e59aa68,8e59aa68_0
+What platforms are mentioned for community engagement at Henry?,8e59aa68,8e59aa68_0
+How does Henry reward its community members for their contributions?,8e59aa68,8e59aa68_0
+When is the development of Henry Strata scheduled to begin?,61f941ea,61f941ea_0
+What programming languages can developers use to write contracts on Strata?,61f941ea,61f941ea_0
+How does Strata aim to enhance user experience for brands adopting Web3 technology?,61f941ea,61f941ea_0
+When is the development of Luxe Loyalty planned to start?,5ac4e8c5,5ac4e8c5_0
+What is one of the use cases for NFTs mentioned in the Luxe Loyalty document?,5ac4e8c5,5ac4e8c5_0
+How does Luxe Loyalty aim to assist brands in understanding their customers better?,5ac4e8c5,5ac4e8c5_0
+What are the two methods to earn cryptoback through Luxe Rewards?,340ae239,340ae239_0
+How long does it currently take for cryptoback to deposit into your account?,340ae239,340ae239_0
+"What cryptocurrencies are currently offered as cryptoback, and which ones are planned to be added in the future?",340ae239,340ae239_0
+Does Henry Luxe Rewards operate independently of credit card cashback programs?,340ae239,340ae239_1
+What type of rewards does the Henry platform offer?,340ae239,340ae239_1
+Is the cashback earned through Henry Luxe Rewards considered as bonus cashback?,340ae239,340ae239_1
+What are the steps to enable cookies for using Henry Social's platform?,35fd4adb,35fd4adb_0
+What should a user do if they have existing cash-back platforms that might interfere with Henry Social's service?,35fd4adb,35fd4adb_0
+What are the current login options available for existing users when signing into the Henry Social webapp?,35fd4adb,35fd4adb_0
+What percentage of cryptoback can users earn on their purchases through Luxe Rewards?,d986d2ca,d986d2ca_0
+Which cryptocurrency is currently used to receive cryptoback on the Luxe Rewards platform?,d986d2ca,d986d2ca_0
+What type of browsers does the Luxe Rewards platform support for its users?,d986d2ca,d986d2ca_0
+What is the primary function of Luxe Rewards for everyday consumers?,45b8949e,45b8949e_0
+How does Luxe Loyalty assist brands in creating NFT solutions?,45b8949e,45b8949e_0
+What is the advantage of using HENRY Strata for developers and large enterprise brands in the context of commerce?,45b8949e,45b8949e_0
+What are the main issues faced by commerce dApps mentioned in the document?,93cea387,93cea387_0
+How does Henry plan to onboard the next 1 billion users according to its vision?,93cea387,93cea387_0
+What is the purpose of the dedicated rollup AppChain in Henry's product suite?,93cea387,93cea387_0
+What specific improvements were made to sailing synchronization in the v0.01 update?,c1ae8ce8,c1ae8ce8_0
+What issue related to PvE 1v4 encounters was addressed in the update?,c1ae8ce8,c1ae8ce8_0
+How does the new update affect the spawning of PvE encounters after completing a PvE event?,c1ae8ce8,c1ae8ce8_0
+What are the requirements for a user to obtain the @ socialic II role?,cf0992be,cf0992be_0
+How can a user qualify for the @ artistic III role in the Mosaic Empire?,cf0992be,cf0992be_0
+What is the maximum number of slots available for the Early Movers role in the Mosaic Colosseum?,cf0992be,cf0992be_0
+What is the purpose of the link provided in the document?,d1681c46,d1681c46_0
+What format is the Sticker collection provided in?,d1681c46,d1681c46_0
+What event is mentioned that encourages participation and creativity?,d1681c46,d1681c46_0
+What is the website URL for Mosaic Docs?,8b28e869,8b28e869_0
+Where can I find the Discord link for Mosaic?,8b28e869,8b28e869_0
+What type of SDK is mentioned in the document?,8b28e869,8b28e869_0
+What type of software development kit is mentioned in the Mosaic Docs Privacy Policy?,b1ab98d3,b1ab98d3_0
+Which feature is highlighted for users who are new to Movement?,b1ab98d3,b1ab98d3_0
+Where can users find information on supported DEXs according to the Mosaic Docs?,b1ab98d3,b1ab98d3_0
+What modules and dependencies need to be imported to interact with the Aptos Movement blockchain?,eac5803d,eac5803d_0
+What constant values are defined for wallet addresses and asset identifiers in the Typescript SDK script?,eac5803d,eac5803d_0
+How is the transaction simulated to ensure it will succeed before submission?,eac5803d,eac5803d_0
+What type of SDK is mentioned in the document?,22f3ff01,22f3ff01_0
+What section precedes the 'Terms of Use' in the document?,22f3ff01,22f3ff01_0
+What is the first guide listed in the 'USER GUIDES' section?,22f3ff01,22f3ff01_0
+What are the parameters that can be customized when using the GET /v1/quote endpoint for swaps?,6e611b9b,6e611b9b_0
+What is the purpose of the requestId field in the response of the GET /v1/quote endpoint?,6e611b9b,6e611b9b_0
+"How can users retrieve tokens using the Mosaic API, and what parameters are involved in that request?",6e611b9b,6e611b9b_0
+What types of DEXs are supported on the Movement platform?,47ba84e6,47ba84e6_0
+Is there an API available for integrating swaps on Movement?,47ba84e6,47ba84e6_0
+Where can I find the user guides for the Movement wallet?,47ba84e6,47ba84e6_0
+What are the two wallets currently supported by Mosaic for Movement Network?,cb450ff1,cb450ff1_0
+How are transactions executed on Mosaic?,cb450ff1,cb450ff1_0
+What features can users leverage on Mosaic when using Web3 Wallets?,cb450ff1,cb450ff1_0
+What types of SDKs are mentioned in the document related to the Swap integration?,62c241f8,62c241f8_0
+What are the supported DEXs offered on the Movement platform?,62c241f8,62c241f8_0
+Where can users find the terms of use and privacy policy of Mosaic Docs?,62c241f8,62c241f8_0
+What features does Mosaic offer to empower users in trading without intermediaries?,dc8b51ed,dc8b51ed_0
+What resources are available in the Mosaic documentation for new users and developers?,dc8b51ed,dc8b51ed_0
+"What principles is Mosaic built upon, and how do they relate to its mission in decentralized finance?",dc8b51ed,dc8b51ed_0
+What percentage of quests do you need to complete in one guild to gain recognition in Building The Parthenon?,c3a9452d,c3a9452d_0
+"What are the three separate networks that currently exist under Movement, and what technologies do they utilize?",c3a9452d,c3a9452d_0
+Where can you find more information about the different Guilds in the Building The Parthenon program?,c3a9452d,c3a9452d_0
+What feature has returned on the Parthenon website according to the update?,b41e1c11,b41e1c11_0
+Can users check their progress during the downtime?,b41e1c11,b41e1c11_0
+What information is displayed regarding completed quests on the Parthenon website?,b41e1c11,b41e1c11_0
+What should you do if you encounter the error 'No quests found' on the testnet site?,8c801839,8c801839_0
+Will your progress be saved if you complete quests while logged out of the testnet site?,8c801839,8c801839_0
+What should you do if quests still don't appear after logging out and refreshing the page?,8c801839,8c801839_0
+What is the main purpose of the recent wallet update mentioned in the document?,9c17941f,9c17941f_0
+Where can users find news about the massive wallet update?,9c17941f,9c17941f_0
+"Is the wallet update related to the testnet, according to the document?",9c17941f,9c17941f_0
+What percentage of quests must be completed in a single guild to be recognized in the program?,a67f4725,a67f4725_0
+Is there a specific date or snapshot mentioned for getting Resources?,a67f4725,a67f4725_0
+Will users be given advance notice about how and when they will be rewarded?,a67f4725,a67f4725_0
+How long is the Sui devnet expected to be down for maintenance?,cf013569,cf013569_0
+Which applications will not work during the Sui devnet maintenance?,cf013569,cf013569_0
+What should users do while the Sui devnet is down?,cf013569,cf013569_0
+What caused the slowdown in EVM apps mentioned in the document?,eaee8030,eaee8030_0
+What improvements have been made to the EVM Devnet?,eaee8030,eaee8030_0
+Which EVM applications are specifically mentioned as experiencing performance issues?,eaee8030,eaee8030_0
+What is the title of the guide mentioned in the document?,9f42ad41,9f42ad41_0
+Where can I find the guide for the Movement Network apps?,9f42ad41,9f42ad41_0
+What type of information does the guide provide?,9f42ad41,9f42ad41_0
+What is currently down on the Movement Sui network?,02143cc9,02143cc9_0
+What has temporarily been removed from the site while awaiting network upgrades?,02143cc9,02143cc9_0
+Why might users notice transactions failing on the testnet?,02143cc9,02143cc9_0
+What improvements were made to the Building the Parthenon Testnet site earlier today?,1ab09599,1ab09599_0
+What specific issues are addressed by the recent updates to the Movement Aptos Testnet?,1ab09599,1ab09599_0
+What should users expect regarding transaction performance on the Movement Aptos network after the updates?,1ab09599,1ab09599_0
+What issues are currently being faced with on-chain quests in Galxe?,03c60dcf,03c60dcf_0
+Which apps on the Movement EVM network are mentioned as having claiming issues?,03c60dcf,03c60dcf_0
+"Is the EVM faucet currently operational, and what is mentioned about its status?",03c60dcf,03c60dcf_0
+What issue is currently being experienced with the Movement EVM projects on Galxe?,4582b392,4582b392_0
+What has been identified as a solution for the validation issue on Galxe?,4582b392,4582b392_0
+Is the EVM faucet operational at this time?,4582b392,4582b392_0
+What is currently working again in relation to Galxe?,86c5d550,86c5d550_0
+Where can users claim credit for completed tasks/quests?,86c5d550,86c5d550_0
+What should users do if they are still experiencing issues with quest claiming?,86c5d550,86c5d550_0
+What will users need to do to claim their loyalty points after Galxe moves their claims on-chain?,0c97abf5,0c97abf5_0
+Will there be any fees associated with signing transactions for loyalty point claims on the testnet?,0c97abf5,0c97abf5_0
+Does the update regarding Galxe's loyalty point claims affect the Parthenon quests or user progress?,0c97abf5,0c97abf5_0
+What issue did Echelon and Meridian identify regarding their quests in Galxe?,8c782e4c,8c782e4c_0
+When will the quests become claimable on Galxe according to the document?,8c782e4c,8c782e4c_0
+What should users do while waiting for the quests to become available on Galxe?,8c782e4c,8c782e4c_0
+What is causing frustration for users of EVM apps on the Movement EVM network?,2f3df1eb,2f3df1eb_0
+Which applications are mentioned as being affected by the network issues?,2f3df1eb,2f3df1eb_0
+What steps are being taken to address the performance issues on the Movement EVM network?,2f3df1eb,2f3df1eb_0
+What incident occurred in the Nexio discord server?,8922c815,8922c815_0
+What should users be cautious about when using the Nexio server?,8922c815,8922c815_0
+What action has been taken regarding the Nexio server after the hack?,8922c815,8922c815_0
+What is the issue with how quests are being counted on the Parthenon site?,18bb7285,18bb7285_0
+What steps should users follow to claim their quests in Galxe?,18bb7285,18bb7285_0
+What message is conveyed about the safety of users' progress despite the quest credit issue?,18bb7285,18bb7285_0
+How can you check for missing quests that need to be claimed?,dfdb7648,dfdb7648_0
+What feature did the web developers add to help with claiming quests?,dfdb7648,dfdb7648_0
+How many quests does the author mention needing to claim?,dfdb7648,dfdb7648_0
+What is the purpose of the recent update mentioned in the document?,6e7cd8b4,6e7cd8b4_0
+What should users do if they encounter issues during the transition?,6e7cd8b4,6e7cd8b4_0
+What new additions are anticipated to be introduced to the site next week?,6e7cd8b4,6e7cd8b4_0
+What features are being brought to the Parthenon site?,80b2e19b,80b2e19b_0
+Why was the Parthenon site temporarily offline?,80b2e19b,80b2e19b_0
+Is the Parthenon site currently live or still under maintenance?,80b2e19b,80b2e19b_0
+What is the current status of the Parthenon site?,1617a149,1617a149_0
+Is user progress on the Parthenon site at risk due to the heavy traffic?,1617a149,1617a149_0
+What action is being taken regarding the issues with the Parthenon site?,1617a149,1617a149_0
+What is the reason for the site recovery delay?,f4381a17,f4381a17_0
+What type of infusion are the engineers receiving to help with server issues?,f4381a17,f4381a17_0
+What is the emotional tone expressed in the document regarding the demand for the site?,f4381a17,f4381a17_0
+What is currently not available for logging into the testnet site?,9c16288b,9c16288b_0
+Where can users find a general list of all quests?,9c16288b,9c16288b_0
+What new feature will be showcased once the full site functions are resumed?,9c16288b,9c16288b_0
+What is the current status of The Parthenon Testnet site?,d2e75f4d,d2e75f4d_0
+Who contributed to the functionality of The Parthenon Testnet site?,d2e75f4d,d2e75f4d_0
+What expression of gratitude is shown towards users and developers in the document?,d2e75f4d,d2e75f4d_0
+What is the current status of the Parthenon Testnet site?,39ae5e1a,39ae5e1a_0
+Where can users find links to participating Galxe spaces while the testnet site is down?,39ae5e1a,39ae5e1a_0
+What will happen to the progress made on Galxe quests when the Parthenon Testnet site is back up?,39ae5e1a,39ae5e1a_0
+What issues are currently affecting the Parthenon site regarding the Recruit role?,52cccaef,52cccaef_0
+What should most users do to be able to claim their roles on the Parthenon site?,52cccaef,52cccaef_0
+What updates are mentioned in the document related to the Paths for Guilds and Spartans?,52cccaef,52cccaef_0
+What is the minimum duration left for the Testnet experience according to the document?,7ac66d11,7ac66d11_0
+Where can users check if the Testnet has ended?,7ac66d11,7ac66d11_0
+Has an official end date for the Testnet experience been announced?,7ac66d11,7ac66d11_0
+What is the first critical step to joining the Movement community?,861d0303,861d0303_0
+What is the purpose of the Battle Of Olympus and who can sign up for it?,861d0303,861d0303_0
+Where can community members learn more about the Guilds and their quest lines to participate?,861d0303,861d0303_0
+"What are the core components of the Movement SDK, and how do they contribute to its functionality?",2382585e,2382585e_0
+How does the Movement SDK enhance interoperability between the Ethereum and Move ecosystems?,2382585e,2382585e_0
+In what way does the Movement SDK utilize the M2 framework to support the execution of smart contracts?,2382585e,2382585e_0
+What are the main functions of Data Availability Sampling (DAS) and Namespaced Merkle Trees (NMTs) in enhancing blockchain scalability?,2382585e,2382585e_1
+How does MoveVM ensure the security and integrity of digital assets within the Movement SDK?,2382585e,2382585e_1
+What key features of MoveVM contribute to the reduction of vulnerabilities in smart contracts?,2382585e,2382585e_1
+What role does MoveVM play in the Movement SDK regarding smart contract execution and resource management?,2382585e,2382585e_2
+How does the integration of MoveVM enhance the development experience for Solidity developers?,2382585e,2382585e_2
+What are the core functionalities of the Modular MoveVM that support its adaptability to different consensus mechanisms?,2382585e,2382585e_2
+What critical innovation does the Modular MoveVM introduce to address security vulnerabilities in traditional cross-chain communication protocols?,2382585e,2382585e_3
+How does the Movement SDK enhance interoperability among different blockchain platforms?,2382585e,2382585e_3
+What role does Fractal play within the Movement SDK in relation to Solidity smart contracts?,2382585e,2382585e_3
+What is the role of the Abstract Syntax Tree (AST) in the process of interpreting a Solidity script within the Movement SDK?,2382585e,2382585e_4
+How does Fractal facilitate the migration of Ethereum contracts to the M2 platform without the need for rewriting?,2382585e,2382585e_4
+What are the final outputs of the interpretation process that convert Solidity scripts into executable formats for MoveVM?,2382585e,2382585e_4
+What role do the custom adaptors in the Movement SDK play in managing validator sets?,2382585e,2382585e_5
+How do the adaptors enhance data availability for blockchain networks within the Movement SDK?,2382585e,2382585e_5
+Which sequencer networks can the Movement SDK interface with through its custom adaptors?,2382585e,2382585e_5
+What role do the custom adaptors in the Movement SDK play in managing validator sets?,2382585e,2382585e_6
+How does the integration of the MoveVM enhance the execution of complex gaming contracts for GAIMIN?,2382585e,2382585e_6
+In what way does the Movement SDK optimize the M2 architecture for the Celestia DA layer?,2382585e,2382585e_6
+How does the Movement SDK enhance the security and efficiency of game asset management in the GAIMIN context?,2382585e,2382585e_7
+What are the key components integrated within the Movement SDK that contribute to blockchain interoperability and modularity?,2382585e,2382585e_7
+In what ways does the Movement SDK adapt to various data availability layers and consensus mechanisms?,2382585e,2382585e_7
+What are the specific functions or activities of the Pathfinders Guild?,29c3b4e0,29c3b4e0_0
+Which Guild is targeted at creators such as graphic designers and NFT artists?,29c3b4e0,29c3b4e0_0
+What is the purpose of the Explorers Guild within the Movement Community?,29c3b4e0,29c3b4e0_0
+What types of recognition do members receive through the Movement Community Program?,29c3b4e0,29c3b4e0_1
+What opportunities are provided for members to collaborate within the Movement Labs community?,29c3b4e0,29c3b4e0_1
+How does the Movement Community Program help members increase their visibility in the blockchain and crypto community?,29c3b4e0,29c3b4e0_1
+What are the three values provided in the gas price estimation?,1d954d4b,1d954d4b_0
+How is the gas unit price estimate calculated according to recent transaction history?,1d954d4b,1d954d4b_0
+What is the effect of using a more aggressive gas price estimate when submitting a transaction?,1d954d4b,1d954d4b_0
+What should a user do if they encounter a broken link on the Movement website?,9de37118,9de37118_0
+Where can users find a community for support related to Movement?,9de37118,9de37118_0
+What year is mentioned in the copyright statement of the Movement Foundation?,9de37118,9de37118_0
+What is the purpose of the /transactions/encode_submission endpoint in the API?,7d4d5443,7d4d5443_0
+What are the required fields for the APPLICATION/JSON body when making a request to encode a submission?,7d4d5443,7d4d5443_0
+How do you sign a message using the response from the encode_submission endpoint?,7d4d5443,7d4d5443_0
+What is the default behavior if no start version is provided when retrieving account transactions?,a21b4db4,a21b4db4_0
+What kind of response will be returned if the start version requested is too far in the past?,a21b4db4,a21b4db4_0
+What is the format for the address parameter when making a GET request for account transactions?,a21b4db4,a21b4db4_0
+What is the public key associated with the signature in the batch transaction?,afabb682,afabb682_1
+What is the function being called in the transaction payload?,afabb682,afabb682_1
+What are the allowed content types for the request body when submitting batch transactions?,afabb682,afabb682_1
+What is required to use the POST /transactions/simulate endpoint?,8f7d3295,8f7d3295_0
+What does setting estimate_max_gas_amount to true do in a transaction simulation?,8f7d3295,8f7d3295_0
+What is the format for representing the Aptos account address in a transaction request?,8f7d3295,8f7d3295_0
+What is the representation format for the Aptos account address in the transaction document?,8f7d3295,8f7d3295_1
+Why are u64 values represented as strings in the transaction data?,8f7d3295,8f7d3295_1
+What information does the 'vm_status' string provide in the context of a transaction?,8f7d3295,8f7d3295_1
+What response will be returned if the transaction version requested has been pruned?,0d5427b8,0d5427b8_0
+What is the required format for the sender's Aptos account address in the transaction response?,0d5427b8,0d5427b8_0
+What are the possible values for the 'type' field in the transaction response schema?,0d5427b8,0d5427b8_0
+What is the purpose of the 'GET /transactions/wait_by_hash/:txn_hash' endpoint?,6f4379e2,6f4379e2_0
+What types of transaction responses can be expected when retrieving a transaction by hash?,6f4379e2,6f4379e2_0
+What format is required for the 'sender' parameter when submitting a transaction?,6f4379e2,6f4379e2_0
+What hash algorithm is used to create a transaction hash in the Movement Network?,75051583,75051583_0
+What are the required request path parameters for retrieving a transaction by its hash?,75051583,75051583_0
+What does the server check first when looking up a transaction by its hash?,75051583,75051583_0
+What are the two formats in which a transaction can be submitted using the API?,73ba56d0,73ba56d0_0
+What header must be used when submitting a transaction as JSON?,73ba56d0,73ba56d0_0
+What type of value is required for the 'sequence_number' field in the transaction submission?,73ba56d0,73ba56d0_0
+What type of data format is used to represent u64 values in the Movement Network's transaction submission?,73ba56d0,73ba56d0_1
+What are the two required fields that must be represented as strings containing 64-bit unsigned integers?,73ba56d0,73ba56d0_1
+Why are u64 values represented as strings in the Movement Network's transaction submission?,73ba56d0,73ba56d0_1
+What API endpoint should be used to retrieve pending transactions?,1368a2bf,1368a2bf_0
+What is the expected response when a version of a requested transaction has been pruned?,1368a2bf,1368a2bf_0
+Which parameters can be provided to the GET /transactions request to customize the transaction retrieval process?,1368a2bf,1368a2bf_0
+What is required in the request body to get a raw table item?,d62f0f2a,d62f0f2a_0
+What happens if the requested ledger version has been pruned?,d62f0f2a,d62f0f2a_0
+What format does the get_raw_table_item API return the query in?,d62f0f2a,d62f0f2a_0
+What is the method to retrieve a specific table item from the Movement Network?,2da83674,2da83674_0
+What will the server respond with if the requested ledger version has been pruned?,2da83674,2da83674_0
+What are the required fields in the application/json body for the 'Get table item' request?,2da83674,2da83674_0
+What are the required response fields when fetching the latest ledger information?,22164187,22164187_0
+What is the significance of representing 64-bit unsigned integers as strings in the API responses?,22164187,22164187_0
+What are the possible values for the node_role field in the ledger information?,22164187,22164187_0
+What endpoint is used to check the basic node health in the Movement Network?,8db4470d,8db4470d_0
+What condition must be met for the health check to return a 200 status when the duration_secs parameter is provided?,8db4470d,8db4470d_0
+"What response codes can be returned by the health check endpoint, and what does a 200 response signify?",8db4470d,8db4470d_0
+What parameters are required in the request path to get events by event handle?,537c55e7,537c55e7_0
+What is the default behavior if the 'start' and 'limit' query parameters are unspecified?,537c55e7,537c55e7_0
+What are the possible values for the 'event_handle' MoveStructTag parameter?,537c55e7,537c55e7_0
+What is the purpose of the OpenAPI explorer mentioned in the document?,3e6e6664,3e6e6664_0
+Where can you retrieve the API specifications in different formats according to the document?,3e6e6664,3e6e6664_0
+What type of response is expected when accessing the GET /spec endpoint?,3e6e6664,3e6e6664_0
+What are the required PATH PARAMETERS to get events by creation number in the Movement API?,8f2b7409,8f2b7409_0
+"What does the 'type' field in the event schema represent, and what are the possible values for it?",8f2b7409,8f2b7409_0
+What are the default values for the 'start' and 'limit' query parameters when retrieving events using the API?,8f2b7409,8f2b7409_0
+What is the purpose of the GET /blocks/by_version/:version endpoint?,868e2c00,868e2c00_0
+What will happen if the block has been pruned when querying by version?,868e2c00,868e2c00_0
+What parameter must be set to true to include all transactions in the block when using the query?,868e2c00,868e2c00_0
+What is the HTTP method used to access the 'Get blocks by height' endpoint?,a91ee156,a91ee156_0
+What response status code is returned if the block is pruned?,a91ee156,a91ee156_0
+What query parameter can be set to include all transactions in the block when using the endpoint?,a91ee156,a91ee156_0
+What is the purpose of the GET /accounts/:address/module/:module_name endpoint?,3e890140,3e890140_0
+What happens if the requested ledger version has been pruned from the account state history?,3e890140,3e890140_0
+What format is the bytecode data represented in when retrieved from an account module?,3e890140,3e890140_0
+What is the required format for the address parameter when making a request to get an account resource?,a7d67892,a7d67892_0
+What response code indicates that the requested ledger version has been pruned when using the get account resource API?,a7d67892,a7d67892_0
+What type of data structure is returned in the 'data' object of the API response for an account resource?,a7d67892,a7d67892_0
+What is the purpose of the GET /accounts/:address/modules endpoint?,5ab63ef3,5ab63ef3_0
+What happens if the requested ledger version has been pruned when making a request to retrieve account modules?,5ab63ef3,5ab63ef3_0
+What is required in the request path parameters to retrieve account modules for a specific account?,5ab63ef3,5ab63ef3_0
+What is the purpose of the GET /accounts/:address/resources endpoint?,facbf0ed,facbf0ed_0
+What happens when the requested ledger version has been pruned?,facbf0ed,facbf0ed_0
+How is a Move address type value serialized in the account resource's JSON representation?,facbf0ed,facbf0ed_0
+What is the serialized representation of 'Hello World!' in JSON?,facbf0ed,facbf0ed_1
+What is the copyright year for the Movement Foundation?,facbf0ed,facbf0ed_1
+What are the available navigation links related to account resources?,facbf0ed,facbf0ed_1
+What is the purpose of the GET /accounts/:address endpoint in the Movement API?,ffd6f399,ffd6f399_0
+What parameters are required when making a request to the GET /accounts/:address endpoint?,ffd6f399,ffd6f399_0
+What data type is used to represent the sequence_number in the response schema?,ffd6f399,ffd6f399_0
+What are the prerequisites for deploying a Solidity smart contract on Movement using Hardhat and Fractal?,2379d7ac,2379d7ac_0
+How can a developer obtain MOVE tokens to fund their wallet before starting the tutorial?,2379d7ac,2379d7ac_0
+What is the network RPC URL for the move-evm network in the Movement ecosystem?,2379d7ac,2379d7ac_0
+What is the purpose of the `withdraw` function in the Lock contract?,2379d7ac,2379d7ac_1
+How do you deploy the Lock contract using Hardhat?,2379d7ac,2379d7ac_1
+What is the role of the `unlockTime` variable in the Lock contract?,2379d7ac,2379d7ac_1
+What command is used to run a script in a standalone fashion through Node?,2379d7ac,2379d7ac_2
+What should you replace with the address of your deployed contract?,2379d7ac,2379d7ac_2
+What message should you expect to see if the withdrawal is successful?,2379d7ac,2379d7ac_2
+What are the prerequisites needed before starting the tutorial for deploying a Solidity smart contract on M1?,4a750db3,4a750db3_0
+What is the purpose of Fractal in relation to Solidity smart contracts?,4a750db3,4a750db3_0
+Which file contains the Smart Contract that you will be deploying to M1 in the tutorial?,4a750db3,4a750db3_0
+What is the purpose of the function 'increment' in the contract ,4a750db3,4a750db3_1
+What command should be run to deploy the contract using Foundry?,4a750db3,4a750db3_1
+What output should you expect after running the InteractScript if it is successful?,4a750db3,4a750db3_1
+What are the prerequisites mentioned for using Foundry and Fractal?,4a750db3,4a750db3_2
+What steps are outlined for setting up a Foundry project?,4a750db3,4a750db3_2
+Which social media platforms are associated with the Movement Foundation?,4a750db3,4a750db3_2
+What innovative feature does Movement Labs bring to Ethereum?,f0a018c1,f0a018c1_0
+"Where can I find the latest information on the status of the Mainnet, Testnet, and Devnet?",f0a018c1,f0a018c1_0
+What should I do if I need assistance while developing on Movement?,f0a018c1,f0a018c1_0
+What command is used to bootstrap the dApp in Movement Network?,d7e23206,d7e23206_0
+Which Integrated Development Environment (IDE) is recommended in the guide for Solidity developers working on an Aptos dApp?,d7e23206,d7e23206_0
+What is the URL for the MEVM RPC endpoint that must be configured in the foundry.toml file?,d7e23206,d7e23206_0
+What command should be run to deploy the prebuilt contract that comes with Scaffold-ETH?,d7e23206,d7e23206_1
+What are the RPC URLs listed for the M1 MEVM network in the document?,d7e23206,d7e23206_1
+What is the address of the multicall3 contract associated with the MEVM network?,d7e23206,d7e23206_1
+What is the purpose of the Move contract in the onchain bio dApp?,6b860f20,6b860f20_0
+What command is used to create a new directory for the dApp development?,6b860f20,6b860f20_0
+Which REST endpoint should be used when initializing the Movement Aptos configuration for the testnet?,6b860f20,6b860f20_0
+What command is used to publish the package in the Movement Network?,6b860f20,6b860f20_1
+"What is the format of the result message after compiling, according to the document?",6b860f20,6b860f20_1
+How do you set up the React app to connect to a wallet in the Movement Network?,6b860f20,6b860f20_1
+What steps must be taken to register a bio using the dApp?,6b860f20,6b860f20_2
+What specific CSS styles should be applied to the .navbar class?,6b860f20,6b860f20_2
+Which wallet configuration is required for using the Movement dApp on testnet?,6b860f20,6b860f20_2
+What command is used to bootstrap the dApp with the starter template provided by Mysten Labs?,6f33332e,6f33332e_0
+How do you configure the M2 network package ID in the constants.ts file?,6f33332e,6f33332e_0
+What is the purpose of heading to the Movement Faucet when using the dApp?,6f33332e,6f33332e_0
+What is the purpose of the dApps mentioned in the document?,6f33332e,6f33332e_1
+What are the steps outlined for setting up a Sui dApp for Movement M2?,6f33332e,6f33332e_1
+Which social media platforms does the Movement Network reference for community engagement?,6f33332e,6f33332e_1
+What is the deployment address of the Pyth contract on the Movement testnet?,1b0349c1,1b0349c1_0
+What command should be used to install the Pyth SDK for Truffle or Hardhat?,1b0349c1,1b0349c1_0
+What does the function 'updatePriceAndFetch' require to succeed when interacting with the Pyth contract?,1b0349c1,1b0349c1_0
+What command is used to install the Pyth SDK for Foundry?,1b0349c1,1b0349c1_1
+What is the contract address for the Pyth contract on the Movement testnet?,1b0349c1,1b0349c1_1
+Which addresses are used for deploying the Pyth smart contract on Aptos and Sui Move in both testnet and devnet?,1b0349c1,1b0349c1_1
+What are the three main components involved in indexing with the Movement Network?,35a97248,35a97248_0
+What role does the Cache Worker play in the Transaction Streaming Service?,35a97248,35a97248_0
+What plans does Movement Labs have for the future regarding the Transaction Stream Service and GraphQL APIs?,35a97248,35a97248_0
+What is the service URL RPC for the Aptos Environment's Suzuka Testnet?,0c74aa24,0c74aa24_0
+Where can developers deploy their modules to test on the Aptos environment before pushing to testnet?,0c74aa24,0c74aa24_0
+What is the chain ID for the MEVM environment accessible through the Imola Devnet?,0c74aa24,0c74aa24_0
+What command should be used to build a Move contract using Movement CLI?,f391462f,f391462f_0
+How can a user install Movement CLI on their system?,f391462f,f391462f_0
+Where can developers find the source code for Movement CLI?,f391462f,f391462f_0
+What command do you use to initialize the Movement CLI on the testnet?,ead289c9,ead289c9_0
+What should you include when pasting your account address into the Movement Labs Web Faucet?,ead289c9,ead289c9_0
+What does the config.yaml file in the .movement folder contain?,ead289c9,ead289c9_0
+What command is used to initialize a Move project and create the necessary folders and files?,ead289c9,ead289c9_1
+What should you do if you want to compile your Move module after adding your account address to Move.toml?,ead289c9,ead289c9_1
+What is the expected output when successfully running the tests for the written module?,ead289c9,ead289c9_1
+What command should be used to publish the Move module if the Move.toml file has not been edited?,ead289c9,ead289c9_2
+What information is provided in the expected output after a successful deployment of a Move module?,ead289c9,ead289c9_2
+What should a user do if they want to confirm the deployment cost during the transaction submission process?,ead289c9,ead289c9_2
+What response does the server provide if the requested ledger version has been pruned?,9f906571,9f906571_0
+What are the required attributes for the body of the POST request when executing the Move function?,9f906571,9f906571_0
+What format should the EntryFunctionId take when specifying an entry function on-chain?,9f906571,9f906571_0
+What are the different methods available to retrieve transactions according to the document?,1aab8bd3,1aab8bd3_0
+How does the 'Wait for transaction by hash' function differ from 'Get transaction by hash'?,1aab8bd3,1aab8bd3_0
+What is the purpose of the 'Simulate transaction' endpoint in the context of transaction submissions?,1aab8bd3,1aab8bd3_0
+What is the purpose of the 'Get table item' function as mentioned in the document?,f3621e3f,f3621e3f_0
+Which specific API function is used to access a table item at a specific ledger version?,f3621e3f,f3621e3f_0
+What are the resources mentioned for community support related to Movement?,f3621e3f,f3621e3f_0
+What is the purpose of the OpenAPI explorer mentioned in the document?,88918083,88918083_0
+What kind of information can you retrieve by using the 'Get ledger info' feature?,88918083,88918083_0
+How can you check the basic health of a node according to the document?,88918083,88918083_0
+What parameters are needed to get events using the API described in the document?,b0ddce43,b0ddce43_0
+How can events be accessed according to the document's content?,b0ddce43,b0ddce43_0
+What types of identifiers are used for event types in the context of the Movement API?,b0ddce43,b0ddce43_0
+What are the two methods available for retrieving blocks according to their specifications?,4aa80b64,4aa80b64_0
+What information can you obtain by using the 'Get blocks by height' endpoint?,4aa80b64,4aa80b64_0
+What is the purpose of the 'Get blocks by version' endpoint?,4aa80b64,4aa80b64_0
+What information is returned by the Get account function?,3b3793c0,3b3793c0_0
+How does the Get account resources function operate regarding ledger versions?,3b3793c0,3b3793c0_0
+What does the Get account module retrieve for a given account and ledger version?,3b3793c0,3b3793c0_0
+What resources are available for getting started with Movement?,609ec274,609ec274_0
+Where can users find tutorials for building on Movement?,609ec274,609ec274_0
+What types of dApps can be built using the Movement platform?,609ec274,609ec274_0
+What command is used to initialize the Sui profile for package development in the M2 environment?,03655f06,03655f06_0
+What is the structure of the folder created when starting a new Sui Move project?,03655f06,03655f06_0
+What is the purpose of the 'mint' function in the hello_world Move module?,03655f06,03655f06_0
+What command do you use to initialize your Aptos profile for package development with Movement as a custom network?,5122e8f1,5122e8f1_0
+What file contains a simple module for setting the value of a message resource in the Project generated using the Movement template?,5122e8f1,5122e8f1_0
+What is the purpose of the 'set_message' function in the hello_blockchain module?,5122e8f1,5122e8f1_0
+What command is used to check the message of an account in the Aptos Module?,5122e8f1,5122e8f1_1
+What milestone is celebrated in the document after executing a Move module on the testnet?,5122e8f1,5122e8f1_1
+Which social media platforms are mentioned for community interaction in the document?,5122e8f1,5122e8f1_1
+What tools are mentioned for deploying Solidity smart contracts on M1?,45f444f2,45f444f2_0
+Which platforms are referenced for deploying EVM contracts using Hardhat?,45f444f2,45f444f2_0
+What are the two modules listed for building dApps in the document?,45f444f2,45f444f2_0
+"What are the URL links provided for the Aptos, Sui, and MEVM test network explorers?",b9ea2ccd,b9ea2ccd_0
+What is the purpose of the Movement Network as indicated in the document?,b9ea2ccd,b9ea2ccd_0
+Where can one find community support for the Movement Network?,b9ea2ccd,b9ea2ccd_0
+What is the native token referred to as in the Movement Network?,0fc74f32,0fc74f32_0
+What are the URLs for the different faucets for getting Testnet MOVE in the Movement Network?,0fc74f32,0fc74f32_0
+Is there a CLI option available for developers to access additional functionalities related to the Movement Network faucets?,0fc74f32,0fc74f32_0
+What are the recommended wallets for connecting to the Movement Network?,33a5538b,33a5538b_0
+What is the critical step involved in setting up the Razor Wallet?,33a5538b,33a5538b_0
+What action must be taken after writing down the Secret Recovery Phrase during the setup of the Nightly Wallet?,33a5538b,33a5538b_0
+What are the steps to import a Razor Wallet account into the Nightly Wallet?,33a5538b,33a5538b_1
+Which chains are currently live on the Movement Network?,33a5538b,33a5538b_1
+How can a user obtain mock tokens using the Movement Faucet?,33a5538b,33a5538b_1
+What does the guide on using the Movement Network cover?,4f56b3a9,4f56b3a9_0
+Where can one find Block Explorers for each testnetwork environment?,4f56b3a9,4f56b3a9_0
+What is the purpose of the Movement Faucets mentioned in the document?,4f56b3a9,4f56b3a9_0
+What role does the M1 Shared Decentralized Sequencer play in the Movement Network?,4e96fd67,4e96fd67_0
+How does multi-asset staking enhance economic security within the Movement Network?,4e96fd67,4e96fd67_0
+What are the key benefits of using a PoS system for multi-asset staking in the Movement Network?,4e96fd67,4e96fd67_0
+What are the main components included in the Move Stack framework?,57b64697,57b64697_0
+How does the Move Arena enhance interoperability and shared security for application-specific chains?,57b64697,57b64697_0
+What are the various settlement mechanisms offered by the Move Stack for rollups?,57b64697,57b64697_0
+What are the steps involved in the transaction lifecycle of a Move Rollup?,57b64697,57b64697_1
+What role does the sequencer play in the transaction lifecycle within a Move Rollup?,57b64697,57b64697_1
+How does the transaction lifecycle ensure efficient and secure transaction finality in Move Rollups?,57b64697,57b64697_1
+"What are the three main components of the Movement Network that enhance its performance, security, and interoperability?",2668c5fe,2668c5fe_0
+How does the Staked Settlement Module ensure high economic security and reduce latency during transaction settlements?,2668c5fe,2668c5fe_0
+What advantages does the Decentralized Shared Sequencer (M1) offer in terms of transaction ordering and cross-chain interoperability?,2668c5fe,2668c5fe_0
+What programming language is used for smart contracts in the Movement Network?,62f34ac4,62f34ac4_0
+What are the flagship products of Movement Labs?,62f34ac4,62f34ac4_0
+How does Move ensure the safety and ownership of assets compared to other runtimes like Solana and EVM?,62f34ac4,62f34ac4_0
+"What are the three main components of the Movement Network that enhance its performance, security, and interoperability?",c0d66f73,c0d66f73_0
+"What frameworks are included in the Movement Network for the creation, deployment, and management of Move-based rollups?",c0d66f73,c0d66f73_0
+How does the Movement Network ensure robust interoperability and high security across its ecosystem?,c0d66f73,c0d66f73_0
+What are the three development environments currently supported by the Movement Network?,065fc695,065fc695_0
+Where can developers obtain testnet tokens before deploying contracts on the Movement Network?,065fc695,065fc695_0
+What guide should new users refer to for building their first Move Module or Contract?,065fc695,065fc695_0
+What resources are available for learning how to use Move?,065fc695,065fc695_1
+Where can users obtain testnet tokens for the Movement Network?,065fc695,065fc695_1
+Which platforms does the Movement Foundation use to engage with the community?,065fc695,065fc695_1
+What version of the Movement Labs Node API is documented?,831d758c,831d758c_0
+Which environment does the current API documentation refer to?,831d758c,831d758c_0
+What is the function of the Movement Fullnode API?,831d758c,831d758c_0
+What ecosystems are mentioned as compatible with the Movement Network for developers?,b2904438,b2904438_0
+What resources are available for users to obtain testnet tokens?,b2904438,b2904438_0
+Where can developers find documentation related to building on the Movement Network?,b2904438,b2904438_0
+What is the primary purpose of Frenspass on the Movewiffrens platform?,ebfc781a,ebfc781a_0
+How does Frenspass enhance user interaction within private chat rooms?,ebfc781a,ebfc781a_0
+What benefits does Frenspass offer to content creators on Movewiffrens?,ebfc781a,ebfc781a_0
+What is the process for syncing a Twitter (X) account with Movewiffrens?,2fce5fed,2fce5fed_0
+What exclusive features are available on Movewiffrens?,2fce5fed,2fce5fed_0
+What are Frenspoints and how do they relate to the Frenspass?,2fce5fed,2fce5fed_0
+What is the purpose of the $MFW Token mentioned in the Movewiffrens document?,152395b3,152395b3_0
+What feature allows users to sync their Twitter (X) account on Movewiffrens?,152395b3,152395b3_0
+What are Frenspoints and how are they defined in the document?,152395b3,152395b3_0
+What activities can users engage in to earn Frenspoints on the Movewiffrens platform?,d6ca812f,d6ca812f_0
+What can users redeem Frenspoints for within the Movewiffrens ecosystem?,d6ca812f,d6ca812f_0
+How do Frenspoints contribute to user engagement and community building on Movewiffrens?,d6ca812f,d6ca812f_0
+What is the fee structure for buying and selling Frenspass on Movewiffrens?,80b0cc03,80b0cc03_0
+How can users earn money through the sale of Frenspass?,80b0cc03,80b0cc03_0
+What formula is used to calculate the buying price of Frenspass based on the total supply?,80b0cc03,80b0cc03_0
+What are the benefits of using private chat on Movewiffrens?,51c125fb,51c125fb_0
+How does private chat on Movewiffrens enhance engagement among users?,51c125fb,51c125fb_0
+What type of exclusive content can users access through private chat on Movewiffrens?,51c125fb,51c125fb_0
+What is the first step to access a private chat on Movewiffrens?,7b9b43da,7b9b43da_0
+How can a user join a private chat room after minting their Frenspass?,7b9b43da,7b9b43da_0
+What opportunities are available for users once they engage in conversations in a private chat room?,7b9b43da,7b9b43da_0
+What do users need to join private chat rooms on Movewiffrens?,e56a30cf,e56a30cf_0
+How does the Private Chat feature enhance user interaction compared to public chats?,e56a30cf,e56a30cf_0
+What type of conversations can users engage in within the Private Chat on Movewiffrens?,e56a30cf,e56a30cf_0
+What new revenue stream does exclusive content provide for content creators on Movewiffrens?,6b348594,6b348594_0
+How do users earn access to exclusive content on the Movewiffrens platform?,6b348594,6b348594_0
+What is the role of Frenspoints in relation to exclusive content for both creators and users?,6b348594,6b348594_0
+What must users do to fully view exclusive content on Movewiffrens?,40418728,40418728_0
+How can users create a post that is marked as exclusive on Movewiffrens?,40418728,40418728_0
+What are Frenspoints and how can they be earned on the Movewiffrens platform?,40418728,40418728_0
+How can users customize their notification settings on Movewiffrens?,18c4f6d1,18c4f6d1_0
+What functionalities are available for direct messaging on Movewiffrens?,18c4f6d1,18c4f6d1_0
+What actions can users take to interact with posts from other users on Movewiffrens?,18c4f6d1,18c4f6d1_0
+"What feature allows users to engage with posts by liking, commenting, and sharing?",fd262f62,fd262f62_0
+How can users share media content such as photos and videos in their posts?,fd262f62,fd262f62_0
+What functionality does Movewiffrens provide for users to gather opinions from others?,fd262f62,fd262f62_0
+What functionality does the search bar provide on Movewiffrens?,7bc6a394,7bc6a394_0
+How can users categorize their posts to increase visibility?,7bc6a394,7bc6a394_0
+What features allow users to engage with trending topics on Movewiffrens?,7bc6a394,7bc6a394_0
+What must a user do after setting up their wallet to mint their first Frenspass?,2619ef8f,2619ef8f_0
+What access does a user gain upon minting their first Frenspass?,2619ef8f,2619ef8f_0
+Where can users find the option to mint a Frenspass after setting up their wallet?,2619ef8f,2619ef8f_0
+What is the process to create an M1 wallet in Movewiffrens?,fb106e44,fb106e44_0
+Which wallets can $MOVE tokens be transferred from to the M1 wallet?,fb106e44,fb106e44_0
+What initial step is required before the M1 wallet is automatically created?,fb106e44,fb106e44_0
+What steps do you need to take to sync your Twitter (X) account with Movewiffrens?,3e6ec5f3,3e6ec5f3_0
+What information will Movewiffrens import from your Twitter account during the syncing process?,3e6ec5f3,3e6ec5f3_0
+What do you have to do after logging in to authorize Movewiffrens to access your Twitter account?,3e6ec5f3,3e6ec5f3_0
+What information do you need to enter to create an account on Movewiffrens?,c37f7ccc,c37f7ccc_0
+What steps must you follow after receiving the verification code in your email?,c37f7ccc,c37f7ccc_0
+"Where can you create an account for Movewiffrens, according to the document?",c37f7ccc,c37f7ccc_0
+What types of content can I share on Movewiffrens?,c862d1db,c862d1db_0
+How can I monetize my content on Movewiffrens?,c862d1db,c862d1db_0
+Is there a mobile app for Movewiffrens?,c862d1db,c862d1db_0
+What is the purpose of the Frenspass feature in Movewiffrens?,bb266ddb,bb266ddb_0
+What incentives will be offered to early adopters during the launching campaign for Movewiffrens?,bb266ddb,bb266ddb_0
+How will the MoveNerdAI chatbot enhance user experience on the Movewiffrens platform?,bb266ddb,bb266ddb_0
+What are the key features mentioned in the Movewiffrens document?,e17e73a8,e17e73a8_0
+Where can I find the official Movewiffrens GitHub repository?,e17e73a8,e17e73a8_0
+What is required to start the process of creating an account on Movewiffrens?,e17e73a8,e17e73a8_0
+What key feature of Movewiffrens allows for private communication between users?,d05d9a5f,d05d9a5f_0
+How can users begin the process of creating an account on Movewiffrens?,d05d9a5f,d05d9a5f_0
+What is the purpose of Frenspoints in the Movewiffrens platform?,d05d9a5f,d05d9a5f_0
+What features allow users to engage in private chats on Movewiffrens?,014b176d,014b176d_0
+How can users earn Frenspoints on the Movewiffrens platform?,014b176d,014b176d_0
+What is the purpose of the documentation provided for Movewiffrens users?,014b176d,014b176d_0
+What programming language is designed by Facebook for smart contracts and emphasizes ownership and safety?,0bb38cfc,0bb38cfc_0
+What unique feature does the Move programming language offer in terms of transaction safety compared to other runtimes like Solana and EVM?,0bb38cfc,0bb38cfc_0
+How does Move manage data storage differently than Solana and EVM?,0bb38cfc,0bb38cfc_0
+What features does Movewiffrens offer for content creation and interaction?,bfd2b971,bfd2b971_0
+What is the purpose of Frenspoints and Frenspass within the Movewiffrens platform?,bfd2b971,bfd2b971_0
+How does Tumi Labs describe its commitment to users and content creators on Movewiffrens?,bfd2b971,bfd2b971_0
+What is the primary focus of the Nexio Community?,6847e462,6847e462_0
+Which blockchain technology is being utilized by Nexio for its DeFi solution?,6847e462,6847e462_0
+What key components are mentioned as part of the Nexio's DeFi environment?,6847e462,6847e462_0
+What updates can we expect from Nexio?,c6aa787a,c6aa787a_0
+Is there a timeline for when more updates will be released?,c6aa787a,c6aa787a_0
+What specific topics will the upcoming updates cover?,c6aa787a,c6aa787a_0
+What role is assigned to users who joined within the first three days?,b9d04af3,b9d04af3_0
+What criteria must a user meet to receive the NexKage Fridge role?,b9d04af3,b9d04af3_0
+How can a user create a chance to earn the Upbo the meme-ing Fridge role?,b9d04af3,b9d04af3_0
+What is required to display the connect push notification on a user device?,73b0205f,73b0205f_0
+What is the purpose of the connect() function in relation to push notifications?,73b0205f,73b0205f_0
+What should the request method be for triggering a notification using the Firebase push notification example?,73b0205f,73b0205f_0
+What event does the client listen to for user requests to sign messages?,6ac9ac17,6ac9ac17_0
+What function is called to resolve the sign message transaction in the provided code?,6ac9ac17,6ac9ac17_0
+Which cryptographic library is imported for signing messages in the example?,6ac9ac17,6ac9ac17_0
+What event does the client listen to in order to sign transactions?,07062ffc,07062ffc_0
+What does the client need to pass in to resolve a signed transaction?,07062ffc,07062ffc_0
+What is the purpose of the 'requestId' in the SignSolanaTransactionEvent interface?,07062ffc,07062ffc_0
+What option should be specified to disable the default modal in the Nightly Connect implementation?,8dd323bf,8dd323bf_0
+What function is used to connect a wallet after creating an instance of the custom modal?,8dd323bf,8dd323bf_0
+Which libraries need to be imported to use the Nightly Connect Adapter and the Nightly Connect Selector Modal for Solana?,8dd323bf,8dd323bf_0
+What method is used to return a resolved promise with the Signed Transaction after a client signs a transaction?,3e31e75d,3e31e75d_0
+What needs to be established before sending a signTransaction to the client?,3e31e75d,3e31e75d_0
+What are the function arguments used in the transaction build example for transferring AptosCoin?,3e31e75d,3e31e75d_0
+What is the purpose of the sessionId in the Nightly Connect application?,507d53c3,507d53c3_0
+How can an application disable the modal when implementing the Nightly Connect wallet interface?,507d53c3,507d53c3_0
+What properties can be included in the AppMetadata object for wallet applications?,507d53c3,507d53c3_0
+What happens to a session when the application disconnects and the session is not persistent?,507d53c3,507d53c3_1
+What is the title of the document?,507d53c3,507d53c3_1
+What year is indicated in the copyright for Nightly?,507d53c3,507d53c3_1
+What function is used to listen for events in an app using Nightly Connect?,79922af2,79922af2_0
+What are the specific events that can be subscribed to using the on() function in the Aptos adapter?,79922af2,79922af2_0
+What metadata is included when building the Aptos adapter in Nightly Connect?,79922af2,79922af2_0
+What function is used to listen for events in the Nightly Connect app?,571102c8,571102c8_0
+Which events can be listened to using the adapter in the provided example?,571102c8,571102c8_0
+What metadata properties are included when building the NightlyConnectAptosAdapter?,571102c8,571102c8_0
+What is required to send a signTransaction in Nightly Connect?,f92c0579,f92c0579_0
+How can a transaction be created using the Aptos provider in the document?,f92c0579,f92c0579_0
+What method is used to sign and submit a transaction according to the document?,f92c0579,f92c0579_0
+What is the purpose of generating a sessionId in the Nightly Connect application?,07a0d407,07a0d407_0
+How can an application specify additional connection options when using the build() or buildLazy() function?,07a0d407,07a0d407_0
+What is the role of the AppMetadata interface in the context of the wallet interface implementation?,07a0d407,07a0d407_0
+Who can initiate the disconnection of a session?,07a0d407,07a0d407_1
+What happens to a session when the application disconnects and it is not persistent?,07a0d407,07a0d407_1
+What action can a user take in case of abuse during a session?,07a0d407,07a0d407_1
+What does Nightly Connect turn into after a connection from a client?,c8f40c60,c8f40c60_0
+What is the method used to sign a transaction in the Nightly Connect documentation?,c8f40c60,c8f40c60_0
+What is the purpose of the 'payload.signAsync' function as mentioned in the document?,c8f40c60,c8f40c60_0
+What is the purpose of the sessionId in the Nightly Connect application?,7385864d,7385864d_0
+How does the buildLazy() function differ from the build() function in the context of establishing a connection?,7385864d,7385864d_0
+What properties can be defined in the AppMetadata object to help wallets present information to users?,7385864d,7385864d_0
+What triggers a complete removal of a session in Nightly Connect?,7385864d,7385864d_1
+Who has the ability to force session termination in Nightly Connect?,7385864d,7385864d_1
+What happens when the application disconnects and the session is not persistent?,7385864d,7385864d_1
+What method is called to return a resolved promise with the Signed Transaction after the client signs it?,1b8e26b5,1b8e26b5_0
+What function splits the coins in the transaction and how is it utilized in the provided example?,1b8e26b5,1b8e26b5_0
+Which identifier string is used for the chain in the signTransactionBlock function?,1b8e26b5,1b8e26b5_0
+What function is used to listen for events in the Nightly Connect app?,94000da5,94000da5_0
+What event can be listened to that indicates a successful connection to accounts?,94000da5,94000da5_0
+Which event can trigger a callback when there is an error in the adapter?,94000da5,94000da5_0
+What is required to send a signTransaction in the Nightly Connect documentation?,cabc0c42,cabc0c42_0
+What method is used to obtain a Signed Transaction after a client signs it?,cabc0c42,cabc0c42_0
+Which programming constructs are imported from '/web3.js' to facilitate the signTransaction process?,cabc0c42,cabc0c42_0
+What function can be used to create a connection while allowing the modal to appear even when the sessionId is still undefined?,5eca940f,5eca940f_0
+What properties can be specified in the ConnectionOptions interface to customize the connection behavior?,5eca940f,5eca940f_0
+What information needs to be included in the AppMetadata object for wallets to display to the user?,5eca940f,5eca940f_0
+What happens to the session when the application disconnects and the session is not persistent?,5eca940f,5eca940f_1
+Which platforms or communities does Nightly Connect suggest for further engagement?,5eca940f,5eca940f_1
+What is the copyright year mentioned in the document for Nightly?,5eca940f,5eca940f_1
+What is the purpose of the sessionId in the Nightly Connect application?,4c605f07,4c605f07_0
+How does the buildLazy() function differ from the build() function in establishing a connection?,4c605f07,4c605f07_0
+What are the default values for the disableModal and initOnConnect properties in the ConnectionOptions interface?,4c605f07,4c605f07_0
+What wallets are available through the Solana Mobile Stack Mobile Wallet Adapter Protocol?,4c605f07,4c605f07_1
+How can a user force session termination if they experience abuse?,4c605f07,4c605f07_1
+What metadata is included when building a NightlyConnectAdapter instance?,4c605f07,4c605f07_1
+What function is used to listen for events in an app according to the document?,3d335239,3d335239_0
+What event is triggered when a connection is established in the Nightly Connect adapter?,3d335239,3d335239_0
+What specific action occurs when the 'disconnect' event is fired in the context of the Nightly Connect adapter?,3d335239,3d335239_0
+What method should be called to initiate a connection with the server in Nightly Connect?,33725fe0,33725fe0_0
+What information is required as an argument for the getInfo() method?,33725fe0,33725fe0_0
+What happens to the session when the client disconnects compared to when the application disconnects?,33725fe0,33725fe0_0
+What are the two methods for customizing the modal UI in Nightly Connect?,816c0814,816c0814_0
+What properties make up the UIOverrides object used for customization?,816c0814,816c0814_0
+"In the provided example, which color is set for the primary color using variablesOverride?",816c0814,816c0814_0
+What is the recommended way to get started with Aptos according to the document?,97bc15a3,97bc15a3_0
+What are the two package managers mentioned for installing the Nightly Aptos Connect package?,97bc15a3,97bc15a3_0
+Where can one find the source code for the Aptos web template?,97bc15a3,97bc15a3_0
+What is the primary network that Movement M1 relies on?,c37a3e63,c37a3e63_0
+Where can the source code for the Movement web template be found?,c37a3e63,c37a3e63_0
+What package can be integrated into an application or wallet for Nightly Connect?,c37a3e63,c37a3e63_0
+What is the purpose of the Nightly Polkadot Connect package mentioned in the document?,08529cd1,08529cd1_0
+Where can the source code for the Substrate web template be found?,08529cd1,08529cd1_0
+What are the two ways to install the Nightly Polkadot package as described in the content?,08529cd1,08529cd1_0
+What are the two methods mentioned for installing the Nightly Sui Connect package?,1aea9e3b,1aea9e3b_0
+What is the preview URL for the Sui web template?,1aea9e3b,1aea9e3b_0
+Where can the source code for the Sui web template be found?,1aea9e3b,1aea9e3b_0
+What platforms are mentioned in the 'Getting started' section of Nightly Connect?,4a0aaebf,4a0aaebf_0
+Which community platforms are associated with Nightly Connect?,4a0aaebf,4a0aaebf_0
+What tools or networks does the document suggest for customization?,4a0aaebf,4a0aaebf_0
+What is the source code link for the Solana web template?,cab4bedd,cab4bedd_0
+What are the two methods mentioned for manual installation of the Nightly Solana Connect package?,cab4bedd,cab4bedd_0
+Where can I find the preview of the Solana web template?,cab4bedd,cab4bedd_0
+What solutions does Nightly Connect provide for dApp developers?,3da14cb7,3da14cb7_0
+How does Nightly Connect facilitate the integration of wallets for mobile applications?,3da14cb7,3da14cb7_0
+What tools become accessible to mobile applications through Nightly Connect after implementing the necessary changes?,3da14cb7,3da14cb7_0
+What is the title of the document?,ff755ae1,ff755ae1_0
+What is the status of the Tokenomics section in the document?,ff755ae1,ff755ae1_0
+How is the document powered according to the content?,ff755ae1,ff755ae1_0
+What type of fee do users currently pay when using OmniLending?,b778e98d,b778e98d_0
+Are there any service fees charged by OmniLending?,b778e98d,b778e98d_0
+What is the user's responsibility regarding transaction fees on OmniLending?,b778e98d,b778e98d_0
+What is the fixed service fee percentage of the fund in the OmniSwap fee structure?,6266505c,6266505c_0
+When is the cross-chain protocol fee applied in the OmniSwap fee structure?,6266505c,6266505c_0
+Who charges the gas fee in the OmniSwap fee structure?,6266505c,6266505c_0
+What two components make up the network fee according to the document?,6dcc2cd7,6dcc2cd7_0
+What is the purpose of the OmniSwap fee as mentioned in the document?,6dcc2cd7,6dcc2cd7_0
+Is there a specific mention of a fee related to BTC Omnichain Lending in the document?,6dcc2cd7,6dcc2cd7_0
+What is the initial price for the WL mint in Phase 2: Advocates?,558c974f,558c974f_0
+On which platform is Phase 3: Contributors being released?,558c974f,558c974f_0
+What is the contract address for Phase 1: Genesis on the BSC chain?,558c974f,558c974f_0
+What is the total number of NFT PASS cards available in each phase?,633246be,633246be_0
+How many phases are there in the NFT PASS card scheme?,633246be,633246be_0
+Where can users check the release process for the NFT PASS cards?,633246be,633246be_0
+What is the percentage of the bridge value that users receive as points when they swap on OmniSwap?,75145956,75145956_0
+"How many initial points does an invitee receive when they join through a referral, and how does this affect the inviter's rewards?",75145956,75145956_0
+"What is the starting prize pool for the Referral Point System, and how does the trading volume influence it?",75145956,75145956_0
+What are the steps to generate a User ID on OmniBTC?,2619d803,2619d803_0
+What do you need to do before borrowing assets on the platform?,2619d803,2619d803_0
+How does the collateral function work in relation to borrowing and supplying assets?,2619d803,2619d803_0
+What oracle does OmniBTC use to provide on-chain prices?,46570af9,46570af9_0
+How many chains does the Pyth Network support?,46570af9,46570af9_0
+On which network are the oracles deployed to provide unified prices for branch chains?,46570af9,46570af9_0
+What role does the Sui network play in the DOLA Protocol as mentioned in the document?,496bb03b,496bb03b_0
+How does OmniLending aim to enhance the efficiency of asset utilization compared to existing lending protocols like Aave?,496bb03b,496bb03b_0
+What mechanisms are implemented in the OmniLending Protocol to ensure security?,496bb03b,496bb03b_0
+What mechanisms does OmniLending use to ensure the security of its lending protocols?,496bb03b,496bb03b_1
+How does the soft liquidation model differ from traditional liquidation methods in OmniLending?,496bb03b,496bb03b_1
+What is the purpose of the 20% interest on loans in the context of OmniLending's risk management?,496bb03b,496bb03b_1
+What does the term 'insolvency' refer to in the context of lending agreements as described in the document?,2559156a,2559156a_0
+How does the Aave protocol address the risk of bad debts accumulating among lenders?,2559156a,2559156a_0
+What is the reserve factor (RF) and how can it be adjusted according to governance in the lending protocol?,2559156a,2559156a_0
+What wallets can be connected to the OmniBTC tutorial for bridging tokens?,4c2b5e0c,4c2b5e0c_0
+What should you do if a transaction fails during the bridging process?,4c2b5e0c,4c2b5e0c_0
+How can you view your transaction details after confirming a swap on OmniBTC?,4c2b5e0c,4c2b5e0c_0
+How many transactions do users typically need to make to swap LINK on Ethereum for Doge on BSC using existing cross-chain swap schemes?,72891122,72891122_0
+What advantage does OmniBTC offer over traditional cross-chain swap schemes in terms of transaction completion?,72891122,72891122_0
+What feature does OmniBTC provide to ensure users get the best price and lowest slippage during cross-chain swaps?,72891122,72891122_0
+What platform is OmniSwap powered by?,faf8d6d1,faf8d6d1_0
+What is the primary function of the OmniSwap Workflow Tutorial?,faf8d6d1,faf8d6d1_0
+How can users contact OmniSwap for more information?,faf8d6d1,faf8d6d1_0
+What interoperability protocols does OmniBTC utilize for cross-chain transactions?,d9b29e7d,d9b29e7d_0
+Which chains are currently supported for cross-chain lending on OmniBTC?,d9b29e7d,d9b29e7d_0
+How much total trading volume has OmniBTC reached as a DEX aggregator?,d9b29e7d,d9b29e7d_0
+How many popular chains does OmniBTC currently support compared to Owlto and Bungee?,f8b3bd53,f8b3bd53_0
+What is the benefit of the referral point system offered by OmniBTC to users when they bridge assets?,f8b3bd53,f8b3bd53_0
+How does OmniBTC's support for token transfers compare to that of Owlto and Orbiter?,f8b3bd53,f8b3bd53_0
+What interoperability protocols does OmniBTC utilize for cross-chain transactions?,d9b29e7d,d9b29e7d_0
+Which chains are currently supported for cross-chain lending by OmniBTC?,d9b29e7d,d9b29e7d_0
+What is the total trading volume that OmniBTC has reached as a DEX aggregator?,d9b29e7d,d9b29e7d_0
+What are the recommended first steps for interacting with the Movement Parthenon Testnet?,843cf0c3,843cf0c3_0
+What is the process for binding an EVM wallet to Galxe using the Razor wallet?,843cf0c3,843cf0c3_0
+"Which two wallets are identified as native wallets for the Movement Testnet, and what is the suggested order for obtaining them?",843cf0c3,843cf0c3_0
+What steps are necessary to bind the Razor wallet to the Sui Network on Galxe?,843cf0c3,843cf0c3_1
+What should you do if your Nightly wallet address is different from your Razor wallet address?,843cf0c3,843cf0c3_1
+What are the two methods provided for successfully binding your wallets in case of issues?,843cf0c3,843cf0c3_1
+What networks does RazorDAO provide a native wallet for?,4f6e298c,4f6e298c_0
+What is the purpose of RazorDex within the RazorDAO ecosystem?,4f6e298c,4f6e298c_0
+Where can I find the official X account for RazorDAO?,4f6e298c,4f6e298c_0
+What actions qualify a user to receive the R-1 role in Razor DAO?,39d43df3,39d43df3_0
+Is the 1 OG role still available for new users in Razor DAO?,39d43df3,39d43df3_0
+How does Razor DAO determine which users are awarded the R-1 role?,39d43df3,39d43df3_0
+What specific tasks should I stay updated on to contribute to Razor DAO?,c2c47648,c2c47648_0
+What social media action can unlock a special perk for my contributions?,c2c47648,c2c47648_0
+What might happen if I remain inactive after receiving the R-1 role?,c2c47648,c2c47648_0
+What steps should a user take to set up the Razor Wallet after installing it from the Chrome store?,58f45e56,58f45e56_0
+How can a user acquire $MOVE on the M1 and M2 networks using the Razor Wallet?,58f45e56,58f45e56_0
+Where should users report errors or provide feedback related to their experience with Razor DAO?,58f45e56,58f45e56_0
+What is the main purpose of the Razor DAO?,b1a9f625,b1a9f625_0
+How can I participate in the Razor DAO community?,b1a9f625,b1a9f625_0
+What are the key features of the Razor DAO platform?,b1a9f625,b1a9f625_0
+What does the SuiWalletProvider do within the Razor Wallet Kit?,ba286ca4,ba286ca4_0
+What are the default settings for the autoConnect prop in the SuiWalletProvider API?,ba286ca4,ba286ca4_0
+Where can users find instructions on customizing the wallet list in the modal?,ba286ca4,ba286ca4_0
+What should you do if you encounter a broken link while using Razor Wallet Kit?,50928db2,50928db2_0
+"What is the copyright year mentioned in the document for Razor Labs, Inc.?",50928db2,50928db2_0
+Which platform is mentioned for community engagement related to Razor Wallet Kit?,50928db2,50928db2_0
+What is the purpose of the useSuiWallet React Hook?,2a692972,2a692972_0
+How do you implement a simple NFT minting transaction using the Razor Wallet Kit?,2a692972,2a692972_0
+What should you be aware of regarding the connected chain of the wallet in the context of network changes?,2a692972,2a692972_0
+What environments does the Sui team suggest each dapp should separate for better user experience?,2a692972,2a692972_1
+What are the possible statuses of the wallet connection as indicated by the useSuiWallet function?,2a692972,2a692972_1
+What is the purpose of the getAccounts function in the Razor Wallet Kit?,2a692972,2a692972_1
+What should be used instead of the deprecated signAndExecuteTransaction API?,2a692972,2a692972_2
+What does the accountChange event listener emit when the wallet app changes its account?,2a692972,2a692972_2
+Which method should be used to get the public key instead of the deprecated getPublicKey method?,2a692972,2a692972_2
+What is the main purpose of the useSuiProvider hook in the Razor Wallet Kit?,8af064c3,8af064c3_0
+What is the endpoint provided for using the SuiClient in the example within the document?,8af064c3,8af064c3_0
+How can the executeTransactionBlock method be used with the SuiClient interface as per the document?,8af064c3,8af064c3_0
+What does the useSuiAccountBalance hook return regarding the current account's balance and its loading status?,5531053b,5531053b_0
+How should the balance string returned by useSuiAccountBalance be converted for calculations in the application?,5531053b,5531053b_0
+What happens if an error occurs while fetching the account balance using useSuiAccountBalance?,5531053b,5531053b_0
+What does the useAptosWallet hook retrieve from AptosWalletProvider?,2fac8ac1,2fac8ac1_0
+How can a DApp verify if a message signing was successful with a connected wallet?,2fac8ac1,2fac8ac1_0
+What should you be aware of regarding network changes in wallets when using the Razor Wallet?,2fac8ac1,2fac8ac1_0
+What function retrieves all accessible accounts from the wallet?,2fac8ac1,2fac8ac1_1
+What condition must be met for the handleGetAccounts function to execute?,2fac8ac1,2fac8ac1_1
+How can you get the current connected chain of the wallet according to the document?,2fac8ac1,2fac8ac1_1
+What is the purpose of the useAptosProvider hook in the Razor Wallet Kit?,5a14fe4b,5a14fe4b_0
+How can the signAndSubmitTransaction endpoint be accessed using the useAptosProvider hook?,5a14fe4b,5a14fe4b_0
+What is the endpoint URL mentioned for the Aptos interface in the provided document?,5a14fe4b,5a14fe4b_0
+What is the role of the SuiWalletProvider in the Razor Wallet Kit?,5b44a187,5b44a187_0
+How can you customize the wallet list in the modal according to the document?,5b44a187,5b44a187_0
+What is the default behavior of the autoConnect property in the Razor Wallet Kit?,5b44a187,5b44a187_0
+What is the primary function of the SuiConnectButton component in the Razor Wallet Kit?,047a1c50,047a1c50_0
+How can a developer handle connection errors when using the SuiConnectButton?,047a1c50,047a1c50_0
+What property can be used to customize the display style of the SuiConnectButton?,047a1c50,047a1c50_0
+What is the purpose of the ConnectModal component in the Razor Wallet Kit?,a36bad6b,a36bad6b_0
+What are the default values for the 'open' and 'children' props in the ConnectModal API?,a36bad6b,a36bad6b_0
+Which hook is used in the provided example to manage wallet connection state?,a36bad6b,a36bad6b_0
+What is the purpose of the AptosWalletProvider in the Razor Wallet Kit?,72490c52,72490c52_0
+Where can I find details on how to customize the wallet list on the modal?,72490c52,72490c52_0
+What is the default value for the autoConnect prop in the AptosWalletProvider?,72490c52,72490c52_0
+What function is used to define a new wallet that is not covered by the preset wallets?,df6a3242,df6a3242_0
+How can you access the configured wallet list when using the useSuiWallet hook?,df6a3242,df6a3242_0
+What will be listed in the Popular section of the wallet-select modal by default?,df6a3242,df6a3242_0
+What is the primary function of the AptosConnectButton in the Razor Wallet Kit?,ddfd37b1,ddfd37b1_0
+How can developers handle connection errors using the AptosConnectButton component?,ddfd37b1,ddfd37b1_0
+What default value is set for the 'children' property in the AptosConnectButton API props?,ddfd37b1,ddfd37b1_0
+What is the structure of the IDefaultWallet interface and what fields does it contain?,f242ba58,f242ba58_0
+Can you provide an example of how to create a customized defaultWallet item using the IDefaultWallet interface?,f242ba58,f242ba58_0
+What are the error codes defined in the ErrorCode enum and what do they represent?,f242ba58,f242ba58_0
+What is the primary purpose of the Razor Wallet Kit for Movement DApps?,7dcc080e,7dcc080e_0
+Which package manager is recommended for installing the Razor Wallet Kit?,7dcc080e,7dcc080e_0
+What should a developer do if they are following the tutorial for an M1 app instead of an M2 app?,7dcc080e,7dcc080e_0
+How does the Razor wallet kit guide users to download the wallet if it is not installed?,7dcc080e,7dcc080e_1
+What does the hook useSuiWallet retrieve from the SuiWalletProvider?,7dcc080e,7dcc080e_1
+What information can be displayed about the connected wallet using the Razor wallet kit?,7dcc080e,7dcc080e_1
+What is the contract address for creating an NFT in the Razor Wallet Kit?,7dcc080e,7dcc080e_2
+What is the image URL used for the Razor NFT in the transaction block?,7dcc080e,7dcc080e_2
+What should you see in the Razor wallet after successfully minting the NFT?,7dcc080e,7dcc080e_2
+What tutorial does the document introduce for connecting DApps to wallets on Movement?,7dcc080e,7dcc080e_3
+What features can users implement on their DApp using the Razor wallet kit?,7dcc080e,7dcc080e_3
+How can users get help if they encounter confusion while using the Razor wallet kit?,7dcc080e,7dcc080e_3
+What are the components available in the Razor Wallet Kit?,cd553808,cd553808_0
+How can you customize the supported chains for your DApp using the Razor Wallet Kit?,cd553808,cd553808_0
+What is the process to connect your DApp with wallets on Movement using the Razor Wallet Kit?,cd553808,cd553808_0
+What is the media query used to customize CSS for dark mode in the Razor Wallet Kit?,f074fb87,f074fb87_0
+What must be done regarding CSS rules for dark mode in relation to the default CSS file?,f074fb87,f074fb87_0
+What CSS variables can be overridden to customize the theme for dark mode in the Razor Wallet Kit?,f074fb87,f074fb87_0
+What is the default RGB value of the background color defined in the CSS variables?,afe21df1,afe21df1_0
+How do you correctly import your custom CSS file to override default styles in Razor Wallet Kit?,afe21df1,afe21df1_0
+What is the CSS class name for customizing the ConnectButton component?,afe21df1,afe21df1_0
+Where should your custom CSS file be imported in relation to the default CSS file?,afe21df1,afe21df1_1
+What is the suggested order of imports for CSS files in the src/index.jsx file?,afe21df1,afe21df1_1
+What is noted as not recommended for overriding CSS variables?,afe21df1,afe21df1_1
+What is the purpose of the BEM naming rule in the Razor Wallet Kit?,296b735e,296b735e_0
+What do you need to import in order to use the default styles of the Razor Wallet Kit?,296b735e,296b735e_0
+In which file should you import the default CSS file for the Razor Wallet Kit?,296b735e,296b735e_0
+What is the purpose of the useSuiWallet hook in the Razor Wallet Kit?,09b47aee,09b47aee_0
+How can a user mint an NFT using the Razor Wallet Kit?,09b47aee,09b47aee_0
+What is a notable caution mentioned regarding the retrieval of the connected chain (network) of the wallet?,09b47aee,09b47aee_0
+What does the Sui team suggest regarding the environments for each chain in dapp development?,09b47aee,09b47aee_1
+What properties does the wallet object returned by `useSuiWallet` include related to connection status?,09b47aee,09b47aee_1
+How can one obtain the account information from a connected wallet using the `useSuiWallet` hook?,09b47aee,09b47aee_1
+What event is emitted when the wallet app changes its account?,09b47aee,09b47aee_2
+Which method is recommended to replace the deprecated 'signAndExecuteTransaction'?,09b47aee,09b47aee_2
+What should be used instead of 'getPublicKey' to retrieve the public key of the account?,09b47aee,09b47aee_2
+What does the useSuiProvider hook provide in React?,f273b44f,f273b44f_0
+How can you execute a transaction using the SuiClient interface provided by useSuiProvider?,f273b44f,f273b44f_0
+What is the endpoint used in the examples for the SuiClient?,f273b44f,f273b44f_0
+What properties does the useSuiAccountBalance hook return when fetching the account balance?,f3887e74,f3887e74_0
+How should the balance returned by useSuiAccountBalance be converted for calculations?,f3887e74,f3887e74_0
+What does it indicate if the error property returned by useSuiAccountBalance is not null?,f3887e74,f3887e74_0
+What information can be retrieved using the useAptosWallet React Hook?,bce4e1e7,bce4e1e7_0
+How can a DApp ask for user approval through message signing according to the document?,bce4e1e7,bce4e1e7_0
+"What does the useEffect hook check regarding the connected chain of the wallet, and what is specified as a cautionary note?",bce4e1e7,bce4e1e7_0
+What function is used to retrieve the current wallet's account address?,bce4e1e7,bce4e1e7_1
+How does the handleGetAccounts function ensure the wallet is connected before retrieving accounts?,bce4e1e7,bce4e1e7_1
+What happens if the current connected chain of the wallet is not synced with the wallet's support for the 'change' event?,bce4e1e7,bce4e1e7_1
+What is the purpose of the useAptosProvider hook in the Razor Wallet Kit?,d3a00cd4,d3a00cd4_0
+How can you use the signAndSubmitTransaction endpoint with the Aptos interface provided by useAptosProvider?,d3a00cd4,d3a00cd4_0
+What is the endpoint URL example provided for the useAptosProvider in the document?,d3a00cd4,d3a00cd4_0
+What type of data is returned by the useAptosAccountBalance hook regarding the account's balance?,42032555,42032555_0
+What happens if an error occurs while fetching the balance using useAptosAccountBalance?,42032555,42032555_0
+How should the balance string be converted for calculations if it exceeds Number.MAX_SAFE_INTEGER?,42032555,42032555_0
+What is the role of the SuiWalletProvider in the Razor Wallet Kit?,fe1dcde0,fe1dcde0_0
+What are the default settings for the autoConnect prop in the SuiWalletProvider?,fe1dcde0,fe1dcde0_0
+Where can one find details on customizing the wallet list on the modal?,fe1dcde0,fe1dcde0_0
+What functionalities does the SuiConnectButton manage during the wallet connection process?,e111ab43,e111ab43_0
+How can a developer handle connection errors using the SuiConnectButton component?,e111ab43,e111ab43_0
+What are the default values for the properties of the SuiConnectButton API?,e111ab43,e111ab43_0
+What is the purpose of the ConnectModal in the Razor Wallet Kit?,6d8c8850,6d8c8850_0
+What are the default API props for the ConnectModal component?,6d8c8850,6d8c8850_0
+How can you customize your own ConnectButton along with the ConnectModal?,6d8c8850,6d8c8850_0
+What is the purpose of the AptosWalletProvider in the Razor Wallet Kit?,a6d5c41b,a6d5c41b_0
+What is the default behavior of the autoConnect property in the Razor Wallet Kit?,a6d5c41b,a6d5c41b_0
+Where can I find details on customizing the wallet list in the modal?,a6d5c41b,a6d5c41b_0
+What functionality does the AptosConnectButton manage in the wallet connection process?,0fe46568,0fe46568_0
+How can you handle errors when the wallet connection fails using the AptosConnectButton?,0fe46568,0fe46568_0
+What are the default types of properties for the AptosConnectButton's children and style?,0fe46568,0fe46568_0
+What component is used to provide the context of data and functions in the Razor Wallet Kit?,fc0e14e3,fc0e14e3_0
+How can you customize the default wallet list in the SuiWalletProvider?,fc0e14e3,fc0e14e3_0
+What function from the useSuiWallet hook is used to connect to one of the SUI wallets in the WalletSelector component?,fc0e14e3,fc0e14e3_0
+What are the names of the preset wallets that will be displayed as popular on the Razor Wallet Kit modal by default?,9275ec2e,9275ec2e_0
+What steps should a wallet developer follow to list their wallet on the Razor Wallet Kit?,9275ec2e,9275ec2e_0
+What should a developer remember to handle when dealing with different wallet adapters in the Razor Wallet Kit?,9275ec2e,9275ec2e_0
+What properties are included in the IDefaultWallet interface?,c2439e8c,c2439e8c_0
+What type of data structure defines a chain in the Razor Wallet Kit?,c2439e8c,c2439e8c_0
+What are the possible error codes defined in the ErrorCode enumeration?,c2439e8c,c2439e8c_0
+What must a web application leverage to be considered a DApp according to the document?,6837fce9,6837fce9_0
+How can you customize the wallet list on the select modal in the Razor Wallet Kit?,6837fce9,6837fce9_0
+What is the purpose of connecting your DApp with wallets as mentioned in the document?,6837fce9,6837fce9_0
+What is the version of the Razor Wallet Kit documented?,4671feb0,4671feb0_0
+How can CSS variables be utilized in the Razor Wallet Kit?,4671feb0,4671feb0_0
+Which social media platforms are mentioned for community engagement in the document?,4671feb0,4671feb0_0
+What are the available hooks mentioned in the Razor Wallet Kit document?,7c3fb76a,7c3fb76a_0
+Where can I find the introduction sections for the useAptosProvider and useSuiWallet?,7c3fb76a,7c3fb76a_0
+What does the document say about the capabilities of the Razor Wallet Kit's adapter?,7c3fb76a,7c3fb76a_0
+What are the components included in the Razor Wallet Kit?,1c141cce,1c141cce_0
+Is there a section in the document that discusses adapter capabilities?,1c141cce,1c141cce_0
+"What social platforms does Razor Labs, Inc. use for community engagement?",1c141cce,1c141cce_0
+What are the steps to list a new wallet on the Razor Wallet Kit?,1aaee386,1aaee386_0
+Which wallets are displayed as popular by default in the Razor Wallet Kit modal?,1aaee386,1aaee386_0
+What should a wallet developer do if their wallet adapter does not support certain features?,1aaee386,1aaee386_0
+What is the purpose of the Razor Wallet Kit?,d3479b58,d3479b58_0
+Which npm package needs to be installed for Sui Move apps?,d3479b58,d3479b58_0
+How can you utilize hooks with custom UI components in Razor Wallet Kit?,d3479b58,d3479b58_0
+What function is used to sign a personal message in the Razor Wallet Kit?,d3479b58,d3479b58_1
+What does the console log when the connected wallet status changes?,d3479b58,d3479b58_1
+What should you check in the 'If' condition before logging the wallet name and account address?,d3479b58,d3479b58_1
+What is the first step to set up the Razor Wallet Kit in a project?,39a3dad5,39a3dad5_0
+Which npm package needs to be installed for Sui Move apps?,39a3dad5,39a3dad5_0
+What should you do after connecting your dapp to a supported wallet in order to use wallet capabilities?,39a3dad5,39a3dad5_0
+What is the message being signed in the handleSignMessage function?,39a3dad5,39a3dad5_1
+Which hook is used to access the Aptos wallet in the provided code?,39a3dad5,39a3dad5_1
+What information is logged when the wallet is connected in the useEffect hook?,39a3dad5,39a3dad5_1
+What is the main content focus of the Razor Wallet Kit document?,88b61c49,88b61c49_0
+"What year is mentioned in the copyright information for Razor Labs, Inc.?",88b61c49,88b61c49_0
+Where can users reach out for support if they encounter a broken link?,88b61c49,88b61c49_0
+What changes have been made to the onboarding process for RIZE?,60ff0d8d,60ff0d8d_0
+What do users need to do to register successfully on the RIZE platform?,60ff0d8d,60ff0d8d_0
+Is there any visual aid provided during the onboarding process for RIZE?,60ff0d8d,60ff0d8d_0
+What tokens are currently supported for deposit in RIZE?,45d316aa,45d316aa_0
+Where can I find the 'deposit button' on the dashboard?,45d316aa,45d316aa_0
+Is there a plan to support more tokens in RIZE in the future?,45d316aa,45d316aa_0
+What is the purpose of building a super squad in the RIZE tutorial?,9db6af0d,9db6af0d_0
+How can you build a squad according to the document?,9db6af0d,9db6af0d_0
+What visual aid is mentioned in the content that relates to the squad?,9db6af0d,9db6af0d_0
+What percentage of points do you earn from your squad members' contributions?,ea083523,ea083523_0
+How do cumulative deposits affect squad targets in the RIZE tutorial?,ea083523,ea083523_0
+What is the percentage of points earned from invitees of your squad members?,ea083523,ea083523_0
+What date will funds be available for withdrawal?,80f365db,80f365db_0
+What are some ways to earn extra points in the RIZE card game?,80f365db,80f365db_0
+How does leveling up benefit players in terms of invitation codes?,80f365db,80f365db_0
+What features are listed under the Route-X documentation?,a3bc722f,a3bc722f_0
+Where can I find the API documentation for Route-X?,a3bc722f,a3bc722f_0
+What section comes before 'Supporting Resources' in the Route-X document?,a3bc722f,a3bc722f_0
+What are the sections included in the Route-X Supporting Resources document?,2d0ba45a,2d0ba45a_0
+How can users access the API Documentation for Route-X?,2d0ba45a,2d0ba45a_0
+What is the purpose of the FAQs section in the Route-X document?,2d0ba45a,2d0ba45a_0
+When is the testnet contract scheduled to be deployed?,6bb3f1ba,6bb3f1ba_0
+What is the expected release date for the testnet frontend (web) beta?,6bb3f1ba,6bb3f1ba_0
+When is the API expected to be available?,6bb3f1ba,6bb3f1ba_0
+What is the purpose of the Route-X FAQs section?,deb1aca2,deb1aca2_0
+Where can I find additional resources to support my use of Route-X?,deb1aca2,deb1aca2_0
+How can I contribute to the Route-X project?,deb1aca2,deb1aca2_0
+What features are included in the Route-X API documentation?,9ca8256f,9ca8256f_0
+What resources are available for users to get started with Route-X?,9ca8256f,9ca8256f_0
+How can users contribute to the Route-X project?,9ca8256f,9ca8256f_0
+How can users access and use liquidity in Route-X?,63964a9c,63964a9c_0
+What are some best practices for liquidity providers according to the User Guide?,63964a9c,63964a9c_0
+What features related to liquidity management does Route-X provide?,63964a9c,63964a9c_0
+What strategies does RouteX use to address fragmented liquidity in decentralized environments?,7f72cd90,7f72cd90_0
+How does RouteX enhance the trading experience for its users?,7f72cd90,7f72cd90_0
+What measures does RouteX implement to ensure the security of transactions and data?,7f72cd90,7f72cd90_0
+What type of algorithm does the Route-X API use for asset exchanges?,39e1ab32,39e1ab32_0
+How does the Route-X API improve the efficiency of token swaps?,39e1ab32,39e1ab32_0
+In what ways can the Route-X API split asset exchanges between different protocols?,39e1ab32,39e1ab32_0
+What are the prerequisites for using Route-X?,204bb872,204bb872_0
+How do you set up and start using Route-X?,204bb872,204bb872_0
+What resources are available for supporting users of Route-X?,204bb872,204bb872_0
+What unique capabilities of the Movement blockchain does RouteX leverage for its liquidity aggregation?,a97727e9,a97727e9_0
+How does RouteX enhance trading efficiency for users on the Movement blockchain?,a97727e9,a97727e9_0
+What types of participants does RouteX aim to support within its decentralized exchange activities?,a97727e9,a97727e9_0
+What role does Satay play in the DeFi ecosystem according to the document?,611fea2f,611fea2f_0
+Who is the founder of Satay as mentioned in the document?,611fea2f,611fea2f_0
+What are the core concepts that anchor Satay's approach to yield aggregation?,611fea2f,611fea2f_0
+What are the leveling milestones and corresponding satay types in the Satay 2.0 leveling system?,e2fbfa42,e2fbfa42_0
+How can participants earn extra experience points in the Satay 2.0 community?,e2fbfa42,e2fbfa42_0
+What are the Main Chef Roles in the Satay Chef Guild?,e2fbfa42,e2fbfa42_0
+What platform is used to join the study on Satay Finance?,a50bd33c,a50bd33c_0
+What can participants earn by joining the Satay Finance study?,a50bd33c,a50bd33c_0
+What community aspect is associated with Satay Finance in the document?,a50bd33c,a50bd33c_0
+What is the primary function of the borrow optimization strategy in Satay Finance?,38381c4e,38381c4e_0
+How does the borrow optimization strategy identify the leading lending market?,38381c4e,38381c4e_0
+What steps are involved in reallocating stablecoins within the borrow optimization process?,38381c4e,38381c4e_0
+What are the rewards that users can earn by utilizing the Liquid Staking + LP Farming strategy?,7199bd9d,7199bd9d_0
+What is the process for creating a position in the Liquid Staking + LP Farming strategy?,7199bd9d,7199bd9d_0
+How can users periodically claim emissions in the Liquid Staking + LP Farming strategy?,7199bd9d,7199bd9d_0
+What rewards can users earn through leveraged liquid staking on Satay Finance?,315282fc,315282fc_0
+What steps are involved in creating a leveraged liquid staking position?,315282fc,315282fc_0
+How does the leveraging process affect the APY for MOVE tokens in this system?,315282fc,315282fc_0
+What function is called to initialize the vault referenced by vault_id with a debt_ratio?,813d4c77,813d4c77_0
+What condition must be met for the harvest function to be called according to the harvest_trigger?,813d4c77,813d4c77_0
+Which function allows the user to liquidate a certain amount of StrategyCoin for a specified share_amount of VaultCoin?,813d4c77,813d4c77_0
+What function does the base_strategy module call on the vault to initialize a strategy?,73a2afbc,73a2afbc_0
+What conditions must be met for the function process_harvest_trigger to return true?,73a2afbc,73a2afbc_0
+What is the purpose of the open_vault_for_user_withdraw function in the Base Strategy Module?,73a2afbc,73a2afbc_0
+What is returned by the function open_vault_for_user_withdraw?,73a2afbc,73a2afbc_1
+What action does the close_vault_for_user_withdraw function perform after liquidating Coin?,73a2afbc,73a2afbc_1
+"What does the update_debt_ratio function do for a Vault referenced by (manager, vault_id)?",73a2afbc,73a2afbc_1
+What is the role of the ManagerAccount struct in the satay module?,5d579802,5d579802_0
+How does a user deposit BaseCoin into a vault using the Satay Module?,5d579802,5d579802_0
+What conditions must be met to unlock a vault after it has been locked in the satay module?,5d579802,5d579802_0
+What function updates the strategy.credit_threshold value of VaultStrategy for a specific vault?,5d579802,5d579802_1
+What does the function set_strategy_force_harvest_trigger_once do for the VaultStrategy?,5d579802,5d579802_1
+What parameters are necessary to call the update_strategy_max_report_delay function?,5d579802,5d579802_1
+What are the key fields contained within the Vault struct in the Satay Finance Vault Module?,2778738e,2778738e_0
+What function is used to create a new vault and what parameters does it require?,2778738e,2778738e_0
+What restrictions are placed on the management_fee and performance_fee during the vault creation process?,2778738e,2778738e_0
+What is the purpose of the update_fee function in the vault module?,2778738e,2778738e_1
+What happens when the debt_ratio exceeds MAX_DEBT_RATIO_BPS in the update_strategy_debt_ratio function?,2778738e,2778738e_1
+How does the assess_fees function determine the fees charged on reported gains?,2778738e,2778738e_1
+What represents a user's share of a Vault's underlying assets in Satay Finance?,639a277d,639a277d_0
+What is required for a strategy to withdraw BaseCoin from a vault?,639a277d,639a277d_0
+Who initially holds the vault manager role according to the document?,639a277d,639a277d_0
+What accounts can call the initialize_vault function and what is its purpose?,8aee7fe1,8aee7fe1_0
+"What is the role of the dao_admin in relation to the global_config module, specifically regarding CoinType?",8aee7fe1,8aee7fe1_0
+What conditions must be met for the assert_keeper function to pass?,8aee7fe1,8aee7fe1_0
+What is the purpose of the ProductCoin in the Structured Product Module of Satay Finance?,6e8da3d9,6e8da3d9_0
+What functions are involved in the deposit and withdraw processes in the Structured Product Module?,6e8da3d9,6e8da3d9_0
+How does the apply_position function interact with the Coin during a deposit in the Structured Product Module?,6e8da3d9,6e8da3d9_0
+What is the purpose of the function get_position_coin_amount_for_base_coin_amount?,6e8da3d9,6e8da3d9_1
+When is the liquidation amount needed according to the document?,6e8da3d9,6e8da3d9_1
+Who calls the function to obtain the liquidation amount during harvests and user withdrawals?,6e8da3d9,6e8da3d9_1
+What are the three main components mentioned in the Satay Finance strategies overview?,79b8de22,79b8de22_0
+How does a user withdraw BaseCoin from a strategy at Satay Finance?,79b8de22,79b8de22_0
+What does the unique ProductCoin represent in the context of the strategies offered by Satay Finance?,79b8de22,79b8de22_0
+What are the fundamental building units of Satay Finance called?,6a3d7d9c,6a3d7d9c_0
+What are the three examples of Blocks mentioned in the document?,6a3d7d9c,6a3d7d9c_0
+How does liquid staking benefit users in terms of rewards and liquidity?,6a3d7d9c,6a3d7d9c_0
+What is the primary feature of Automated Vaults offered by Satay Finance?,933d9b60,933d9b60_0
+How does Satay Finance optimize fund allocations to strategies?,933d9b60,933d9b60_0
+What does Satay Finance aim to achieve by providing a unified platform for users in the DeFi landscape?,933d9b60,933d9b60_0
+What command can be run from the command line to manually deploy a NextJS frontend using Vercel?,fa271881,fa271881_0
+How can you ignore type and lint checks while deploying from the command line?,fa271881,fa271881_0
+What happens if there are type or lint errors when deploying with Vercel?,fa271881,fa271881_0
+What command is used to initialize an Aptos account and fund it with the native token?,afe1ada0,afe1ada0_0
+What happens to the deployedModules.ts file after the yarn deploy command is executed?,afe1ada0,afe1ada0_0
+What should be done if the Aptos devnet is reset and the chainId changes?,afe1ada0,afe1ada0_0
+What parameters are required to call the view function on a Move Module?,e7523291,e7523291_0
+What is the purpose of the 'ty_args' and 'function_args' parameters in the view function call?,e7523291,e7523291_0
+What does the view function return after being called with the specified parameters?,e7523291,e7523291_0
+What parameters are required for the getModule function to retrieve a module?,5ed5b495,5ed5b495_0
+What type of information does the returned object from getModule contain?,5ed5b495,5ed5b495_0
+How does the example provided demonstrate the use of the getModule function?,5ed5b495,5ed5b495_0
+What function is used to retrieve all modules by chainId in the Scaffold Move framework?,c632a98b,c632a98b_0
+What information is included in the list of GenericModule objects returned by the getAllModules function?,c632a98b,c632a98b_0
+What parameter types are required to call the getAllModules function?,c632a98b,c632a98b_0
+What mandatory fields are required for defining default Aptos chains in chains.ts?,d895e54c,d895e54c_0
+What should you do if the Aptos devnet is reset and the chainId changes?,d895e54c,d895e54c_0
+What type of information can be included for custom chains beyond the mandatory fields?,d895e54c,d895e54c_0
+"What parameters can be passed to the useView hook, and which ones are optional?",5905e3eb,5905e3eb_0
+How does the useView hook handle loading and error states when calling a view function?,5905e3eb,5905e3eb_0
+What happens when the watch parameter of the useView hook is set to true?,5905e3eb,5905e3eb_0
+What does the useTargetNetwork hook do?,2681666f,2681666f_0
+What does the useTargetNetwork hook return when the wallet is not connected?,2681666f,2681666f_0
+Who is the author of the Scaffold Move Docs?,2681666f,2681666f_0
+What function is called to submit a transaction on a Move module using the useSubmitTransaction hook?,e13c3f3f,e13c3f3f_0
+What parameters are required when calling the submitTransaction function in the example provided?,e13c3f3f,e13c3f3f_0
+What are the possible return values of the transactionResponse when submitting a transaction?,e13c3f3f,e13c3f3f_0
+What information does the useGetModule hook return when fetching a Move module?,c52fbad7,c52fbad7_0
+What is the purpose of the moduleName parameter in the useGetModule hook?,c52fbad7,c52fbad7_0
+Which lists are included in the abi return value of the useGetModule hook?,c52fbad7,c52fbad7_0
+What does the useGetAccountResources hook fetch for a given address?,4e70d88e,4e70d88e_0
+What parameters can be passed to the useGetAccountResources function?,4e70d88e,4e70d88e_0
+What is the return value of the useGetAccountResources hook?,4e70d88e,4e70d88e_0
+What is the purpose of the useGetAccountResource hook in Scaffold Move?,619d2358,619d2358_0
+"What parameters are required for the useGetAccountResource hook, and what does each parameter represent?",619d2358,619d2358_0
+What is the return value of the useGetAccountResource hook?,619d2358,619d2358_0
+What does the useGetAccountNativeBalance hook do?,3faec5cf,3faec5cf_0
+What parameter does the useGetAccountNativeBalance function accept to specify the account address?,3faec5cf,3faec5cf_0
+What information is contained in the balance object returned by useGetAccountNativeBalance?,3faec5cf,3faec5cf_0
+What is the purpose of the useGetAccountModules hook in the Scaffold Move Docs?,72022fc1,72022fc1_0
+What are the parameters required for the useGetAccountModules hook?,72022fc1,72022fc1_0
+What data does the useGetAccountModules hook return when fetching modules for a specified address?,72022fc1,72022fc1_0
+What is the purpose of the useGetAccountModule hook?,0befe5a7,0befe5a7_0
+What are the parameters required to use the useGetAccountModule hook?,0befe5a7,0befe5a7_0
+What does the return value of the useGetAccountModule hook consist of?,0befe5a7,0befe5a7_0
+What hook is used to fetch details about a deployed Move module?,4fb3d17a,4fb3d17a_0
+What is the parameter type required for the 'moduleName' in the useDeployedModuleInfo hook?,4fb3d17a,4fb3d17a_0
+What information does the useDeployedModuleInfo hook return about a deployed module?,4fb3d17a,4fb3d17a_0
+What is the purpose of the useAptosClient hook as described in the document?,6a03e0c2,6a03e0c2_0
+"What parameters does the useAptosClient hook require, and what type is the chainId?",6a03e0c2,6a03e0c2_0
+What information does the return value of the useAptosClient hook contain?,6a03e0c2,6a03e0c2_0
+What features does the CustomConnectButton in Scaffold Move provide?,35892c0c,35892c0c_0
+What information is displayed by the Balance Display feature of the CustomConnectButton?,35892c0c,35892c0c_0
+What options does the Custom Modal in the CustomConnectButton include?,35892c0c,35892c0c_0
+What type of token balance does the Balance component display?,0691a2db,0691a2db_0
+What is the required format for the address parameter in the Balance component?,0691a2db,0691a2db_0
+Which libraries are used for the styling of the Balance component?,0691a2db,0691a2db_0
+What does the Address component display alongside the Aptos address?,a658bfa7,a658bfa7_0
+What happens when the disableAddressLink parameter is set to true?,a658bfa7,a658bfa7_0
+How can the size of the Address component be customized?,a658bfa7,a658bfa7_0
+What new features are planned for Scaffold Move according to the document?,d28519a1,d28519a1_0
+What improvements are being made to the documentation for Scaffold Move?,d28519a1,d28519a1_0
+How can users contribute ideas or suggestions for Scaffold Move?,d28519a1,d28519a1_0
+What command should be commented out in the .husky/pre-commit file to disable commit checks?,3fd52079,3fd52079_0
+How can you ignore type and lint checks when deploying from the CLI to Vercel?,3fd52079,3fd52079_0
+What should you do to disable the GitHub workflow that runs type and lint error checks on code pushes to the main branch?,3fd52079,3fd52079_0
+What must you do before publishing a new Move module to the Aptos network?,86e6e962,86e6e962_0
+How can you automatically redeploy your NextJS frontend after pushing changes?,86e6e962,86e6e962_0
+What token is required to fund an Aptos account when initializing it for publishing Move modules?,86e6e962,86e6e962_0
+What file should be edited to manually add or modify external modules in Scaffold Move?,fcf00bfd,fcf00bfd_0
+How does the Move.toml file contribute to maintaining a consistent reference to external modules?,fcf00bfd,fcf00bfd_0
+What is the structure of the example provided for adding a treasury module in the externalModules.ts file?,fcf00bfd,fcf00bfd_0
+What function can be used to retrieve all modules by chainId in Scaffold Move?,98248765,98248765_0
+Which file contains the definitions and exports for different Aptos and Aptos-based chains?,98248765,98248765_0
+How can you call a View function on a Move Module using Scaffold Move utilities?,98248765,98248765_0
+What are the main files relied on by the custom hooks in Scaffold Move?,5ca24850,5ca24850_0
+What does the deployedModules.ts file organize based on the chainId?,5ca24850,5ca24850_0
+What command is used to auto-generate and update the deployedModules.ts file?,5ca24850,5ca24850_0
+What features does the Address component provide in Scaffold Move?,f2d7a708,f2d7a708_0
+What functionality does the CustomConnectButton offer in Scaffold Move?,f2d7a708,f2d7a708_0
+How does the Balance component display information related to a given address?,f2d7a708,f2d7a708_0
+What command is used to initialize a new account in Scaffold Move?,e880b1cb,e880b1cb_0
+Where can you find the Move modules that can be modified to suit your needs?,e880b1cb,e880b1cb_0
+What URL do you visit to interact with your app after starting it with Yarn?,e880b1cb,e880b1cb_0
+What links are provided for developing with Scaffold Move?,6c4dde8c,6c4dde8c_0
+Where can I find the Aptos Developer Documentation?,6c4dde8c,6c4dde8c_0
+Who is the creator of the Scaffold Move Docs?,6c4dde8c,6c4dde8c_0
+What toolkit is used for building decentralized applications on Aptos or other Move-based blockchains?,181af78f,181af78f_0
+What feature allows the frontend to automatically adapt to changes in Move modules?,181af78f,181af78f_0
+What is the purpose of the custom hooks provided by Scaffold Move?,181af78f,181af78f_0
+What specific security exploit occurred in June 2016 that led to the theft of $60M from The DAO?,29755848,29755848_0
+"How much was lost due to hacks in DeFi in 2022, and what were some of the major exploits in 2023?",29755848,29755848_0
+What are the three distinguishing characteristics of resources in the Move programming model?,29755848,29755848_0
+"What model does Move use for storing resources in accounts, and how does it reduce security risks?",29755848,29755848_1
+"How does the Coin struct in Move represent the amount of the coin, and what key feature makes it a resource?",29755848,29755848_1
+"What steps are involved in minting a new coin using the Move resource system, as outlined in the document?",29755848,29755848_1
+What function in Move allows new coins to be created and securely placed into an account?,29755848,29755848_2
+How does the bytecode verifier in Move ensure the integrity and safety of the execution environment?,29755848,29755848_2
+What role does the Move Prover play in relation to the correctness of smart contracts?,29755848,29755848_2
+What is the purpose of the Move Prover in relation to Move smart contracts?,29755848,29755848_3
+What types of specifications can developers write using the Move Specification Language (MSL)?,29755848,29755848_3
+How does the Move Prover assist developers in identifying errors in their smart contract code?,29755848,29755848_3
+What unique security features does the Move programming language offer for smart contract development?,29755848,29755848_4
+How does Movement Labs aim to make the Move programming language accessible across the modular blockchain ecosystem?,29755848,29755848_4
+What issues with the EVM model will Part II of the report address in relation to smart contract vulnerabilities?,29755848,29755848_4
+What are the common vulnerabilities in smart contracts on the Ethereum blockchain discussed in the document?,8f277a49,8f277a49_0
+How does the Move programming language handle integer overflow and underflow compared to Solidity?,8f277a49,8f277a49_0
+What is the significance of reentrancy attacks in the context of smart contract security as mentioned in the document?,8f277a49,8f277a49_0
+How does Move handle overflow when adding 1 to a `u8` variable?,8f277a49,8f277a49_1
+What is an example of a reentrancy vulnerability in Solidity contracts?,8f277a49,8f277a49_1
+What incident illustrates the potential consequences of a reentrancy attack in the DAO on Ethereum?,8f277a49,8f277a49_1
+What feature of the Move programming language helps mitigate reentrancy attacks compared to Solidity?,8f277a49,8f277a49_2
+How does Move's cyclic dependency checker contribute to security in smart contracts?,8f277a49,8f277a49_2
+What are some consequences of failing to implement robust access control mechanisms in smart contracts?,8f277a49,8f277a49_2
+What was the vulnerability in the initWallet function that allowed an attacker to steal approximately $30 million worth of Ether?,8f277a49,8f277a49_3
+How does Move's approach to access control ensure that only the owner can access and modify their own SensitiveData?,8f277a49,8f277a49_3
+What features of the Move programming language are highlighted as providing a more secure foundation for smart contract development compared to the Ethereum Virtual Machine?,8f277a49,8f277a49_3
+What is the primary goal of Movement Labs in terms of blockchain technology?,8f277a49,8f277a49_4
+Where can developers find resources and participate in the Movement Labs devnet?,8f277a49,8f277a49_4
+How does Movement Labs aim to enhance smart contract security on Ethereum?,8f277a49,8f277a49_4
+What is the purpose of the Bounty Board?,5343e570,5343e570_0
+What can participants collect by joining the community events?,5343e570,5343e570_0
+Is the Bounty Board suitable for newcomers to the community?,5343e570,5343e570_0
+What is the title of the document?,2c5332fa,2c5332fa_0
+What action was taken in the document?,2c5332fa,2c5332fa_0
+What kind of board is referenced in the document?,2c5332fa,2c5332fa_0
+What date does the Lunar New Year fall on this year?,2bab6b6d,2bab6b6d_0
+How many photo entries are required for each category to complete the LNY Bingo challenge?,2bab6b6d,2bab6b6d_0
+What must a photo submission include besides being square-shaped?,2bab6b6d,2bab6b6d_0
+What type of permissions do users have for the master BINGO grid?,66dc3415,66dc3415_0
+Where can users view the sample gameplay for the BINGO grid?,66dc3415,66dc3415_0
+What information is located at the top of the master BINGO grid?,66dc3415,66dc3415_0
+What is the title of the document?,7d2378ce,7d2378ce_0
+What is the purpose of the first entry in the document?,7d2378ce,7d2378ce_0
+To which house does the first entry in the document belong?,7d2378ce,7d2378ce_0
+What event is currently ongoing according to the document?,28f54eec,28f54eec_0
+Which House is currently in the lead for the Lunar New Year Bingo?,28f54eec,28f54eec_0
+What is the prize for the winning Faction in the Bingo event?,28f54eec,28f54eec_0
+Who is currently in the lead on the bounty board?,5efab259,5efab259_0
+How many entries does der Leck have?,5efab259,5efab259_0
+What is one requirement for entries to be uploaded to the sheets?,5efab259,5efab259_0
+What is the current number of photos uploaded by the leaders in the Seekers Alliance bounty-board?,0dc56b81,0dc56b81_0
+How many photos has der Leck uploaded compared to the leaders?,0dc56b81,0dc56b81_0
+What was the outcome of the recent push in the photo uploads?,0dc56b81,0dc56b81_0
+What do you need to do on the BINGO sheet to join a Faction?,7e1dc584,7e1dc584_0
+How many NFT card packs are being given away to the winning Faction?,7e1dc584,7e1dc584_0
+What event will be used to distribute the NFT card packs to the winning Faction?,7e1dc584,7e1dc584_0
+What is the current status of Galahad and Mahdia as reported on the bounty-board?,88146f68,88146f68_0
+How much time did it take for both Galahad and Mahdia to reach the status mentioned?,88146f68,88146f68_0
+What humorous expression is used regarding the situation of Galahad and Mahdia in the document?,88146f68,88146f68_0
+What does the score of 31 v 33 indicate about the recent event mentioned in the document?,d12dd7de,d12dd7de_0
+Who is noted as being missing in action (MIA) in the document?,d12dd7de,d12dd7de_0
+What milestone is highlighted by the phrase 'beats for the first time'?,d12dd7de,d12dd7de_0
+How many more boxes are needed for the 'red envelope' category?,d3db43b2,d3db43b2_0
+Who is responsible for finishing the first space?,d3db43b2,d3db43b2_0
+What category is being referred to in the bounty-board document?,d3db43b2,d3db43b2_0
+What potential reward is mentioned in relation to finishing the first space?,8fdc03a6,8fdc03a6_0
+Does the document suggest that there might be a bonus involved?,8fdc03a6,8fdc03a6_0
+What is the context of seeking a bonus according to the document?,8fdc03a6,8fdc03a6_0
+Who is recognized as the Seeker of the Day for completing every category on the BINGO sheet?,7f925047,7f925047_0
+What special prize will the Seeker of the Day receive for their achievement?,7f925047,7f925047_0
+Where can the records of all prizes awarded be found?,7f925047,7f925047_0
+What is the current score in the LNY Bingo update?,21d81e5b,21d81e5b_0
+How many NFT packs are being raffled out to the winning Faction?,21d81e5b,21d81e5b_0
+Which two factions are currently in a close race according to the update?,21d81e5b,21d81e5b_0
+What is the current progress of the Lunar New Year BINGO event according to the document?,f183e6c1,f183e6c1_0
+What are the two options presented for the continuation of the BINGO event?,f183e6c1,f183e6c1_0
+Who among the Founders will be attending ETH Denver next week?,f183e6c1,f183e6c1_0
+What should you do if your submission is not on the BINGO sheets?,d300f878,d300f878_0
+Who should you contact if your submission is missing from the BINGO sheets?,d300f878,d300f878_0
+What is the purpose of the BINGO sheets in the context of Seekers Alliance?,d300f878,d300f878_0
+What was the previous requirement to join a Faction?,e34995c8,e34995c8_0
+How many lines on the BINGO sheet do you now need to complete to join a Faction?,e34995c8,e34995c8_0
+What is the benefit of reducing the requirement to join a Faction for newer joiners?,e34995c8,e34995c8_0
+What event is being mentioned in the document?,6e035df3,6e035df3_0
+What is the incentive for participants to submit their pictures?,6e035df3,6e035df3_0
+What prize can participants win by entering the event?,6e035df3,6e035df3_0
+What event is currently taking place and has less than 2 weeks remaining?,edf14a6a,edf14a6a_0
+Who is currently in the lead for the BINGO event?,edf14a6a,edf14a6a_0
+Are there any special prizes for completing the spaces in the BINGO event?,edf14a6a,edf14a6a_0
+What will happen to the prizes if no Faction completes any lines by the end of the BINGO event?,fc3cd49e,fc3cd49e_0
+How much time is left until the close of the BINGO event?,fc3cd49e,fc3cd49e_0
+Can a Faction receive full rewards without completing any lines in the BINGO event?,fc3cd49e,fc3cd49e_0
+What event has recently concluded as mentioned in the document?,425237ec,425237ec_0
+Will the prizes for the LNY BINGO event be reduced despite no one completing a BINGO?,425237ec,425237ec_0
+How many days do participants have to enter the raffle for the 8 card packs?,425237ec,425237ec_0
+What is the main objective of the March fitness challenge mentioned in the document?,58c501b4,58c501b4_0
+What criteria must be included in the records of each participant's workout metrics?,58c501b4,58c501b4_0
+How can newcomers participate in the event if they do not have a faction role?,58c501b4,58c501b4_0
+What is the URL for the Check Point mentioned in the document?,d18cb02f,d18cb02f_0
+How often will the Overview page be updated according to the document?,d18cb02f,d18cb02f_0
+What type of document is associated with the Seekers Alliance bounty-board?,d18cb02f,d18cb02f_0
+What is the title of the document that is pinned?,2c5332fa,2c5332fa_0
+What type of message was pinned in the Seekers Alliance document?,2c5332fa,2c5332fa_0
+Is there any specific content provided in the document apart from the title and message?,2c5332fa,2c5332fa_0
+What app do most smart phones come pre-loaded with to track daily calories burned?,1d7cdcbf,1d7cdcbf_0
+How can iPhone users find the 'Active Energy' card to check their calories burned?,1d7cdcbf,1d7cdcbf_0
+What selection should users make to view their calorie data for the week in the 'Active Energy' feature?,1d7cdcbf,1d7cdcbf_0
+How many people have already participated in the Seekers Alliance bounty-board?,5c9b7fa7,5c9b7fa7_0
+What is still lacking in the updates regarding calories?,5c9b7fa7,5c9b7fa7_0
+What action is indicated by the phrase 'sheets are quickly filling up' in the context of the bounty-board?,5c9b7fa7,5c9b7fa7_0
+What requirement has been changed regarding submissions on the bounty board?,ebef7010,ebef7010_0
+What is now the only requirement for submitting exercises?,ebef7010,ebef7010_0
+What inconvenience did users express feedback about?,ebef7010,ebef7010_0
+Who are the winners of the first Faction competition (LNY Bingo)?,56cc9cc6,56cc9cc6_0
+What is the reward for the winning Faction in the March Fitness event?,56cc9cc6,56cc9cc6_0
+What should participants do to claim their prize after the LNY Bingo competition?,56cc9cc6,56cc9cc6_0
+How many card packs will be raffled out to the winning faction?,8e7d65e0,8e7d65e0_0
+What date was the update posted regarding the bounty-board?,8e7d65e0,8e7d65e0_0
+How many participants have already taken part in the activity?,8e7d65e0,8e7d65e0_0
+What is the prize for the winning Faction in the Seekers Alliance bounty-board raffle?,16266850,16266850_0
+"How many participants have already entered the raffle as of the update on March 14, 2024?",16266850,16266850_0
+What is the date and time of the update about the bounty-board in the document?,16266850,16266850_0
+How many people participated in the DogDance event?,1111df1f,1111df1f_0
+What is the number of participants for der Leck?,1111df1f,1111df1f_0
+What was the latest event reported on the bounty board?,1111df1f,1111df1f_0
+How many people have participated in the Get Off Your Butt & Work Off Event?,3c151f21,3c151f21_0
+What feedback is being requested for the event mentioned in the document?,3c151f21,3c151f21_0
+Which channels are mentioned as deleted in relation to the event participation?,3c151f21,3c151f21_0
+What is the deadline for participation in the Seekers Alliance bounty-board raffle?,1c10db2c,1c10db2c_0
+What is the prize being offered in the raffle for the winning faction?,1c10db2c,1c10db2c_0
+How many people have already participated in the bounty-board event?,1c10db2c,1c10db2c_0
+How many people have participated in the Get Off Your Butt & Work Off event?,d6e6b55e,d6e6b55e_0
+What is the closing date for the Get Off Your Butt & Work Off event?,d6e6b55e,d6e6b55e_0
+How many participants are associated with the entry 'der Leck' in the event?,d6e6b55e,d6e6b55e_0
+What event has come to a close as mentioned in the document?,eb727d5a,eb727d5a_0
+How many card packs will be raffled off to winning faction members?,eb727d5a,eb727d5a_0
+What will be created tonight for the participants of the winning faction?,eb727d5a,eb727d5a_0
+What is the total number of calories burned by the winning Faction in the March fitness event?,697b5723,697b5723_0
+What prize will the 1st place winners of each Faction receive?,697b5723,697b5723_0
+How long will the giveaway for the Galahad Faction be open?,697b5723,697b5723_0
+Who won the March fitness event?,218425b4,218425b4_0
+What reward did the winner of the March fitness event receive?,218425b4,218425b4_0
+Where can the details about the card pack be found?,218425b4,218425b4_0
+What should users send to receive updates on the bounty board?,d4de1b7e,d4de1b7e_0
+Which channel should users use to provide their wallet addresses?,d4de1b7e,d4de1b7e_0
+What is the purpose of sending wallet addresses in the context of the Seekers Alliance?,d4de1b7e,d4de1b7e_0
+Who should send their wallet address in #open-a-ticket?,5ffccf4b,5ffccf4b_0
+What is the purpose of sending the wallet address?,5ffccf4b,5ffccf4b_0
+Which channel should be used to send the wallet address?,5ffccf4b,5ffccf4b_0
+What is the amount of rewards received from BNB Chain for winning the hackathon?,864076ad,864076ad_0
+What was the position achieved in the hackathon last month?,864076ad,864076ad_0
+What event is being organized to celebrate the hackathon victory?,864076ad,864076ad_0
+What type of content is featured in the latest bounty outlined in the document?,3530b4d1,3530b4d1_0
+What is the purpose of completing the 5-minute quiz mentioned in the document?,3530b4d1,3530b4d1_0
+Where should users go to complete the campaign for a raffle ticket NFT?,3530b4d1,3530b4d1_0
+Who has joined the Seekers Alliance team?,bc01e8da,bc01e8da_0
+What platform will Lucy be helping with?,bc01e8da,bc01e8da_0
+What is Lucy's role in the team?,bc01e8da,bc01e8da_0
+What date and time will the Faction details start to be unveiled?,08f982d2,08f982d2_0
+What is the date and time of the event that participants can join after selecting a Faction?,08f982d2,08f982d2_0
+What happens after a participant makes their choice of Faction in the Discord event?,08f982d2,08f982d2_0
+What is the main subject of the Seekers Alliance document?,4e067376,4e067376_0
+Which specific faction is introduced in the document?,4e067376,4e067376_0
+What type of mysteries are suggested to be uncovered in relation to the Mahdia Alliance?,4e067376,4e067376_0
+What is the name of the next faction being unveiled?,4dfc0aa5,4dfc0aa5_0
+When is the next event scheduled to start?,4dfc0aa5,4dfc0aa5_0
+What should users remember to check before the next event?,4dfc0aa5,4dfc0aa5_0
+What is the significance of being an OG in the Seekers Alliance community?,209adf3f,209adf3f_0
+What activities are suggested for Seekers to participate in to feel more included?,209adf3f,209adf3f_0
+What incentives are offered to participants during the events and activities mentioned?,209adf3f,209adf3f_0
+What is the start date and time for the 9 Days Tic-Tac-Toe Adventure event?,5975ff8f,5975ff8f_0
+How long will the event last in terms of days?,5975ff8f,5975ff8f_0
+What is the main activity that will culminate the daily quests during the adventure?,5975ff8f,5975ff8f_0
+What must a user do if they do not have a Faction before they can apply to join one?,d7050f10,d7050f10_0
+How long do quests remain open for participants to complete?,d7050f10,d7050f10_0
+What determines which Faction claims the grid corresponding to a completed mission?,d7050f10,d7050f10_0
+What was the completion rate for House Galahad on Day 1?,77c1d8bd,77c1d8bd_0
+Which other alliances are mentioned as still having chances to win besides House Galahad?,77c1d8bd,77c1d8bd_0
+Where can players find more information about the game's progress and updates?,77c1d8bd,77c1d8bd_0
+Who won Day 2 of the event?,e7c37179,e7c37179_0
+Which alliance has been recognized for their consistent participation in the daily quests?,e7c37179,e7c37179_0
+What should participants do to help their faction win?,e7c37179,e7c37179_0
+Which faction won the day 3 grid?,e6ac2824,e6ac2824_0
+What are the names of the other two factions mentioned in the document?,e6ac2824,e6ac2824_0
+Where can participants help their faction by completing tasks?,e6ac2824,e6ac2824_0
+What is the main focus of the Day 4 results mentioned in the document?,a945d4b9,a945d4b9_0
+What encouragement is given to participants after the Day 4 results?,a945d4b9,a945d4b9_0
+What event is referenced that should not be wrapped up too quickly?,a945d4b9,a945d4b9_0
+What specific tasks are the members of Mahdia Alliance being urged to complete?,3f7ca562,3f7ca562_0
+What is the primary message being conveyed to Mahdia Alliance in the document?,3f7ca562,3f7ca562_0
+Which house is mentioned as a competitor that House Galahad is urged to not allow to win?,3f7ca562,3f7ca562_0
+Who was the winner of the 9 Days Tic-Tac-Toe Adventure event?,1b559684,1b559684_0
+What is the prize for the winners of the event?,1b559684,1b559684_0
+"How many winners will receive the Special Champion Prize, and what is the eligibility requirement for entering the special raffle?",1b559684,1b559684_0
+What is the deadline for completing the quests in the Zeeker campaign?,7cf683bf,7cf683bf_0
+What are participants encouraged to do to earn rewards?,7cf683bf,7cf683bf_0
+What is the tone of urgency conveyed in the document regarding the completion of quests?,7cf683bf,7cf683bf_0
+What event is currently happening related to the Zeeker campaign?,11074d29,11074d29_0
+What prizes are awarded to the winners of the Seeker Alliance Card Pack?,11074d29,11074d29_0
+How many Seeker Alliance Card Packs do the winners receive in the second category of prizes?,11074d29,11074d29_0
+What is the final deadline for casting votes for the preferred sticker style?,deb2accb,deb2accb_0
+"How many rounds are there in the Sticker Battle event, and how many stickers will be chosen as final winners from each Faction?",deb2accb,deb2accb_0
+"When can a participant change their Faction during the campaign, and what are the consequences of changing it more than once?",deb2accb,deb2accb_0
+What special role do all competitors earn in each round of the Seekers Alliance?,0ed84194,0ed84194_0
+What prizes do the three winners of each round receive?,0ed84194,0ed84194_0
+What is the deadline for changing Factions before the channel closes?,0ed84194,0ed84194_0
+What is the deadline for completing and sharing the Van der Leck Family member sticker?,7b0a6f59,7b0a6f59_0
+What traits do members of the Van der Leck family share according to the document?,7b0a6f59,7b0a6f59_0
+What are the steps outlined for creating a Van der Leck Family member sticker?,7b0a6f59,7b0a6f59_0
+What is the new deadline for submitting works?,c769b835,c769b835_0
+Is the use of AI allowed for the submissions?,c769b835,c769b835_0
+How many works must each Faction discuss to select for representation?,c769b835,c769b835_0
+What date and time is the Food & Drink Quiz scheduled for?,39e6e825,39e6e825_0
+"How many questions will be included in the quiz, and what is the time limit for each question?",39e6e825,39e6e825_0
+What title will the highest-scoring participant receive after the quiz?,39e6e825,39e6e825_0
+What is the deadline for voting on the stickers for the Van-der-Leck Family?,9ec45642,9ec45642_0
+How many votes does each person get when selecting their favorite stickers?,9ec45642,9ec45642_0
+What will happen to the top three stickers with the most votes?,9ec45642,9ec45642_0
+What will the winners of the first round of the sticker battle receive?,89072b7e,89072b7e_0
+What is the focus of the second round of the sticker battle?,89072b7e,89072b7e_0
+When will more details about the sticker battle be provided?,89072b7e,89072b7e_0
+What are the key characteristics of members of the Mahdia Alliance?,9e1c30a5,9e1c30a5_0
+What is the deadline for completing and sharing the Mahdia Alliance member sticker?,9e1c30a5,9e1c30a5_0
+What steps are suggested for creating a Mahdia Alliance sticker?,9e1c30a5,9e1c30a5_0
+What is the theme for the next round of sticker creation in the Seekers Alliance?,89072b7e,89072b7e_0
+When will more details about the House Galahad sticker creation be provided?,89072b7e,89072b7e_0
+What will the winners of the sticker battle receive as prizes?,89072b7e,89072b7e_0
+What are some characteristics of members of House Galahad?,c4627114,c4627114_0
+What is the deadline for completing and sharing the House Galahad member sticker?,c4627114,c4627114_0
+What steps should be taken after brainstorming sticker ideas for House Galahad?,c4627114,c4627114_0
+What opportunity do members of House Galahad have due to their sticker creations?,d2162c72,d2162c72_0
+When will the winning stickers be uploaded?,d2162c72,d2162c72_0
+What special role will all competitors earn from participating in the Sticker Battle?,d2162c72,d2162c72_0
+What type of rewards can participants earn by completing tasks with Seekers Alliance?,f5f6b363,f5f6b363_0
+Where can users find the tasks to participate in the Seekers Alliance summer activities?,f5f6b363,f5f6b363_0
+What is the overall theme of the Seekers Alliance bounty board announcement?,f5f6b363,f5f6b363_0
+What is the deadline to join the special bonus raffle mentioned in the document?,4c4ed2ee,4c4ed2ee_0
+What can participants win by joining the raffle?,4c4ed2ee,4c4ed2ee_0
+Where can users find the stickers they created on the server?,4c4ed2ee,4c4ed2ee_0
+What is the discount percentage available on chickens during the Chicken Month Special Offer?,0a0b74d6,0a0b74d6_0
+What is the price of a chicken after the discount if the original price is $888?,0a0b74d6,0a0b74d6_0
+What percentage of winning rate is required to unlock the Seeker achievement in cockfighting?,0a0b74d6,0a0b74d6_0
+What is the required wallet to verify quests in the Seekers Alliance Galxe campaign?,d75de314,d75de314_0
+Where can participants obtain $MOVE to complete the quest in the Movement-Aptos network?,d75de314,d75de314_0
+What are the steps required to join a Faction in the Seekers Alliance universe?,d75de314,d75de314_0
+What is the link to join the Seekers Alliance Discord?,d8fcd7b9,d8fcd7b9_0
+Which social media platform should you follow for Movement Labs?,d8fcd7b9,d8fcd7b9_0
+What is the hint provided for completing the 'Intro to Seekers Alliance' quiz?,d8fcd7b9,d8fcd7b9_0
+What are the requirements for creating a meme for the Seekers Alliance quest?,45c85009,45c85009_0
+What file type and dimensions are required for the stickers in the Seekers Alliance quest?,45c85009,45c85009_0
+How many emojis must be created for the Seekers Alliance quest and what should their dimensions be?,45c85009,45c85009_0
+What does the white check mark reaction signify regarding the work submitted?,89c909e6,89c909e6_0
+What does the red cross reaction indicate about the work submitted?,89c909e6,89c909e6_0
+What does the eyes crossed reaction imply about the originality of the work submitted?,89c909e6,89c909e6_0
+What steps must be taken to boost the Seekers Alliance Discord server?,d75de314,d75de314_0
+Where can users find the link to join a faction in the Seekers Alliance Discord?,d75de314,d75de314_0
+What recognition do users receive after their server boost has been activated?,d75de314,d75de314_0
+What are the steps required to qualify for the Critics Role in the Scholars Guild?,33adb491,33adb491_0
+What specific criteria must be met for comments under the demo video to be verified in the Scholars Guild quest?,33adb491,33adb491_0
+What actions must a user take to receive the role of streamer in the Creators Guild?,33adb491,33adb491_0
+What specific quests were removed from the Explorers Guild based on community feedback?,0fc9e361,0fc9e361_0
+What happens to the Movement credit and points for users who have already completed the removed quests?,0fc9e361,0fc9e361_0
+Why does the Movement team discourage users from pursuing the Chatty quests going forward?,0fc9e361,0fc9e361_0
+What is the duration of the Seekers Alliance Olympics event?,450aba5c,450aba5c_0
+How are the representatives for each Faction selected in the Faction Pet Parade?,450aba5c,450aba5c_0
+What scoring system is used for the winners of the Faction Pet Parade in the Seekers Alliance Olympics?,450aba5c,450aba5c_0
+What faction won Mission 1 of the Seekers Alliance Olympics?,51e82d6d,51e82d6d_0
+How many points did House Galahad earn for their victory in Mission 1?,51e82d6d,51e82d6d_0
+When will Mission 2 be announced for the Seekers Alliance Olympics?,51e82d6d,51e82d6d_0
+What is the objective of Mission 2 in the Seekers Alliance?,dc047a3e,dc047a3e_0
+When will the quiz for Mission 2 be launched?,dc047a3e,dc047a3e_0
+What points are awarded for different places in the scoring of the quiz?,dc047a3e,dc047a3e_0
+Which alliance won the first mission in the Seekers Alliance Olympics?,df521cf1,df521cf1_0
+How many points did the Mahdia Alliance earn for their victory in Mission 1?,df521cf1,df521cf1_0
+Who secured third place in Mission 1 and what was their score?,df521cf1,df521cf1_0
+What is the objective of Mission 3: Battle of the Bummers?,69c0c504,69c0c504_0
+When does the submission period for Faction representatives start and end?,69c0c504,69c0c504_0
+How are the winners determined in the Battle of the Bummers mission?,69c0c504,69c0c504_0
+What is the objective of Mission 4 in the Seekers Alliance?,7dec0820,7dec0820_0
+How many points does the 1st place faction earn during the Seekers Olympics Game Night?,7dec0820,7dec0820_0
+When will the ultimate winning faction be announced?,7dec0820,7dec0820_0
+Who claimed victory in Mission 3 of the Seekers Alliance Olympics?,235a7a18,235a7a18_0
+What point total did the Mahdia Alliance achieve in Mission 3?,235a7a18,235a7a18_0
+What place did House Galahad secure in Mission 3 and how many points did they earn?,235a7a18,235a7a18_0
+What platforms will Seekers Alliance initially release on?,0b027b34,0b027b34_0
+Is a Web3 wallet required to start playing Seekers Alliance?,0b027b34,0b027b34_0
+When is the target release date for Seekers Alliance?,0b027b34,0b027b34_0
+What are the benefits for community mods in the Seekers Alliance?,6ea93e87,6ea93e87_0
+When will the Seekers Alliance inform potential community mods about recruitment?,6ea93e87,6ea93e87_0
+Who can become a community mod for the Seekers Alliance?,6ea93e87,6ea93e87_0
+What is the maximum number of Seekers that can receive the OG role upon completing the Galxe quest?,d13f9e52,d13f9e52_0
+When does the Galxe survey task get uploaded to Galxe?,d13f9e52,d13f9e52_0
+What is the time frame for completing the 5-min survey for Seekers Alliance?,d13f9e52,d13f9e52_0
+What benefits are designated for OG Seekers in the Seekers Alliance?,b12e7c60,b12e7c60_0
+What are the different language-specific roles mentioned in the document?,b12e7c60,b12e7c60_0
+How is a Champion in the Seekers Alliance defined?,b12e7c60,b12e7c60_0
+What is required for a Seeker to unlock the Treasure Seeker role?,ffbbb283,ffbbb283_0
+Which group of Seekers is defined by a winning rate of 55% in the cockfight?,ffbbb283,ffbbb283_0
+What roles are considered intermediary roles for verifying Movement Galxe quests?,ffbbb283,ffbbb283_0
+What is the function of the YT and VT tokens in the Stable Jack protocol?,adba7bad,adba7bad_0
+What specific asset does Stable Jack currently support and what are the plans for future asset support?,adba7bad,adba7bad_0
+What is the current blockchain on which Stable Jack operates?,adba7bad,adba7bad_0
+What actions must a user take to be eligible for Discount Tickets?,d259850c,d259850c_0
+How is the individual allocation of rewards determined for Discount Tickets?,d259850c,d259850c_0
+What are the possible outcomes for a user after purchasing governance tokens with Discount Tickets?,d259850c,d259850c_0
+What are the benefits of the Discount Ticket model compared to the airdrop system?,e085db2b,e085db2b_0
+How does the Discount Ticket system aim to eliminate the problems associated with airdrops?,e085db2b,e085db2b_0
+In what way does the Discount Ticket system support long-term holders over mercenary capital and sybils?,e085db2b,e085db2b_0
+What is the main difference between Discount Tickets and Airdrops as described in the document?,8cf5e69a,8cf5e69a_0
+How do Discount Tickets incentivize long-term supporters compared to the traditional airdrop model?,8cf5e69a,8cf5e69a_0
+What are some examples of protocols that have utilized airdrops and shown the system to be ineffective?,8cf5e69a,8cf5e69a_0
+What problems did the rise of airdrops create for retail users according to the document?,4cc1b015,4cc1b015_0
+Why are airdrops considered financially negative for protocols?,4cc1b015,4cc1b015_0
+What are the main issues identified in the airdrop model that contribute to its unsustainability?,4cc1b015,4cc1b015_0
+What are the contract addresses for $aUSD and $xAVAX according to the document?,e5c68236,e5c68236_0
+What is the oracle address for $aUSD and $xAVAX?,e5c68236,e5c68236_0
+Where can users find information about sAVAX Daily Rewards?,e5c68236,e5c68236_0
+"What collateral does Stable Jack use to mint and redeem aUSD, and how does it differ from UST's collateral requirements?",258e48c3,258e48c3_0
+How does the buffer mechanism in Stable Jack's CDP model enhance the protocol's scalability and capital efficiency?,258e48c3,258e48c3_0
+In what way does aUSD's peg mechanism present advantages over UST's algorithmic stablecoin model?,258e48c3,258e48c3_0
+What type of assets does Stable Jack use to derive yield for aUSD depositors?,258e48c3,258e48c3_1
+How does the delta risk assumption for aUSD differ from that of UST?,258e48c3,258e48c3_1
+What key advantage does aUSD have over UST regarding the sustainability of its peg and collateral risk?,258e48c3,258e48c3_1
+What are the two products that Stable Jack divides AVAX collateral into?,bac954a4,bac954a4_0
+What does NAV stand for and how is it defined in the context of aUSD and xAVAX?,bac954a4,bac954a4_0
+What benefits does aUSD offer in comparison to traditional collateralized debt positions?,bac954a4,bac954a4_0
+What are the main risks associated with holding aUSD/xAVAX?,bac954a4,bac954a4_1
+What is the function of the Rebalance Pool in the Stable Jack protocol?,bac954a4,bac954a4_1
+How does aUSD differ from algorithmic stablecoins like Luna's UST?,bac954a4,bac954a4_1
+What is the expected effective leverage range for xAVAX according to the document?,3fe261b4,3fe261b4_0
+"What yields can aUSD holders expect, and what is the anticipated range for this yield?",3fe261b4,3fe261b4_0
+How is the aUSD price determined based on the collateral ratio (CR) values mentioned in the document?,3fe261b4,3fe261b4_0
+What occurs to the value of xAVAX in the event of a significant flash crash in AVAX price?,d1712256,d1712256_0
+How does the protocol respond if sAVAX depegs from AVAX by more than 1%?,d1712256,d1712256_0
+What mechanisms are in place to protect holders of aUSD and xAVAX during an sAVAX depeg situation?,d1712256,d1712256_0
+What is the purpose of the Rebalancing Pool in the Stable Jack protocol?,866704bc,866704bc_0
+How do aUSD holders benefit from depositing their tokens in the Rebalancing Pool?,866704bc,866704bc_0
+What happens to aUSD during stability mode according to the document?,866704bc,866704bc_0
+What changes are made to the minting and redeeming rules in stability mode for aUSD?,797617f2,797617f2_0
+What are the fees associated with xAVAX redemption in stability mode?,797617f2,797617f2_0
+How does the stability mode aim to maintain the system's stability according to the document?,797617f2,797617f2_0
+What is the threshold for activating the stability mode in the Stable Jack protocol?,72c2c3f4,72c2c3f4_0
+What is the probability of a one-day price drop that would push the system CR to 100% if the protocol maintains a 160% ratio CR?,72c2c3f4,72c2c3f4_0
+How does the current volatility of AVAX affect the management of the collateralization ratio (CR) in the future?,72c2c3f4,72c2c3f4_0
+What is the total market cap of the stablecoin market according to the document?,f546124b,f546124b_0
+How does Stable Jack aim to pioneer the stablecoin and LSTfi revolution in the Avalanche ecosystem?,f546124b,f546124b_0
+What are the main problems identified in the stablecoin ecosystem related to the CDP model?,f546124b,f546124b_0
+"What is the on-chain demand for leveraged AVAX as of December 26th, 2023?",f546124b,f546124b_1
+How much supply of aUSD can reach if all leveraged AVAX demand is realized via Stable Jack?,f546124b,f546124b_1
+What advantages does xAVAX provide compared to regular AVAX leverage?,f546124b,f546124b_1
+What is the yield range that aUSD can generate for depositors in the Rebalance Pool?,bf611c44,bf611c44_0
+How is aUSD collateralized to maintain its peg stability compared to other stablecoin models?,bf611c44,bf611c44_0
+What are the advantages of using aUSD over USDC or USDT in terms of risk and costs?,bf611c44,bf611c44_0
+What yields can aUSD users expect when using this stablecoin?,75632f0e,75632f0e_0
+What characteristics make aUSD a preferred choice for users looking for a stablecoin?,75632f0e,75632f0e_0
+What reasons do xAVAX traders have for preferring this option over traditional centralized exchanges?,75632f0e,75632f0e_0
+What is the required collateralization ratio (CR) for the Stable Jack system to function correctly?,35fae915,35fae915_0
+How does the supply of xAVAX affect the collateralization ratio and the stability of aUSD?,35fae915,35fae915_0
+What happens to aUSD if the collateralization ratio falls to 100%?,35fae915,35fae915_0
+What are the two tokens that $sAVAX collateral will be divided into after the launch of Stable Jack?,91efb9c5,91efb9c5_0
+How does aUSD maintain its peg stability compared to other stablecoin models?,91efb9c5,91efb9c5_0
+What advantages does xAVAX offer in terms of leverage compared to traditional perpetual contracts?,91efb9c5,91efb9c5_0
+What are the advantages of holding xAVAX compared to traditional leveraged contracts?,91efb9c5,91efb9c5_1
+How does xAVAX provide exposure to AVAX without incurring funding costs?,91efb9c5,91efb9c5_1
+In what ways can xAVAX be utilized within DeFi activities for additional benefits?,91efb9c5,91efb9c5_1
+What advantages do yield tokens from Stable Jack offer compared to traditional yield products?,c4e8d00c,c4e8d00c_0
+How does Stable Jack facilitate leveraged positions on assets without the risk of liquidation?,c4e8d00c,c4e8d00c_0
+In what ways do the discount tickets introduced by Stable Jack represent a new paradigm compared to traditional airdrops?,c4e8d00c,c4e8d00c_0
+How does Stable Jack mitigate the risk of price divergence between futures and spot prices in crypto markets?,c4e8d00c,c4e8d00c_1
+What type of users are likely to find leverage tokens attractive according to the document?,c4e8d00c,c4e8d00c_1
+In what way do leverage tokens differ from traditional contracts in terms of risk for leveraged positions?,c4e8d00c,c4e8d00c_1
+What determines the precise leverage that Volatile Token holders have at any given time?,79b84a47,79b84a47_0
+How does the relative supply of Yield Token and Volatile Token affect the effective leverage?,79b84a47,79b84a47_0
+What is the formula for calculating xAVAX Leverage according to the document?,79b84a47,79b84a47_0
+How does the protocol maintain the stability of the Yield Token's value at $1?,4ac541e8,4ac541e8_0
+What happens to the value of the Volatile Token when the price of the collateral asset increases by 10%?,4ac541e8,4ac541e8_0
+"In the given examples, what is the total pool value of collateral assets after a 10% decrease in the collateral asset price?",4ac541e8,4ac541e8_0
+What is the initial price of the Volatile Token at the genesis of the protocol?,4ac541e8,4ac541e8_1
+How much collateral does User A receive when redeeming 1000 Yield Tokens?,4ac541e8,4ac541e8_1
+What percentage did the price of the Volatile Token decrease after a 10% drop in the value of the collateral asset?,4ac541e8,4ac541e8_1
+What are the two types of tokens that Stable Jack's smart contract divides collateral assets into?,0b37e9b9,0b37e9b9_0
+How do Yield Token holders benefit from the structure of Stable Jack's product?,0b37e9b9,0b37e9b9_0
+What types of assets can Stable Jack's structured products be used for?,0b37e9b9,0b37e9b9_0
+What are the main accessibility issues for retail users regarding yield products in the current market?,abf9266f,abf9266f_0
+How does the yield offered by T-bills compare to what is required to attract retail users to DeFi?,abf9266f,abf9266f_0
+"What market size does the tokenization market expect to reach by 2030, and how does it compare to the current size of the yield and volatility markets in DeFi?",abf9266f,abf9266f_0
+What types of assets can users trade on the Stable Jack platform?,e78bcd33,e78bcd33_0
+How do the Yield Token and Volatility Token differ in their exposure to the collateral asset?,e78bcd33,e78bcd33_0
+What is the significance of Discount Tickets in comparison to traditional airdrops?,e78bcd33,e78bcd33_0
+What method is used to add liquidity to the WarpGate?,c0615ba6,c0615ba6_0
+What are the required parameters to use the mintPosition method in WarpGate SDK?,c0615ba6,c0615ba6_0
+How can a user remove liquidity from the WarpGate?,c0615ba6,c0615ba6_0
+What parameters are required to remove liquidity using the removeLiquidity method?,c0615ba6,c0615ba6_1
+What is the purpose of the increasePosition method and what parameters does it require?,c0615ba6,c0615ba6_1
+How do you wrap tokens using the WarpGate SDK and what parameters are needed?,c0615ba6,c0615ba6_1
+What parameters are required to get the position info using the getPositionInfo(...) method?,c0615ba6,c0615ba6_2
+How can a user collect fees using the collectFees(...) method and what parameters are needed?,c0615ba6,c0615ba6_2
+What is the output structure when calling the swap method in the WarpGate SDK?,c0615ba6,c0615ba6_2
+What specific information is included in the output of the transaction (tx)?,c0615ba6,c0615ba6_3
+What is the license type for the WarpGate SDK project?,c0615ba6,c0615ba6_3
+How can contributors suggest improvements or report issues for the WarpGate SDK?,c0615ba6,c0615ba6_3
+What are the fee tiers associated with WarpGate's services?,07590dd6,07590dd6_0
+What should I do if my liquidity position goes out of range in the Exchange?,07590dd6,07590dd6_0
+What factors influence the LP APR in WarpGate?,07590dd6,07590dd6_0
+What is the purpose of the WarpGate DEX according to the document?,23d7ceb2,23d7ceb2_0
+Which platform is WarpGate X specifically designed for?,23d7ceb2,23d7ceb2_0
+What communication channels are mentioned for the WarpGate community?,23d7ceb2,23d7ceb2_0
+What payment methods does Warp-ATM support for token purchases?,8ff45bf4,8ff45bf4_0
+How does Warp-ATM simplify the onboarding process for Web2 users?,8ff45bf4,8ff45bf4_0
+What is the primary goal of Warp-ATM in terms of user accessibility?,8ff45bf4,8ff45bf4_0
+What feature does WarpBridge introduce to enhance asset transfer between networks and wallets?,ee59584c,ee59584c_0
+Which two networks can users currently transfer assets between using WarpBridge?,ee59584c,ee59584c_0
+How does the addition of WarpBridge improve user experience on the WarpGate DEX?,ee59584c,ee59584c_0
+What key milestones are planned for WarpGate in Q4 2023?,34ac371f,34ac371f_0
+What features are set to launch in Q2 2024 as part of WarpGate's development?,34ac371f,34ac371f_0
+What is the significance of the WARP Token Launch scheduled for Q4 2024 according to the WarpGate roadmap?,34ac371f,34ac371f_0
+"What score did WarpGate receive in their DEX audit, and what does that score signify?",d3c126a5,d3c126a5_0
+How does WarpGate's approach to security compare to industry leaders like Uniswap and PancakeSwap?,d3c126a5,d3c126a5_0
+What specific collaboration helped to fortify WarpGate's security posture according to the audit report?,d3c126a5,d3c126a5_0
+What score did WarpGate Launchpad achieve after its audit by d3ploy?,b8e09c20,b8e09c20_0
+Who conducted the audit for WarpGate Launchpad?,b8e09c20,b8e09c20_0
+What is described as the first DEX on IMX for Gamers as per the document?,b8e09c20,b8e09c20_0
+What technology does WarpGate use to add an extra layer of protection to its platform?,87d8b279,87d8b279_0
+What were the standout scores achieved by WarpGate's DEX and Launchpad audits conducted by d3ploy and MH Ventures?,87d8b279,87d8b279_0
+How does the SHIELD monitoring system contribute to the security of WarpGate's platform?,87d8b279,87d8b279_0
+What is the primary target audience for the WarpGate Auto Airdrop feature?,44531874,44531874_0
+How does the Auto Airdrop feature ensure the security of token distribution?,44531874,44531874_0
+What specific advantages does the Auto Airdrop provide for token promotion on WarpGate?,44531874,44531874_0
+What are the key aspects of the Inter-Game Exchange (IGE) introduced by WarpGate?,c5cfa16e,c5cfa16e_0
+How does the Inter-Game Exchange aim to enhance player freedom within gaming worlds?,c5cfa16e,c5cfa16e_0
+What potential benefits does the Inter-Game Exchange offer for the utilization of gaming assets?,c5cfa16e,c5cfa16e_0
+What is the nominal fee required for creating a token on WarpGate?,043e57f4,043e57f4_0
+What are the optional features that can be selected during the token creation process on WarpGate?,043e57f4,043e57f4_0
+How can users set the maximum supply of their token when creating it on WarpGate?,043e57f4,043e57f4_0
+What criteria must tokens meet to receive a verified badge on WarpGate?,11f00ecf,11f00ecf_0
+How does the badging system on WarpGate impact user decision-making?,11f00ecf,11f00ecf_0
+What types of tokens are categorized as unverified within the WarpGate badging system?,11f00ecf,11f00ecf_0
+What percentage of the total initial token supply does the WarpGate Foundation automatically hold for any project created on their platform?,db1bd443,db1bd443_0
+What is the primary purpose of the Anti-Rug Policy implemented by the WarpGate Foundation?,db1bd443,db1bd443_0
+How does the WarpGate Foundation plan to use the tokens held as part of their Anti-Rug Policy?,db1bd443,db1bd443_0
+What are the different types of auctions offered by WarpGate for Initial Farm Offerings (IFOs)?,5851be2f,5851be2f_0
+What is the purpose of WarpGate's Hybrid Infrastructure in relation to IFO participation?,5851be2f,5851be2f_0
+How can users create tokens without coding when participating in IFOs on WarpGate?,5851be2f,5851be2f_0
+What technology does WarpGate's Zero-Code Token Creation utilize for instant deployment?,a15eb680,a15eb680_0
+How does WarpGate ensure reliability and security during the token creation process?,a15eb680,a15eb680_0
+What types of projects can users create tokens for using WarpGate's Zero-Code Token Creation?,a15eb680,a15eb680_0
+What is the primary purpose of WarpGate's Initial Farm Offerings (IFOs)?,b8a1af2f,b8a1af2f_0
+How can a project be launched through WarpGate's IFOs?,b8a1af2f,b8a1af2f_0
+What features are mentioned that characterize WarpGate's IFO experience?,b8a1af2f,b8a1af2f_0
+What are the different auction types offered by WarpGate?,097cb02c,097cb02c_0
+What features does WarpGate's Hybrid Infrastructure include?,097cb02c,097cb02c_0
+What is the status of the guide on how to participate in the Playable Auction?,097cb02c,097cb02c_0
+What unique gaming element is integrated into the allocation distribution process of the WarpGate Playable Auction?,957c8df5,957c8df5_0
+How do auctioneers influence the allocation distribution in the WarpGate Playable Auction?,957c8df5,957c8df5_0
+What are the two allocation options available to participants in the WarpGate Playable Auction?,957c8df5,957c8df5_0
+What types of auctions are available on WarpGate?,2d1cf747,2d1cf747_0
+What is the overview of WarpGate's product offerings?,2d1cf747,2d1cf747_0
+What features does WarpGate's Hybrid Infrastructure include?,2d1cf747,2d1cf747_0
+What is the main feature that distinguishes the WarpGate Dutch Auction from traditional auction models?,b348f22b,b348f22b_0
+How does a participant secure victory in a WarpGate Dutch Auction?,b348f22b,b348f22b_0
+What strategy should participants employ when placing bids in a WarpGate Dutch Auction?,b348f22b,b348f22b_0
+What is the transaction fee percentage that auction creators must pay on the total funds successfully auctioned on WarpGate?,7acc217c,7acc217c_0
+How much do auction participants pay as a transaction fee for each transaction made during the auction on WarpGate?,7acc217c,7acc217c_0
+What is the purpose of the auction fees collected on the WarpGate platform?,7acc217c,7acc217c_0
+What should auction creators do to claim their tokens after the auction concludes?,cd115562,cd115562_0
+How can auction participants claim their purchased tokens after the auction pool closes?,cd115562,cd115562_0
+What happens if the auction creator has set a delay unlock time for the tokens?,cd115562,cd115562_0
+What are the steps to participate in a fixed-price auction on WarpGate?,45cc416a,45cc416a_0
+How can a user identify the current status of a fixed-price auction pool?,45cc416a,45cc416a_0
+What options are available to users if they want to cancel their bid before the auction pool closes?,45cc416a,45cc416a_0
+What are the initial steps to create a fixed-price auction pool on WarpGate?,fbe230ee,fbe230ee_0
+"What specific parameters must be defined when setting up the auction, such as funding currency and swap ratio?",fbe230ee,fbe230ee_0
+"What is the estimated cost for creating a fixed-price auction pool, and what token is this cost measured in?",fbe230ee,fbe230ee_0
+What is the role of participants and the auctioneer in the WarpGate Fixed-Price Auction before the auction starts?,1dedd2e8,1dedd2e8_0
+"How does the first-come, first-serve dynamic work in the WarpGate Fixed-Price Auction?",1dedd2e8,1dedd2e8_0
+What unique feature does WarpGate V3 introduce that allows participants to withdraw from the auction at any time?,1dedd2e8,1dedd2e8_0
+What customization options are available for projects launching on the WarpGate Launchpad?,af31ef7e,af31ef7e_0
+How can participants stay updated on upcoming sales for projects on the WarpGate Launchpad?,af31ef7e,af31ef7e_0
+What is the process for claiming public sale allocations on the WarpGate Launchpad?,af31ef7e,af31ef7e_0
+What is the first step to add liquidity on the WarpGate platform?,befbb697,befbb697_0
+How can a user specify the amount of liquidity they wish to remove from a selected pair?,befbb697,befbb697_0
+What should a user do to confirm the removal of liquidity after selecting the amount on WarpGate?,befbb697,befbb697_0
+What happens to a liquidity provider's position if the price moves outside their configured range in WarpGate V3?,edde3254,edde3254_0
+How is the fee distribution structured between liquidity pool providers and the WarpGate foundation?,edde3254,edde3254_0
+What benefits do liquidity providers gain from concentrating their token deposits within specific price ranges in WarpGate V3?,edde3254,edde3254_0
+What steps must be taken to unlock your wallet for trading on WarpGate?,d86e46c2,d86e46c2_0
+What should you do if you are trading a token for the first time on WarpGate?,d86e46c2,d86e46c2_0
+How can you track your transaction after completing a trade on WarpGate?,d86e46c2,d86e46c2_0
+What are the fee tiers for token swaps on WarpGate and how are they determined?,5b078d8e,5b078d8e_0
+How does WarpGate's fee structure help mitigate impermanent loss for liquidity providers?,5b078d8e,5b078d8e_0
+What is the expected outcome regarding liquidity dispersion according to the document?,5b078d8e,5b078d8e_0
+What benefits does WarpGate offer in terms of trading costs compared to mainstream blockchains like Ethereum or Bitcoin?,d7098d00,d7098d00_0
+How does WarpGate ensure that users retain ownership of their crypto assets during trades?,d7098d00,d7098d00_0
+What can users earn by contributing to liquidity pools on WarpGate?,d7098d00,d7098d00_0
+What advanced capabilities does WarpGate aim to introduce with its expansion to the Movement Labs chain?,1bef60e1,1bef60e1_0
+How does MoveVM enhance the compatibility of applications for WarpGate's users?,1bef60e1,1bef60e1_0
+What commitment does WarpGate make regarding updates and community enhancements following the strategic expansion?,1bef60e1,1bef60e1_0
+What features are included in the WarpGate Decentralized Exchange (DEX)?,db56ac71,db56ac71_0
+How do liquidity pools on WarpGate benefit users?,db56ac71,db56ac71_0
+What is the role of Initial Farm Offerings (IFO) in the WarpGate ecosystem?,db56ac71,db56ac71_0
+What traditional methods can users utilize for login and signup on the WarpGate platform?,27138ff4,27138ff4_0
+How does the IMX zkEVM contribute to the decentralized access within WarpGate's infrastructure?,27138ff4,27138ff4_0
+What is the significance of IMX Passport in maximizing user adoption for WarpGate's services?,27138ff4,27138ff4_0
+What innovative features does WarpGate provide to empower the Immutable ecosystem for gaming projects?,d402d468,d402d468_0
+What are the key components of WarpGate's Launchpad that support builders and enhance demand?,d402d468,d402d468_0
+How does WarpGate's approach to fees ensure long-term sustainability for traders and liquidity providers?,d402d468,d402d468_0
+What technologies are used in WarpGate's Hybrid Infrastructure?,9ae63a0d,9ae63a0d_0
+What types of product offerings does WarpGate provide?,9ae63a0d,9ae63a0d_0
+What is the goal of WarpGate in the context of gaming and decentralized finance?,9ae63a0d,9ae63a0d_0
+What is the first step to complete the WarpGate's space user task?,cadc04be,cadc04be_0
+How long do you need to wait after following WarpGate Space before verifying?,cadc04be,cadc04be_0
+Where can you find the option to follow WarpGate Space on the quest page?,cadc04be,cadc04be_0
+What should I do if my Metamask Wallet is showing unsupported?,2df3fdc4,2df3fdc4_0
+Which type of wallet extension should be temporarily disabled to resolve the issue?,2df3fdc4,2df3fdc4_0
+What action should I take after disabling the wallet extension?,2df3fdc4,2df3fdc4_0
+What should I do if my Spartans Guild tasks aren't being verified on Galxe?,22c8571e,22c8571e_0
+What is causing the delay in verifying tasks on the MOVE Testnet blockchain?,22c8571e,22c8571e_0
+Is it advised to invite more friends to join the WarpGate x Movement Galxe quest?,22c8571e,22c8571e_0
+What should users do to regain credit for Quests that appear to be lost?,22b2361f,22b2361f_0
+What indicates that a Quest is pending claim in the upper right-hand corner?,22b2361f,22b2361f_0
+What is the main issue being addressed in the document regarding Quest completion and claiming?,22b2361f,22b2361f_0
+What rewards can top-ranked players receive on the leaderboard?,f10542a2,f10542a2_0
+How many points are awarded for mining 5 ores in the newbie initial quests?,f10542a2,f10542a2_0
+What is the task and reward for the daily quest that involves battling PvP ship rosters?,f10542a2,f10542a2_0
+What do players need to do to unlock advanced armor options for their dynamic NFT characters?,df7dc359,df7dc359_0
+What customization features will be available for the dynamic NFT characters in the future?,df7dc359,df7dc359_0
+How does engaging with the game impact the unlocking of assets for a player's character?,df7dc359,df7dc359_0
+What is required for transferring resources between a ship and an island?,0b4e0f2d,0b4e0f2d_0
+How can you transfer resources between ships within the same roster?,0b4e0f2d,0b4e0f2d_0
+What can you do with resources after winning a battle in the game?,0b4e0f2d,0b4e0f2d_0
+What happens when your ship approaches another ship in Infinite Seas?,aadbc1ce,aadbc1ce_0
+How can a player claim loot after winning a combat?,aadbc1ce,aadbc1ce_0
+What action should a player take if they lose a combat in the game?,aadbc1ce,aadbc1ce_0
+What action must a player take to begin sailing in the game?,3c4d7428,3c4d7428_0
+How can a player monitor the countdown timer during their sailing journey?,3c4d7428,3c4d7428_0
+Where can players click to select their destination on the map for sailing?,3c4d7428,3c4d7428_0
+How can you view the details of a ship you have crafted?,cb51388f,cb51388f_0
+What is the recommended number of ships to add to a roster for increasing chances of winning in combat?,cb51388f,cb51388f_0
+What action should you take to delete a ship from your roster?,cb51388f,cb51388f_0
+What are the five buttons available under the Island button after claiming an island?,d8edd112,d8edd112_0
+"What resource can be obtained through Mining, and how does it affect ship crafting?",d8edd112,d8edd112_0
+How much cotton can be harvested from one planted cotton seed?,d8edd112,d8edd112_0
+What is the minimum number of each resource required to craft a small ship?,b66da8c7,b66da8c7_0
+How does adjusting the amount of normal wood affect the ship's attributes?,b66da8c7,b66da8c7_0
+What happens when you hit the 'Craft' button after adding ingredients?,b66da8c7,b66da8c7_0
+What is the link to access the $MOVE token faucet for Infinite Seas?,b0db18ef,b0db18ef_0
+How often can players claim $Energy tokens and how many can they receive each time?,b0db18ef,b0db18ef_0
+What should players do to set up a reminder for their daily Energy quest?,b0db18ef,b0db18ef_0
+How many islands are generated on the map in Infinite Seas?,ea75eb00,ea75eb00_0
+What resources can be found on the islands in Infinite Seas?,ea75eb00,ea75eb00_0
+How does the physical location of an island affect gameplay in Infinite Seas?,ea75eb00,ea75eb00_0
+What must SuiWallet users ensure regarding their address when connecting their wallet in Infinite Seas?,b15235f3,b15235f3_0
+What happens after a user connects their wallet in Infinite Seas?,b15235f3,b15235f3_0
+Where will the name chosen for the island be displayed after connecting the wallet?,b15235f3,b15235f3_0
+What is the recommended platform for submitting bugs in the Infinite Seas game?,e1751c92,e1751c92_0
+Where should users post their identified bugs according to the document?,e1751c92,e1751c92_0
+What should players do if they find a bug in the early stages of the game?,e1751c92,e1751c92_0
+What is the primary goal of the Infinite Seas PT Batch 0 playtest?,1d6aa94d,1d6aa94d_0
+Who is eligible to participate in the Infinite Seas PT Batch 0 playtest?,1d6aa94d,1d6aa94d_0
+What may happen if a player fails to manage their $Energy in the game?,1d6aa94d,1d6aa94d_0
+What is the purpose of the Swap SDK mentioned in the document?,f5b45f77,f5b45f77_0
+Is the Swap SDK currently available on the mainnet or testnet?,f5b45f77,f5b45f77_0
+What platform is the Swap SDK documentation powered by?,f5b45f77,f5b45f77_0
+What conditions must be met before the launch of $XBT?,1f9a4582,1f9a4582_0
+Is the launch of $XBT scheduled before or after the mainnet?,1f9a4582,1f9a4582_0
+What type of launch is mentioned for $XBT in the document?,1f9a4582,1f9a4582_0
+What are the two Testnet Package IDs listed in the Xebra Docs?,1824c3a0,1824c3a0_0
+Where can the Testnet Package IDs be explored?,1824c3a0,1824c3a0_0
+What is the URL for the first Testnet Package ID provided in the document?,1824c3a0,1824c3a0_0
+What is the purpose of the Xebra Docs as indicated in the document?,94efbca2,94efbca2_0
+What is the DEX address mentioned in the Xebra Docs?,94efbca2,94efbca2_0
+What is the Faucet address provided in the Xebra Docs?,94efbca2,94efbca2_0
+What platforms can users join to engage with the Xebra community?,e21f313c,e21f313c_0
+What is the title of the document that provides information about Xebra?,e21f313c,e21f313c_0
+What is the purpose of the Galxe Quests mentioned in the document?,e21f313c,e21f313c_0
+What is the purpose of USDC-Backed Bluechips in the Xebra ecosystem?,7f5d7a4b,7f5d7a4b_0
+How does Xebra differentiate its offerings related to asset-margined alts compared to USDC-Backed Bluechips?,7f5d7a4b,7f5d7a4b_0
+What information can be found in the Parthenon Testnet Guide mentioned in the document?,7f5d7a4b,7f5d7a4b_0
+What is the purpose of the Asset-Margined Alts section in Xebra Docs?,25c59b4e,25c59b4e_0
+Which documents are mentioned before and after the Asset-Margined Alts section?,25c59b4e,25c59b4e_0
+What is the relationship between Asset-Margined Alts and USDC-Backed Bluechips in Xebra Docs?,25c59b4e,25c59b4e_0
+What types of assets are involved in Xebra Perps?,e08ada4e,e08ada4e_0
+What is the purpose of the Parthenon Testnet Guide mentioned in the document?,e08ada4e,e08ada4e_0
+What is the expected launch timing for Xebra Perps as indicated in the document?,e08ada4e,e08ada4e_0
+What is the purpose of Vote-Lock Governance in the Xebra ecosystem?,c44cc6ed,c44cc6ed_0
+How does the Dynamic LP Incentive Engine relate to Vote-Lock Governance?,c44cc6ed,c44cc6ed_0
+What are the key features of Xebra that are mentioned before and after the Vote-Lock Governance section?,c44cc6ed,c44cc6ed_0
+What functionality is associated with the Dynamic LP Incentive Engine mentioned in Xebra Docs?,4e17f584,4e17f584_0
+How does Xebra integrate features like Hybrid AMM and CLMM?,4e17f584,4e17f584_0
+What governance model is highlighted alongside the Dynamic LP Incentive Engine in the Xebra documentation?,4e17f584,4e17f584_0
+What types of liquidity pools does Xebra currently support and what is planned for future integration?,9000b68f,9000b68f_0
+How do traders receive compensation from their participation as Liquidity Providers in Xebra's AMM model?,9000b68f,9000b68f_0
+What functionalities does Xebra's interface offer to users regarding price impact and transaction slippage during trades?,9000b68f,9000b68f_0
+What types of liquidity pools does Xebra currently support?,1e11f552,1e11f552_0
+Where can users check the current total value locked (TVL) and annual percentage yield (APY) for liquidity pools?,1e11f552,1e11f552_0
+What should a user do to withdraw their liquidity from Xebra Liquidity Pools?,1e11f552,1e11f552_0
+What mechanism does Xebra Swap use to facilitate token exchanges without traditional order books?,33bf638f,33bf638f_0
+How are the trading fees distributed among liquidity providers on Xebra Swap?,33bf638f,33bf638f_0
+What is the effect of liquidity on the final execution price of a swap in Xebra Swap?,33bf638f,33bf638f_0
+What is the first step to perform a token swap on Xebra?,24a57f53,24a57f53_0
+How can users ensure they achieve the best outcomes when swapping tokens on Xebra?,24a57f53,24a57f53_0
+What happens after clicking the 'Swap Now' button during the token swap process?,24a57f53,24a57f53_0
+What types of testnet tokens can be claimed from the Xebra Faucet?,7234de5f,7234de5f_0
+What should a user do after visiting the Xebra Faucet Page to claim testnet tokens?,7234de5f,7234de5f_0
+Why is it recommended to claim faucet tokens across multiple days?,7234de5f,7234de5f_0
+What are the criteria for achieving the exclusive LegendXBT role in the Xebra community?,f9306cba,f9306cba_0
+What activities do Parthenon Spartans perform within the Xebra ecosystem?,f9306cba,f9306cba_0
+What actions are involved in the On-Chain Quests listed in the Xebra Docs?,f9306cba,f9306cba_0
+What roles can a user achieve by engaging on Discord according to the Off-Chain Quests?,f432ee09,f432ee09_0
+What types of content are Scholars encouraged to create for the Xebra community?,f432ee09,f432ee09_0
+What is the criteria for receiving the exclusive LegendXBT role in the Xebra community?,f432ee09,f432ee09_0
+"What are the five unique guilds mentioned in the Xebra-Movement ecosystem, and what are their roles?",64fe9592,64fe9592_0
+How can users mint MOVE testnet tokens and Xebra testnet tokens?,64fe9592,64fe9592_0
+"What steps must be taken to change the network for the Sui, Nightly, and Razor wallets?",64fe9592,64fe9592_0
+What type of quests can users engage in during the Parthenon Testnet campaign?,bd86c0bc,bd86c0bc_0
+What is the primary purpose of the Parthenon Testnet as mentioned in the document?,bd86c0bc,bd86c0bc_0
+How does Xebra facilitate participation in its incentivized testnet campaign?,bd86c0bc,bd86c0bc_0
+What is the main reason for the team building on Movement according to the document?,fc602528,fc602528_0
+What are the benefits of using Move language in the context of Xebra as mentioned in the document?,fc602528,fc602528_0
+What challenges do new Move L1s face in migrating whale EVM liquidity?,fc602528,fc602528_0
+What kind of protocol is Xebra?,13743316,13743316_0
+On what platform is Xebra built?,13743316,13743316_0
+What is the main focus of Xebra in terms of security and efficiency?,13743316,13743316_0

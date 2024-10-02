@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+openai = "*"
+elasticsearch = "8.4.3"
+pandas = "*"
+scikit-learn = "*"
+python-dotenv = "*"
+uvicorn = "*"
+fastapi = "*"
+pydantic = "*"
+typing_extensions = "*"
+psycopg2-binary = "*"
+
+[dev-packages]
+tqdm = "*"
+ipywidgets = "*"
+notebook = "==7.2.2"
+pgcli = "*"
+requests = "*"
+sentence_transformers="2.7.0"
+
+[requires]
+python_version = "3.12"
