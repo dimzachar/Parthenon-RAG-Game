@@ -7,11 +7,7 @@
 
 > Note: Listen to an overview created by [NotebookLM](https://notebooklm.google/) 
 
-<video controls>
-  <source src="overview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/096f2b58-660e-4864-88a0-cedd308727e7
 
 If you like this project, please consider giving it a ⭐️ **star** to help others discover it, or 🍴 **fork** it to contribute!
 
