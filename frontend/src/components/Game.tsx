@@ -53,7 +53,7 @@ const Game: React.FC<GameProps> = ({ onNPCInteraction, isPaused, onQuit }) => {
         const scene = gameRef.current?.scene.getScene('MainScene') as MainScene;
         if (scene) {
           scene.events.on('npcInteraction', (data: { npcId: string; npcInfo: { name: string; description: string } }) => {
-            console.log('NPC Interaction event received:', data);
+            // console.log('NPC Interaction event received:', data);
             setNpcData(data);
             setShowInitialPopup(true);
             onNPCInteraction(data.npcId);
