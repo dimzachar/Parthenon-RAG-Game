@@ -87,7 +87,11 @@ The dataset, containing information about Movementlabs and its ecosystem, is loc
 
 The backend of this application is structured to handle various aspects of the RAG flow, including data ingestion, retrieval, and interaction with the LLM. Below is an overview of the backend files:
 
-- [`app.py`](backend/app/app.py): This is the main entry point of the FastAPI application. It defines the API endpoints for querying the knowledge base and submitting feedback. It also includes CORS middleware configuration to allow cross-origin requests (so that the frontend fetches data from the backend).
+- [`app.py`](backend/app/app.py): This is the main entry point of the FastAPI application. It defines the API endpoints for querying the knowledge base and submitting feedback. It also includes CORS middleware configuration to allow cross-origin requests (so that the frontend fetches data from the backend). API Endpoints:
+
+	- `/faq`: Retrieves FAQ questions from the [ground truth](data/ground-truth-retrieval.csv) file.
+	- `/question`: Handles RAG queries and returns AI-generated responses.
+	- `/feedback`: Receives and stores user feedback on conversations.
 
 - [`rag.py`](backend/app/rag.py): Contains the core logic for the RAG process. It handles querying Elasticsearch for relevant documents, building prompts for the LLM, and evaluating the relevance of the generated answers.
 

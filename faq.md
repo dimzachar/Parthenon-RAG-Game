@@ -55,7 +55,7 @@ Parthenon implements hybrid search, combining text and vector search methods for
 No, while query rewriting was explored as a potential method to improve the quality of responses, the implemented approach didn't yield better results compared to using the original user queries. This area may be revisited in the future.
 
 ### 16. Are there any bonus features in Parthenon?
-Parthenon includes cloud deployment capabilities, allowing the game to be hosted on cloud platforms for wider accessibility. This feature goes beyond the basic requirements of the project.
+The project is deployed in cloud. You are welcome to give extra points if you like this project. 
 
 ### 17. How can I contribute to the Parthenon project?
 You can contribute to the project by forking the repository on GitHub and creating a pull request with your changes. Bug reports and feature requests can be submitted through the GitHub Issues tracker.
