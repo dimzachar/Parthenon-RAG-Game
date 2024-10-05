@@ -104,3 +104,16 @@ We experimented with query rewriting for user queries to potentially improve res
 | NON_RELEVANT | 8 | 8.0% |
 
 **Conclusion**: While query rewriting shows potential, our current implementation didn't yield improved results. We've decided to use the original queries for now. Future work could explore better prompting strategies to enhance query rewriting effectiveness.
+
+
+## Resources
+
+For detailed results and raw data, please refer to the following files:
+
+- [Evaluation Results (JSON)](notebooks/evaluation_results.json)
+- [RAG Evaluation Results (gpt-4o-mini)](notebooks/rag-eval-results-gpt-4o-mini.csv)
+- [RAG Evaluation Results (gpt-4o)](notebooks/rag-eval-results-gpt-4o.csv)
+- [RAG Evaluation Results with Rewriting (gpt-4o-mini)](notebooks/rag-eval-results-with-rewriting-gpt-4o-mini.csv)
+- [RAG Evaluation Results with Rewriting (gpt-4o)](notebooks/rag-eval-results-with-rewriting-gpt-4o.csv)
+
+These files contain the raw data and detailed results from the experiments, which you can use for further analysis or verification of the findings.
