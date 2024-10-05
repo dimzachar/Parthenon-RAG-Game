@@ -395,3 +395,9 @@ For answers to commonly asked questions, please see the [FAQ document](faq.md).
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+
+For questions, suggestions, or collaboration opportunities:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharenakis/)
