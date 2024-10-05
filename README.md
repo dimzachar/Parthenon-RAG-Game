@@ -1,22 +1,29 @@
 <p align="center">
   <img src="images/parthlogo.png" alt="Image description" width="300"/>
+</p>
 
-# 🏛️ Parthenon: A Gamified Web3 Learning Experience
+<h1 align="center" style="border-bottom: none">
+    🏛️ Parthenon: A Gamified Web3 Learning Experience
+</h1>
 
-> Note: This project was created as part of [LLM Zoomcamp course](https://github.com/DataTalksClub/llm-zoomcamp/tree/main).
+> [!NOTE]
+> This project was created as part of [LLM Zoomcamp course](https://github.com/DataTalksClub/llm-zoomcamp/tree/main).
 
-> Note: Listen to an overview created by [NotebookLM](https://notebooklm.google/) 
+> Listen to an overview created by [NotebookLM](https://notebooklm.google/) 
 
 https://github.com/user-attachments/assets/096f2b58-660e-4864-88a0-cedd308727e7
 
+<div align="center">
 If you like this project, please consider giving it a ⭐️ **star** to help others discover it, or 🍴 **fork** it to contribute!
 
 [![GitHub Stars](https://img.shields.io/github/stars/dimzachar/Parthenon-RAG-Game.svg?style=social)](https://github.com/dimzachar/Parthenon-RAG-Game/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/dimzachar/Parthenon-RAG-Game.svg?style=social)](https://github.com/dimzachar/Parthenon-RAG-Game/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/dimzachar/Parthenon-RAG-Game.svg)](https://github.com/dimzachar/Parthenon-RAG-Game/issues)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dimzachar/Parthenon-RAG-Game/issues)
+<br>
+<a href="https://parthenon-rag.vercel.app/"><img src="https://img.shields.io/badge/Website-Parthenon RAG-192A4E?color=blueviolet" alt="Parthenon RAG: A Gamified Web3 Learning Experience"></a>
+</div>
 
-</p>
 
 ## Overview
 
