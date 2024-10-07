@@ -404,17 +404,17 @@ For answers to commonly asked questions, please see the [FAQ document](faq.md).
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🎗️ Donations
+## 💖 Donations
 
 We accept donations to help sustain our project. If you would like to contribute, you can use the following options:
 
+<div align="center">
+
 [![Sponsor dimzachar](https://img.shields.io/badge/Sponsor-dimzachar-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/dimzachar)
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/techietea" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px">
-  </a>
-</p>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/techietea)
+
+</div>
 
 **Ethereum Address:**
 ```
