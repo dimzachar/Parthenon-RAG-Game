@@ -59,6 +59,7 @@ The core challenge is creating an end-to-end RAG application that seamlessly int
 9. [FAQ](#-faq)
 10. [Contributing](#-contributing)
 11. [License](#-license)
+11. [Donations](#-donations)
 
 ## 🏗️ Project Architecture & Technologies
 
@@ -402,6 +403,25 @@ For answers to commonly asked questions, please see the [FAQ document](faq.md).
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🎗️ Donations
+
+We accept donations to help sustain our project. If you would like to contribute, you can use the following options:
+
+[![Sponsor dimzachar](https://img.shields.io/badge/Sponsor-dimzachar-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/dimzachar)
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/techietea" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px">
+  </a>
+</p>
+
+**Ethereum Address:**
+```
+0xeB16AdBa798C64CFdb9A0A70C95e1231e4ADe124
+```
+
+Your generosity helps us continue improving Parthenon and creating more exciting features. Thank you for your support! 🙏
 
 ## 📬 Contact
 
