@@ -412,7 +412,9 @@ We accept donations to help sustain our project. If you would like to contribute
 
 [![Sponsor dimzachar](https://img.shields.io/badge/Sponsor-dimzachar-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/dimzachar)
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/techietea)
+<a href="https://www.buymeacoffee.com/techietea" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" >
+</a>
 
 </div>
 
